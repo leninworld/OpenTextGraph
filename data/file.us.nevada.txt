@@ -1,0 +1,132 @@
+#Battle Mountain
+
+    Battle Mountain General Hospital
+
+#Boulder City
+
+    Boulder City Hospital
+
+#Caliente
+
+    Grover C. Dils Medical Center
+
+#Carson City
+
+    Carson Tahoe Regional Healthcare
+    Carson Tahoe Regional Medical Center
+    Carson Tahoe Cancer Center
+    Carson Tahoe Specialty Medical Center
+    Sierra Surgery Hospital
+    Carson Tahoe Urgent Care
+    Carson Tahoe Continuing Care Hospital
+    Carson Rehabilitation Center
+
+#Elko
+
+    Northeastern Nevada Regional Hospital
+
+#Ely
+
+    William Bee Ririe Hospital
+
+#Fallon
+
+    Banner Churchill Community Hospital
+
+#Gardnerville
+
+    Carson Tahoe Minden Medical Center
+    Carson Valley Medical Center
+
+#Hawthorne
+
+    Mount Grant General Hospital
+
+#Henderson
+
+    Healthsouth Rehabilitation Hospital - Henderson
+    St. Rose Dominican Hospital - Rose de Lima Campus
+    St. Rose Dominican Hospital - Siena Campus
+
+#Incline Village
+
+    Incline Village Community Hospital
+
+#Las Vegas
+
+    Centennial Hills Hospital
+    Desert Springs Hospital
+    Desert Willow Treatment Center
+    Harmon Medical and Rehabilitation Hospital
+    Healthsouth Rehabilitation Hospital-Las Vegas
+    Horizon Specialty Hospital
+    Kindred Hospital Las Vegas, Desert Springs Campus
+    Kindred Hospital Las Vegas-Sahara
+    Lifecare Complex Care Hospital at Tenaya
+    Mountain View Hospital
+    Nevada Cancer Institute
+    Progressive Hospital
+    Rawson-Neal Hospital
+    Southern Hills Hospital & Medical Center
+    Southern Nevada Adult Mental Health Services
+    Spring Mountain Treatment Center
+    Spring Valley Hospital
+    St. Rose Dominican Hospital - San Martín Campus
+    Summerlin Hospital
+    Sunrise Hospital & Medical Center
+    University Medical Center
+    University Medical Center-Rancho Rehab
+    Valley Hospital Medical Center
+    Vegas Valley Rehabilitation Hospital
+    Veteran Affairs (VA) Hospital
+
+#Lovelock
+
+    Pershing General Hospital
+
+#Pahrump
+
+    Desert View Regional Medical Center
+
+#Mesquite
+
+    Mesa View Regional Hospital
+
+#Nellis AFB
+
+    Mike O'Callaghan Federal Hospital
+
+#North Las Vegas
+
+    North Vista Hospital
+    Veterans Affairs Southern Nevada Healthcare System
+
+#Owyhee
+
+    Owyhee Community Health Facility
+
+#Reno
+
+    Renown Health
+    Saint Mary's Regional Medical Center
+    Tahoe Pacific Hospitals
+    Veterans Affairs Sierra Nevada Health Care System
+    West Hills Hospital
+    Willow Springs Center
+
+#Sparks
+
+    Northern Nevada Adult Mental Health Services
+    Northern Nevada Medical Center
+
+#Tonopah
+
+    Nye Regional Medical Center
+
+#Winnemucca
+
+    Humboldt General Hospital
+
+#Yerington
+
+    South Lyon Medical Center

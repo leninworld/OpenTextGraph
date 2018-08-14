@@ -1,0 +1,5 @@
+inputFileName=/Users/lenin/Downloads/output.xmlfeed/out_xml_2_1.0-2.0_dynamic.txt
+outputFileName=/Users/lenin/Downloads/output.xmlfeed/success__2_1.0-2.0_past_dynamic.txt
+is_remove_duplicate=true
+interested_token_in_csv=2
+interested_token_in_csv.notes=Starts from 1

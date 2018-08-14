@@ -1,0 +1,154 @@
+#Almería
+
+#Cáduiz beach
+# 
+        Bonanza beach
+        Bajo de Guía beach
+        La Calzada/Piletas beach
+        La Jara beach
+        Montijo beach
+        Cruz del Mar beach
+        Las Canteeras beach
+        La Regla beach
+        Camarón/Tres piedras beach
+    	El Puerto de Santa María
+        Fuentebravía beach
+        Santa Catalina beach
+        El Buzo beach
+        La Calita/Caletha del agua beach
+        La Puntilla beach
+        Valdelagrana beach
+        Levante/Los Toruños beach
+        La Ballena beach
+        Aguadulce/Peginas beach
+        Punta Candor beach
+        Piedras Gordas beach
+        La Costilla beach
+        El Rompidillo beach
+        La Cachucha beach
+        Río San Pedro beach
+        La Caleta beach
+        Santa María del Mar beach
+        La Victoria beach
+        Cortadura beach
+        El Chato/Torregorda beach
+        La Anegada beach
+        Camposoto beach
+        El Castillo beach
+        Lavaculos/Sancti-Petri beach
+        Punta de Piedras beach
+        La Barrosa beach
+        El Puerco beach
+        Roche beach
+        Calas de Poniente beach
+        Cala del Aceite beach
+        Calas de Quinto y Camacho beach
+        Fuente del Gallo beach
+        La Fontanilla beach
+        Los Bateles beach
+        Castilnovo beach
+        El Palmar beach
+        Zahora beach
+        Calños de Meca/Cabo de Trafalgar beach
+        Hierbabuena beach
+        El Carmen beach
+        Cañillos/Pajares beach
+        Zahara de los Atunes beach
+        Atlanterra/Zahara de los Atunes beach
+        Los Alemanes beach
+        El Cañuelo beach
+        Bolonia beach
+        Valdevaqueros beach
+        Playa de Los Lances (North and South sections)
+        Chica beach
+        Cala Arenas
+        Getares/San García beach
+        El Rinconcillo beach
+        Palmones beach
+        Poniente beach
+        Levante/Santa Barbara beach
+        La Atunara/De Levante beach
+        El Burgo/Torrenueva beach
+        La Hacienda beach
+        La Alcaidesa beach
+        Guadarranque beach
+        Campamento/Puente Mayorga beach
+        Torrecarbonera beach
+        Guadalquitón beach
+        Sotogrande beach
+        Torreguadiaro beach
+        El Cabrero/Cala Taraje beach
+
+#Granada
+#Huelva
+#Málaga
+#Asturias
+        San Juan de Nieva Avilés
+        Xivares Carreño
+        Salinas Castrillón
+        La Griega Colunga
+        El Silencio Cudillero
+        San Lorenzo Gijón
+        Poniente
+        Santa María de Luanco
+        Xagó
+        Verdicio
+        Bañugues
+        Toró
+        Buelna
+        San Antolín
+        Poo
+        Barro
+        Gulpiyuri
+        Torimbia
+        Cuevas del Mar
+		Rodiles Beach
+        Aguilar Muros del Nalón
+        Peñarronda Tapia de Casariego
+        Playas de Luarca Valdés
+        Santa Ana Valdés
+        Cadavedo Valdés
+        Rodiles Villaviciosa
+        La Ñora Villaviciosa
+
+#Basque Country
+
+#Baleares
+
+#Cantabria
+
+    El Sardinero
+    Magdalena
+
+#Catalonia
+
+    Nova Icària Beach
+    mugala beach
+    Bogatell Beach
+    Mar Bella Beach
+    Nova Mar Bella Beach
+    Santa Sussana Beach
+    Lloret Beach
+    Fenals Beach
+    Aiguafreda Beach
+    Pals Beach
+
+#Galicia
+    	Porto Do Son
+        Arnela
+        Area Longa
+        O Dique
+        A Hierra
+        Sieras
+        Nadela
+    Ponzos' Beach
+    Saint Comba's Beach  
+    Saint George's Beach 
+    Esmelle's Beach
+    Donino's Beach 
+    O Vilar's Beach
+    The Frigate's Beach  
+    A Grana's Beach 
+    Caranza's Beach 
+#Murcia
+#Valencia

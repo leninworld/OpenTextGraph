@@ -1,0 +1,17 @@
+Folder=/Users/lenin/Downloads/crawleroutput/thehindu/
+is_Append_Failed_File=true
+is_Append_Success_File=true
+is_Append_outFile=true
+skip_is_english=true
+min_year=2014
+max_year=2015
+kick_start_pattern_url=2014/09/01
+kick_start_pattern_url_forFileName=2014/01/01
+kick_start_pattern_url_forFileName.remark=This format is appended to filename. CAUTION: When rerun, dont CHANGE.
+is_kick_start_pattern_url_true=true
+stop_pattern_for_url=2015/05/01
+stop_pattern_for_url_forFileName=2015/05/01
+stop_pattern_for_url_forFileName.remark=This format is appended to filename. CAUTION: When rerun, dont CHANGE.
+isDebug=true
+is_ignore_past_ran_success_file_for_skipping_url=false
+past_ran_success_file_for_skipping_url=thehindu.success.thehindu_web.txt

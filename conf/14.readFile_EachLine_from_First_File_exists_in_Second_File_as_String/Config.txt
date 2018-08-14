@@ -1,0 +1,7 @@
+first_File=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/rss.us.tt.merged.nodup_isRSS_true.SET.1.copy.txt
+delimiter_to_be_added_to_first_File=dummy
+second_File=/Users/lenin/Downloads/MyThunderbirdFeeds-Blogs & News Feeds.29.opml
+out_File_exists=/Users/lenin/Downloads/exists.txt
+is_Append_outFile_exists=true
+out_File_not_exists=/Users/lenin/Downloads/notexists.txt
+is_Append_outFile_not_exists=true

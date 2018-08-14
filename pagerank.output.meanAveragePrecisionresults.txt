@@ -1,0 +1,8 @@
+
+boko haram_auth_id_doc_id_queryTopicRelated <-> Prec:0.1 meanPrec:0.08388157894736842
+climate change_auth_id_doc_id_queryTopicRelated <-> Prec:0.05 meanPrec:0.0625
+crime_auth_id_doc_id_queryTopicRelated <-> Prec:0.05 meanPrec:0.2
+election_auth_id_doc_id_queryTopicRelated <-> Prec:0.05 meanPrec:0.08333333333333333
+india_auth_id_doc_id_queryTopicRelated <-> Prec:0.05 meanPrec:0.0625
+syria_auth_id_doc_id_queryTopicRelated <-> Prec:0.05 meanPrec:0.07692307692307693
+ ** avg_precision:0.05833333333333333 of size=6 mean_avg_precision(MAP):0.09485633153396311 of size=6

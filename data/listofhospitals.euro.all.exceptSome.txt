@@ -1,0 +1,2934 @@
+#junk
+note:: add the word hospital at end
+note: how - is handled, be sure that city name is not missed.
+#Albania
+
+    Hygeia Hospital Tirana Tirana
+    Universal Hospital Tirana Tirana
+    American Hospital Albania Tirana/Fier/Durrës
+    University Hospital Center, Tirana
+    University Maternity Hospital Tirana
+    Central Trauma Hospital Tirana
+    German Hospital Tirana, Tirana
+    Durrës International Hospital, Durrës
+    Amavita Hospital Tirana Tirana
+
+#Andorra
+#Armenia
+
+    Anti-Tuberculosis Dispensary
+    Arabkir Joint Medical Center
+    Armenia Republican Medical Center
+    Armenicum Clinical Center
+    Davit Anhaght Medical Center
+    Erebuni Medical Center
+    Gratsia International Rehabilitation Center of Armenian Red Cross Society
+    Gregory of Narek Medical Center
+    Izmirlian Medical Center
+    Kanaker-Zeytun Medical Center
+    Malatia Medical Center
+    Mkhitar Heratsi Hospital Complex №1
+    Republican Pediatric Rehabilitation Center
+    Research Center of Maternal and Child Health Protection (formerly; Markarian Hospital)
+    Institute of Surgery Mickaelyan
+    Nairi Medical Center
+    Nork-Marash Medical Center
+    New-Med Medical Center
+    Scientific Center of Traumatology and Orthopaedics
+    Scientific Research Institue of Cardiology
+    Shengavit Medical Center
+    Saint Astvatsatsin Maternity Hospital
+    Saint Gregory the Illuminator Medical Center
+    Sourb Astvatsamayr Medical Center
+    Vladimir Avagyan Medical Center
+    Yerevan Endocrinological Dispensary
+    Aparan Medical Center
+
+
+    Ashtarak Medical Center
+
+    Oshakan Pediatric Rehabilitation Center
+
+    Talin Medical Center
+
+    Tsaghkahovit Medical Center
+
+ 
+    Arabkir Medical Center, Ararat branch
+    Artashat Medical Center
+ 
+    Masis Medical Center
+ 
+    Vedi Medical Center
+    Vedi Maternity Hospital
+ 
+
+    Armavir Medical Center
+ 
+
+    Metsamor Medical Center
+ 
+    Vagharshapat Hospital
+    Vagharshapat Maternity Hospital
+ 
+    Gavar Medical Centre
+ 
+
+    Martuni Medical Centre
+    Martuni Maternity Hospital
+ 
+
+    Sevan Hospital
+    Sevan Psychiatric Hospital
+
+ 
+    Vardenis Hospital
+ 
+
+    Abovyan Medical Centre
+    Abovyan Maternity Hospital
+    Republican Anti-Tuberculosis Dispensary
+ 
+    Neurosis Republican Clinical Hospital
+ 
+    Alaverdi Medical Center
+ 
+    Spitak Medical Center
+ 
+    Stepanavan Medical Center
+ 
+
+    Tashir Medical Center
+ 
+    Lori Provincial Psychoneurological Dispensary
+    Vanadzor Hospital for Infections
+    Vanadzor Medical Center
+ 
+    ARS Akhourian Mother and Child Health Center
+    Akhuryan Medical Center
+ 
+    Artik Medical Center
+
+    Tiramayr Narek Hospital
+
+    Berlin Hospital
+    Gyumri Maternity Hospital
+    Gyumri Medical Center
+    Gyumri Oncological Dispensary
+    Mother's and Child's Austrian Hospital
+    White Hospital
+
+    Goris Medical Center
+ 
+    Kapan Medical Center
+    Syunik Provincial Anti-Tuverculosis Dispensary
+    Syunik Provincial Psychoneurological Dispensary
+ 
+    Meghri Territorial Medical Center
+ 
+    Sisian Medical Center
+    Kajaran Medical Center
+    Berd Medical Center
+    Dilijan Medical Center
+    Ijevan Medical Center
+    Noyemberyan Medical Center
+    Vayk Medical Center
+    Yegheknadzor Medical Center
+#Austria
+    Vienna General Hospital (Allgemeines Krankenhaus, AKH)
+    Privatklinik Dobling
+    Privatklinik Josephstadt
+    Wiener Privatklinik
+    Stem Cell Therapy Group Vienna
+    Steinhof
+    Wilhelminenspital
+    Hanuschkrankenhaus
+    Rudolfinerhaus
+    Sozialmedizinisches Zentrum Ost
+    Lorenz-Böhler-Krankenhaus
+    Unfallkrankenhaus Meidling
+
+    Landeskrankenhaus (LKH) - Universitätsklinikum Graz
+    Landeskrankenhaus Graz West
+    Landesnervenklinik Sigmund Freud
+    Krankenhaus der Barmherzigen Brüder Eggenberg
+    Krankenhaus der Barmherzigen Brüder Graz
+    Krankenhaus der Elisabethinen
+    Unfallkrankenhaus Graz
+    Geriatrisches Krankenhaus der Stadt Graz
+
+    Allgemein öffentliches Krankenhaus der Stadt Linz (AKH Linz) - Upper Austria
+    Unfallkrankenhaus Linz (UKH Linz)
+    Allgemein öffentliches Krankenhaus der Elisabethinen
+    Krankenhaus der Barmherzigen Schwestern
+    Konventhospital Barmherzigen Brüder Linz
+    Landesfrauen- und -kinderklinik (LKKF)
+    Landesnervenklinik Wagner Jauregg
+ 
+    General Hospital Kirchdorf - Kirchdorf
+    Krankenhaus St.Josef - Braunau am Inn
+    Moorheilbad - Harbach (Austria)
+    Privatklinik Althofen - Carinthia
+    Landeskrankenhaus Vöcklabruck
+    Universitätsklinik Innsbruck
+    Landeskrankenhaus Zwettl - Zwettl
+ 
+#Azerbaijan
+#Belarus
+#Belgium
+    AZ Sint Jan - Brugge
+    AZ Sint-Lucas - Brugge
+    Sint Jozefkliniek - Izegem
+    AZ Groeninge - Kortrijk
+    O.L.V. Lourdes - Waregem
+    AZ Damiaan - Oostende
+    AZ Koningin Fabiola - Blankenberge
+    AZ OLV Ter Linden - Knokke-Heist
+    Onze-Lieve-Vrouweziekenhuis (Aalst-Asse-Ninove) - Aalst
+    ASZ Aalst - Aalst
+    AZ Jan Palfijn Gent - Ghent
+    AZ Maria Middelares Gent - Ghent
+    AZ Sint-Lucas Gent - Ghent
+    UZ Gent - Ghent
+    Heilig-Hartziekenhuis - Roeselare
+    AZ Nikolaas - Sint-Niklaas
+    AZ Koningin Elisabeth - Wetteren
+    Monica Hospital Network - Antwerp
+        Eeuwfeestkliniek - Antwerp
+        Onze-Lieve-Vrouw Middelares (Deurne) - Antwerp
+    Gasthuiszusters van Antwerpen (GVA Hospital Network) - Antwerp
+        Sint Vincentius - Antwerp
+        Sint Augustinus (Wilrijk)- Antwerp
+    ZNA Hospital Network - Antwerp
+        ZNA Hoge Beuken (Hoboken) - Antwerp
+        ZNA Joostens (Zoersel) - Antwerp
+        ZNA Jan Palfijn (Merksem) - Antwerp
+        ZNA Koningin Paola Kinderziekenhuis - Antwerp
+        ZNA Medisch Centrum Regatta (Linkeroever) - Antwerp
+        ZNA Middelheim - Antwerp
+        ZNA Sint-Elisabeth - Antwerp
+        ZNA Sint-Erasmus (Borgerhout) - Antwerp
+        ZNA Stuivenberg - Antwerp
+        ZNA Universitaire Kinder- en Jeugdpsychiatrie (UKJA) - Antwerp
+    UZ Antwerpen (Edegem) - Antwerp
+    Imelda ziekenhuis - Bonheiden
+    Sint Jozefkliniek - Bornem
+    KLINA ziekenhuis - Brasschaat
+    Sint Maarten - Mechelen
+    AZ Turnhout - Turnhout
+        Campus Sint-Elisabeth - Turnhout
+        Campus Sint-Jozef - Turnhout
+    AZ Jan Portaels - Vilvoorde
+    AZ Sint-Maria - Halle
+    Heilig Hart Leuven - Leuven
+    UZ Leuven - Leuven
+    CAZ Hospital Network Hasselt
+        St. Salvator Hasselt
+    Virga Jesseziekenhuis Hasselt
+    St. Ursula (Herk-de-Stad)
+    St. Francicus (Heusden-Zolder)
+    Mariaziekenhuis Noord-Limburg - (Overpelt)
+    CHU Brugmann - Brussels
+    CHU Saint-Pierre - Brussels
+    Clinique Saint Jean° - Brussels
+    Cliniques Universitaires Saint-Luc° - Woluwe-Saint-Lambert (university hospital of Université catholique de Louvain)
+    Hôpital Erasme° - Anderlecht (university hospital of Université libre de Bruxelles)
+    Hôpital Saint Elisabeth - Brussels
+    Hôpital Saint Michel - (Brussels)
+    Institut Jules Bordet - Brussels
+    IRIS Hospital Network - Brussels
+    Queen Fabiola Children's University Hospital - Brussels
+    UZ Brussel - Jette (university hospital of Vrije Universiteit Brussel)
+    CHU de Charleroi - (Charleroi)
+    Grand Hôpital de Charleroi - (Charleroi)
+    Centre de Santé des Fagnes - Chimay
+    Centre Hospitalier Hornu-Frameries - Frameries & Hornu
+    Clinique Notre-Dame de Grâce - Gosselies
+    Centre Hospitalier de Jolimont-Lobbes - La Louvière & Lobbes
+    CHU Tivoli - (La Louvière)
+    Hôpital Ambroise Paré - Mons
+    Centre Hospitalier Régional - Mons & Boussu
+    CH de Mouscron - Mouscron
+    Centre Hospitalier Régional Haute-Senne- Soignies & Braine-le-Comte
+    CHWAPI (Centre Hospitalier de Wallonie picarde) - Tournai
+    Clinique Notre-Dame - Tournai
+    Centre Hospitalier de Dinant - Dinant
+    CHR de Namur - Namur
+    CHU de Liège - Liège
+    Centre Hospitalier Peltzer La Tourelle - Verviers
+    Centre Hospitalier de l'Ardenne - Saint-Ode
+#Bosnia and Herzegovina
+    University Clinical Center of Tuzla, Tuzla
+    Clinical Center University of Sarajevo, Sarajevo
+    Clinical Hospital Mostar, Mostar
+    Dr Irfan Ljubijankić Hospital, Bihać
+    Orašje County Hospital, Orašje
+    Zenica County Hospital, Zenica
+    Goražde County Hospital, Goražde
+    Fra Mato Nikolić Hospital, Nova Bila
+    Travnik County Hospital, Travnik
+    Fra Mihovil Sučić Hospital, Livno
+    Clinical Hospital Paprikovac, Banja Luka
+
+#Bulgaria
+    Tokuda Hospital Sofia
+    Aleksandrovska University Hospital
+    Lozenetz Hospital
+    Pirogov Hospital
+    Queen Giovanna Hospital
+    St. Ekaterina Hospital
+    Second Multiprofile Hospital for Active Treatment - Sofia JSC - Sofia
+    National Oncology Centre - Sofia
+    Private Hospital Akta Medika, Sevlievo
+#Croatia
+    KBC Osijek in Osijek
+    KBC Rijeka in Rijeka
+    KBC Sisters of Charity in Zagreb
+    KBC Split in Split
+    KBC Zagreb in Zagreb
+    KB Merkur in Zagreb
+    KB Sveti Duh in Zagreb
+    KB Dubrava in Zagreb
+    OB Bjelovar in Bjelovar
+    ŽB Čakovec in Čakovec
+    OB Dubrovnik in Dubrovnik
+    OB Gospić in Gospić
+    OB Karlovac in Karlovac
+    OB Croatian Pride in Knin
+    OB Dr. Tomislav Bardek in Koprivnica
+    OŽB Našice in Našice
+    OB Nova Gradiška in Nova Gradiška
+    OB Ogulin in Ogulin
+    OŽB Pakrac in Pakrac
+    OŽB Požega in Požega
+    OB Pula in Pula
+    OB Dr. Ivo Pedišić in Sisak
+    OB Dr. Josip Benčević in Slavonski Brod
+    OB Šibenik-Knin County in Šibenik
+    OB Varaždin in Varaždin
+    OB Vinkovci in Vinkovci
+    OB Virovitica in Virovitica
+    OB Vukovar in Vukovar
+    OB Zabok in Zabok
+    OB Zadar in Zadar
+#Cyprus
+    Nicosia New General Hospital
+    Nicosia Old General Hospital
+    Makarios Paediatric Hospital, Nicosia
+    Limassol New General Hospital
+    Limassol Old General Hospital
+    Larnaca New General Hospital
+    Larnaca Old General Hospital
+    Paphos General Hospital
+    Near East University Hospital
+    Mediterranean Hospital of Cyprus, Limassol
+    Nicosia Polyclinic, Nicosia
+    Aretaeio Hospital, Nicosia
+    Apollonion Private Hospital, Nicosia
+    Hippocrateion Private Hospital, Nicosia
+    American Heart Institute, Nicosia
+    Ygia Polyclinic, Limassol
+    Saint Raphael Private Hospital, Larnaca
+    Iasis Hospital, Paphos
+    Agros
+    Akaki
+    Athienou
+    Avdimou
+    Dali
+    Drouseia
+    Evrychou
+    Fyti
+    Kampos
+    Klirou
+    Kofinou
+    Kyperounta
+    Laneia
+    Lefkara
+    Omodos
+    Ormidia
+    Palaiochori
+    Panagia
+    Paralimni
+    Pedoulas
+    Platres
+    Polis
+    Pomos
+    Pyrgos
+    Salamiou
+    Tersefonou
+#the Czech Republic
+University Hospital Bohunice 	Brno
+Canadian Medical Care 	Prague
+St. Annes Hospital, Pekarska 	Brno 	
+Children's Hospital, Cernopolni 	Prague 	
+Maternity Hospital, Obilni Trh 	Brno 	
+Bulovka University Hospital 	Prague 	
+Charles University Hospital 	Pilsen 	
+General Hospital 	Jablonec nad Nisou
+Na Homolce Hospital 	Prague 	
+CENTROMED a.s. 	Prague 	
+Gerontology Center 	Prague 	
+Eye Clinic Lexum 	Prague 	
+Teaching Hospital Královské Vinohrady 	Prague 	
+Teaching Hospital Motol 	Prague 	
+General Teaching Hospital 	Prague 	
+Plastic Surgery Hospital - Berkova Street 	Brno 	
+Psychiatric Hospital Bohnice 	Prague 	
+Prague Psychiatric Center 	Prague 	
+Psychiatric Clinic in Prague 	Prague 	
+The Institute of Experimental Medicine of the ASCR 	Prague 	
+The Institute of Hematology and Blood Transfusion 	Prague 	
+The Institute of Rheumatology Prague 	Prague 	
+The Institute of Clinical and Experimental Medicine 	Prague 	
+Central Military Hospital Prague 	Prague 	
+University Hospital in Olomouc 	Olomouc 	
+Military Hospital Olomouc 	Olomouc 	
+Šternberk Hospital 	Šternberk 	
+Hospital of Prostějov 	Prostějov 	
+Masaryk Regional Hospital 	Ústí nad Labem
+Regional Hospital 	Benesov 	
+Regional Hospital 	Mlada Boleslav 	
+Regional Hospital 	Kladno 	
+Nymburk Hospital 	Nymburk
+Chomutov Hospital 	Chomutov 	
+Most Hospital 	Most 	
+Teplice Hospital 	Teplice 	
+Děčín Hospital 	Děčín 	
+Kolín Hospital 	Kolín
+Městec Králové Hospital 	Městec Králové
+Kutná Hora Hospital 	Kutná Hora
+Regional Hospital Liberec 	Liberec
+Charles University Teaching Hospital 	Hradec Králové
+Karlovy Vary Regional Hospital 	Karlovy Vary
+České Budějovice Regional Hospital 	České Budějovice
+Český Krumlov Hospital 	Český Krumlov
+Jindřichův Hradec Hospital 	Jindřichův Hradec
+Písek Hospital 	Písek
+Strakonice Hospital 	Strakonice
+Tábor Hospital 	Tábor
+Slaný Hospital 	Slaný
+Bílina Hospital 	Bílina
+#Denmark
+        Amager Hospital on the island of Amager, Copenhagen
+        Bispebjerg Hospital in Copenhagen
+        Bornholms Hospital on the island of Bornholm
+        Frederiksberg Hospital in Frederiksberg
+        Gentofte Hospital in Gentofte
+        Glostrup Hospital in Glostrup
+        Herlev Hospital in Herlev
+        Hvidovre Hospital in Hvidovre
+        Nordsjællands Hospital in Esbønderup, Frederikssund, Hillerød, Elsinore, and Hørsholm
+        Privathospitalet Danmark in Charlottenlund
+        Region Hovedstadens Psykiatri - psychiatric hospital
+        Rigshospitalet in Copenhagen
+        Sct. Hans Hospital in Roskilde
+        Fakse Sygehus in Fakse
+        Holbæk Sygehus in Holbæk
+        Kalundborg Sygehus in Kalundborg
+        Korsør Sygehus in Korsør
+        Købe Sygehus in Køge
+        Nakskov Sygehus in Nakskov
+        Nykøbing Falster Sygehus in Nykøbing Falster
+        Nykøbing Sjællands Sygehus in Nykøbing Sjælland
+        Næstved Sygehus in Næstved
+        Ringsted Sygehus in Ringsted
+        Roskilde Sygehus in Roskilde
+        Slagelse Sygehus in Slagelse
+        Augustenborg Psykiatrisk Hospital in Augustenborg
+        Brørup Hospital in Brørup
+        Esbjerg Hospital in Esbjerg
+        Fredericia Hospital in Fredericia
+        Fåborg Hospital in Fåborg
+        Give Hospital in Give
+        Grindsted Hospital in Grindsted
+        Haderslev Hospital in Haderslev
+        Kolding Hospital in Kolding
+        Middelfart Hospital in Middelfart
+        Nyborg Hospital in Nyborg
+        Odense Universitetshospital in Odense
+        Ribe Psykiatrisk Hospital in Ribe
+        Ringe Hospital in Ringe
+        Svendborg Hospital in Svendborg
+        Sønderborg Hospital in Sønderborg
+        Tønder Hospital in Tønder
+        Vejle Hospital in Vejle
+        Ærøskøbing Hospital on the island of Ærø
+        Aabenraa Hospital in Aabenraa
+        Regionshospitalet Brædstrup in Brædstrup
+        Regionshospitalet Grenaa in Grenaa
+        Regionshospitalet Hammel Neurocenter in Hammel
+        Regionshospitalet Herning in Herning
+        Regionshospitalet Holstebro in Holstebro
+        Regionshospitalet Horsens in Horsens
+        Regionshospitalet Kjellerup in Kjellerup
+        Regionshospitalet Lemvig in Lemvig
+        Regionshospitalet Odder in Odder
+        Regionshospitalet Randers in Randers
+        Regionshospitalet Ringkøbing in Ringkøbing
+        Regionshospitalet Samsø on the island of Samsø
+        Regionshospitalet Silkeborg in Silkeborg
+        Regionshospitalet Skanderborg Sundhedscenter in Skanderborg
+        Regionshospitalet Skive in Skive
+        Regionshospitalet Tarm in Tarm
+        Regionshospitalet Viborg in Viborg
+        Aarhus Universitetshospital Skejby in Aarhus
+        Århus Universitetshospital Risskov in Århus
+        Aarhus University Hospital in Aarhus
+        Aalborg Sygehus in Aalborg, Dronninglund, and Brovst
+        Sygehus Vendsyssel in Hjørring, Frederikshavn, and Brønderslev
+            Sundhedscenter Skagen in Skagen
+        Sygehus Himmerland in Farsø, Hobro, and Terndrup
+        Sygehus Thy-Mors in Thisted and Nykøbing Jylland
+        Allerød Privathospital in Allerød
+        Dan Clinic in Beder
+        Erichsens Privathospital in Klampenborg
+        Esbjerg Privathospital in Esbjerg
+        Aleris-Hamlet Hospitaler in Frederiksberg, Aalborg, Århus and Herning
+        Hellerup Privathospital in Hellerup
+        Ciconia Århus Privathospital in Højbjerg
+        Privathospitalet Kollund in Kollund
+        Absalon Privatklinik in Copenhagen
+        Nygart Privathospital in Copenhagen
+        Parkens Privathospital in Copenhagen
+        Privathospitalet Mølholm in Herlev, Odense, Risskov, Vejle, and Århus
+        Privathospitalet Hunderup in Odense
+        Privathospitalet Skørping in Skørping
+        HjerteCenter Varde in Varde
+        Dagkirurgisk Hospital Viborg in Viborg
+        Søllerød Privathospital in Virum
+        Aros Privathospital in Århus
+        Grymer Privathospital in Århus
+#Estonia
+    East Tallinn Central Hospital, Tallinn
+    Elva Hospital, Elva
+    Haapsalu Neurological Rehabilitation Center, Haapsalu
+    Hiiu Oncology Center, Tallinn
+    Ida-Viru Central Hospital, Kohtla-Järve
+    Jõgeva Hospital, Jõgeva
+    Jõhvi Hospital, Jõhvi
+    Järvamaa Hospital, Paide
+    Kallavere Hospital, Maardu
+    Keila Hospital, Keila
+    Kuressaare Hospital, Kuressaare
+    Läänemaa Hospital, Haapsalu
+    North Estonia Medical Centre (Mustamäe Hospital), Tallinn
+    Narva Hospital, Narva
+    North Estonian Blood Center, Tallinn
+    Pelgulinn Maternity Home, Tallinn
+    Põlva Hospital, Põlva
+    Pärnu Hospital, Pärnu
+    Rakvere Hospital, Rakvere
+    Rapla County Hospital, Rapla
+    Räpina Hospital, Räpina
+    Skin and Venereal Disease Center, Tallinn
+    South Estonian Hospital, Võru
+    Tallinn Children's Hospital, Tallinn
+    Tapa Hospital, Tapa
+    Tartu University Hospital (Maarjamõisa Hospital), Tartu
+    Valga Hospital, Valga
+    Viimsi Hospital, Haabneeme
+    Viljandi Hospital, Viljandi
+    West Tallinn Central Hospital, Tallinn
+    Wismari Hospital, Tallinn
+#Finland
+    Helsinki University Hospital, Helsinki
+    Tampere University Hospital, Tampere
+    Kuopio University Hospital, Kuopio
+    Turku University Hospital, Turku
+    Oulu University Hospital, Oulu
+    Kymenlaakso Central Hospital, Kotka
+    South Karelia Central Hospital, Lappeenranta
+    Päijänne Tavastia Central Hospital, Lahti
+    Central Hospital of Tavastia, Hämeenlinna
+    Satakunta Central Hospital, Pori
+    Vaasa Central Hospital, Vaasa
+    Southern Ostrobothnia Central Hospital, Seinäjoki
+    Central Hospital of Keski-Pohjanmaa, Kokkola
+    Central Finland Central Hospital, Jyväskylä
+    Mikkeli Central Hospital, Mikkeli
+    Central Hospital of Savonlinna, Savonlinna
+    North Karelia Central Hospital, Joensuu
+    Lapland Central Hospital, Rovaniemi
+    Central Hospital of Kainuu, Kajaani
+    Åland Central Hospital, Mariehamn, Åland
+    Central Hospital of Länsi-Pohja, Kemi
+    Aurora Hospital
+    Children’s Castle
+    Children’s Hospital
+    Department of Oncology
+    Eye and Ear Hospital
+    Herttoniemi Hospital
+    Kätilöopisto Maternity Hospital
+    Meilahti Tower Hospital
+    Meilahti Triangle Hospital
+    Psychiatrycenter
+    Skin and Allergy Hospital
+    Surgical Hospital
+    Töölö Hospital
+    Women's Hospital
+    Jorvi Hospital
+    Peijas Hospital
+    Hyvinkää Hospital
+    Kellokoski Hospital
+    Lohja Hospital
+    Länsi-Uusimaa Hospital
+    Paloniemi Hospital
+    Porvoo Hospital
+    Tammiharju Hospital
+    Women's Hospital
+    Halikko Hospital, Halikko
+    Loimaa Regional Hospital, Loimaa
+    Salo Regional Hospital, Salo
+    Vakka-Suomi Hospital, Uusikaupunki
+    Åboland/Turunmaa Hospital, Turku
+    Parikkala Regional Hospital, Parikkala
+    Armila Hospital, Lappeenranta
+    Honkaharju Hospital, Imatra
+    Kuusankoski Hospital, Kuusankoski
+    Kuusankoski Regional Hospital, Kouvola
+    Riihimäki Regional Hospital, Riihimäki
+    Forssa Regional Hospital, Forssa
+    Harjavalta Hospital, Harjavalta
+    Rauma Regional Hospital, Rauma
+    Satalinna Hospital, Harjavalta
+    Selkämeri Regional Hospital, Kristiinankaupunki
+    Ähtäri Regional Hospital, Ähtäri
+    Kinkomaa Hospital, Jyväskylä
+    Sädesairaala Hospital, Jyväskylä
+    Juurikkaniemi Hospital, Keuruu
+    Kangasvuori Hospital, Jyväskylä
+    Kaivanto Hospital, Kangasala
+    Mänttä Hospital, Mänttä
+    Pitkäniemi Hospital, Nokia
+    Vammala Regional Hospital, Sastamala
+    Valkeakosken Regional Hospital, Valkeakoski
+    Moisio Hospital, Mikkeli
+    Pieksämäki Regional Hospital, Pieksämäki
+    Kotilahti Hospital, Joensuu
+    Julkula Hospital, Kuopio
+    Alava Hospital, Kuopio
+    Tarina Hospital, Siilinjärvi
+    Iisalmi Regional Hospital, Iisalmi
+    Oulaskangas Hospital, Oulainen
+    Visala Hospital, Ylivieska
+    Muurola Hospital, Rovaniemi
+    Keropudas Hospital, Tornio
+    Grelsby sjukhus, Finström, Åland
+    Eira Hospital, Helsinki
+    Diacor, Helsinki
+    Pulssi, Turku
+    Dextra, Helsinki
+    Helsinki Hospital, Helsinki
+    Klinika Helena, Savonlinna
+#France
+    Hôtel-Dieu de Paris Paris
+    Beaujon Hospital, Clichy
+    Centre Hospitalier Générale (CHG), Albi
+    Central Hospital, Alès
+    Clinique Boneffon, Alès
+    Amiens University Hospital, Amiens
+    Angers University Hospital, Angers
+    Central Hospital Bagnols-sur-Cèze
+    Jean Minjoz Hospital, Besançon
+    Centre hospitalier universitaire de Caen, Caen
+    Hôpital Les Broussailles, Cannes
+    Hôpital d'instruction des armées Percy, Clamart
+    Grenoble University Hospital, Grenoble
+    Guingamp Hospital, Guingamp
+    Limoges University Hospital, Limoges
+    Claude Bernard University Hospital, Lyon
+    Hospital of Montpellier
+    Hospital Lapeyronie, Montpellier
+    Hospital Paris
+    hospital Paris
+    Hospital Saint Eloi, Montpellier
+    Psychiatric Hospital Lacolombière, Montpellier
+    University Hospital of Montpellier
+    Henri Poincaré University Hospital, Nancy
+    Nantes University Hospital, Nantes
+    Nice University Hospital, Nice
+    University Hospital CAREMO, Nîmes
+    Polyclinique du grand Sud, Nîmes
+    Clinique les Franciscaines, Nîmes
+    American Hospital of Paris, Paris
+    Broussais University Hospital, Paris
+    Hôpital Européen Georges-Pompidou, Paris
+    Bicêtre Hospital, Paris
+    Institution Nationale des Invalides, Paris
+    Necker-Enfants Malades Hospital, Paris
+    Pitié-Salpêtrière Hospital, Paris
+    Saint-Antoine University Hospital, Paris
+    Val-de-Grâce Military Hospital, Paris
+    CHU, Poitiers
+    René Dubos Hospital, Pontoise
+    Reims University Hospital, Reims
+    Rennes University Hospital, Rennes
+    Rouen University Hospital, Rouen
+    Hôpital de La Grave, Toulouse
+    Tourcoing Hospital, Tourcoing
+    CHS, Selestat
+#Georgia (country)
+#Germany
+    Charité - Universitätsmedizin Berlin
+    University Hospitals of the Ruhr-University of Bochum, Bochum, Herne and Bad Oeynhausen
+        Bergmannsheil University Hospitals, Bochum
+    University Medical Center Erlangen
+    University Medical Center Freiburg
+    University hospital Giessen und Marburg
+    University Medical Center Hamburg-Eppendorf
+    University Hospital Heidelberg
+    Klinikum Großhadern
+    Rechts der Isar Hospital
+    University Hospital Schleswig-Holstein (University of Lübeck and University of Kiel)
+    Augsburg Hospita
+#Greece
+    AHEPA University Hospital - Thessaloniki
+    Agios Andreas Hospital - Patras
+    Agios Dimitrios Hospital - Thessaloniki
+    Agios Nikolaos General Hospital
+    Agios Panteleimonas Hospital - Nikaia
+    Agia Sofia Children's Hospital - Athens
+    Agios Savvas Anti-Cancer Hospital - Athens
+    Aigio General Hospital
+    Alexandra Hospital - Athens
+    Alexandroupoli University Hospital
+    Amalia Fleming General Hospital - Melissia
+    Amaliada General Hospital
+    Amfissa General Hospital
+    Argos General Hospital
+    Asclepeion Hospital - Voula, Athens
+    Attikon General Hospital - Chaidari
+    Chania General Hospital
+    Chalkida General Hospital
+    Corfu General Hospital
+    Corinth General Hospital
+    Daphni Psychiatric Hospital - Chaidari
+    Dromokaiteio Psychiatric Hospital - Chaidari
+    Elena Gynecological Hospital - Athens
+    Eginition Hospital - Athens
+    Evangelismos Hospital - Athens
+    Evgenidion Hospital - Athens
+    Georgios Gennimatas General State Hospital - Athens
+    Interbalkan Medical Center - Thessaloniki
+    Ioannina "Chatzikostas" Hospital
+    Ioannina University Hospital
+    Ippokrateion Hospital - Athens
+    Ippokrateion General Hospital - Thessaloniki
+    Karditsa General Hospital
+    Kastoria General Hospital
+    KAT Accident Hospital - Kifisia
+    Kavala General Hospital
+    Kozani "Mamatseio" General Hospital
+    Komotini "Sismanogleio" General Hospital Kos General Hospital of Kos
+    Korgialeneio Benakeio Hellenic Red Cross Hospital - Athens
+    Laiko General Hospital - Athens
+    Lamia General Hospital
+    Larissa General Hospital
+    Larissa University Hospital
+    Magoula Hospital - Magoula, north of Eleusis
+    Metaxa Anti-Cancer Hospital - Piraeus
+    Metropolitan Hospital - Athens
+    PAGNI Hospital - Heraklio
+    Panagiotis & Aglaia Kyriakou Children's Hospital - Athens
+    Papanikolaou General Hospital - Thessaloniki
+    Panikarion General Hospital - Ikaria
+    Pammakaristos General Hospital - Athens
+    Papageorgiou General Hospital - Thessaloniki
+    Patisia General Hospital - Athens
+    Penteli Children's Hospital
+    Polyklinikh General Hospital - Athens
+    Pyrgos General Hospital
+    Rethymno General Hospital
+    General University Hospital of Patras - Rio, next to the University of Patras
+    Rhodes General Hospital
+    St. Luke's Hospital (Panorama, Thessaloniki), Panorama, Thessaloniki
+    Serres General Hospital
+    Sotiria Thoracic Diseases Hospital - Athens
+    Sparta General Hospital
+    Sismanogleio General Hospital - Vrilissia
+    Sygrou Dermatological Hospital - Athens
+    Thriasseio Western Attica General Hospital - Magoula
+    Trikala General Hospital
+    Tripoli General Hospital
+    Tzanio Hospital - Piraeus
+    Venizeleio Hospital - Heraklio
+    Volos "Achilopouleio" General Hospital
+    Zakynthos General Hospital
+#Hungary
+Állami Egészségügyi Központ - Magyar Honvédség Központi Kórháza 	State Medical Centre - Central Hospital of the Hungarian Homeland Defence Forces[1]
+Árpád Kórház 	Árpád Hospital
+Bajcsy-Zsilinszky Kórház 	Bajcsy-Zsilinszky Hospital
+Bethesda Gyermekkórház 	Bethesda Children's Hospital 	Church
+Gottsegen György Országos Kardiológia Intézet 	György Gottsegen National Cardiological Institute
+Heim Pál Gyermekkórház 	Pál Heim Chlidren's Hospital
+Honvédkórház 	"Homeland Defence" Hospitals[1]
+Károlyi Kórház 	Károlyi Hospital
+Jáhn Ferenc Kórház 	Ferenc Jáhn Hospital
+MÁV Kórház 	HSR Hospitals[1]
+Merényi Gusztáv Kórház 	Gusztáv Merényi Kórház
+Nyírő Gyula Kórház - Országos Pszichiátriai és Addiktológiai Intézet 	Gyula Nyírő Hospital - National Psychiatrical and Addictological Institute
+Országos Korányi Tbc és Pulmonológiai Intézet 	National Korányi Tbc and Pulmonological Institute
+Országos Onkológiai Intézet 	National Oncological Institute
+Országos Orvosi Rehabilitációs Intézet 	National Medical Rehabilitative Institute
+Országos Sportegészségügyi Intézet (Sportkórház) 	National Sports Medical Institute (Sports Hospital)
+Péterfy Sándor utcai Kórház és Baleseti Központ 	Sándor Péterfy street Hospital and Casualty Centre
+Szent Ferenc Kórház 	Saint Francis Hospital 	Church
+Szent Imre Kórház 	Saint Emeric Hospital
+Szent István Kórház 	Saint Stephen Hospital
+Szent János Kórház 	Saint John Hospital
+Szent László Kórház 	Saint Ladislaus Hospital
+Szent Margit Kórház 	Saint Margaret Hospital
+Szent Rókus Kórház 	Saint Roch Hospital
+SE Klinikák 	SU Clinics
+Uzsoki Kórház 	Uzsoki Hospital
+Cegléd 	Toldy Ferenc Kórház 	Ferenc Toldy Hospital
+Kistarcsa 	Flór Ferenc Kórház 	Ferenc Flór Hospital
+Telki 	Telki Kórház 	Telki Hospital 	
+Vác 	Jávorszky Ödön Kórház 	Ödön Jávorszky Hospital
+Győr 	Petz Aladár Kórház 	Aladár Petz Hospital
+Hévíz 	Szent András Reumakórház 	Saint Andrew Rheumatics Hospital
+Keszthely 	Városi Kórház 	Municipal Hospital
+Körmend 	Batthyány-Strattmann László Kórház 	László Batthyány-Strattmann Hospital
+Mosonmagyaróvár 	Karolina Kórház 	Karolina Hospital
+Nagykanizsa 	Városi Kórház 	Municipal Hospital
+Sopron 	Erzsébet Kórház 	Erzsébet Hospital
+Szentgotthárd 	Megyei Rehabilitációs Kórház 	County Rehabilitative Hospital
+Szombathely 	Markusovszky Lajos Kórház 	Lajos Markusovszky Hospital
+Zalaegerszeg 	Zala Megyei Kórház 	Zala County Hospital
+Ajka 	Városi Kórház 	Municipal Hospital
+Balatonfüred 	Állami Szívkórház 	State Heart Hospital
+Keszthely 	Városi Kórház 	Municipal Hospital
+Dunaújváros 	Szent Pantaleon Kórház 	Saint Pantaleon Hospital
+Esztergom 	Vaszary Kolos Kórház 	Kolos Vaszary Hospital
+Komárom 	Selye János Kórház 	János Selye Hospital
+Mór 	Városi Kórház 	Municipal Hospital
+Pápa 	Esterházy Károly Kórház 	Károly Esterházy Hospital
+Székesfehérvár 	Szent György Kórház 	Saint George Hospital
+Tapolca 	Deák Jenő Kórház 	Jenő Deák Hospital
+Tatabánya 	Szent Borbála Kórház 	Saint Barbara Hospital
+Veszprém 	Cholnoky Ferenc Kórház 	Ferenc Cholnoky Hospital
+Zirc 	Városi Erzsébet Kórház 	Municipal Erzsébet Hospital
+Dombóvár 	Szent Lukács Kórház 	Saint Luke Hospital
+Kaposvár 	Kaposi Mór Kórház 	Mór Kaposi Hospital
+Mohács 	Városi Kórház 	Municipal Hospital
+Pécs 	PTE Klinikák 	University of Pécs Clinics[2]
+Pécs 	Baranya Megyei Kórház 	Baranya County Hospital
+Pécs 	Honvédkórház 	"Homeland Defence" Hospitals[1]
+Siófok 	Városi Kórház 	Municipal Hospital
+Szigetvár 	Városi Kórház 	Municipal Hospital
+Szekszárd 	Balassa János Kórház 	János Balassa Hospital
+Balassagyarmat 	Kenessey Albert Kórház 	Albert Kenessey Hospital
+Edelény 	Koch Róbert Kórház 	Robert Koch Hospital
+Eger 	Markoth Ferenc Kórház 	Ferenc Markoth Hospital
+Gyöngyös 	Bugát Pál Kórház 	Pál Bugát Hospital
+Hatvan 	Városi Kórház 	Municipal Hospital
+Kazincbarcika 	Városi Kórház 	Municipal Hospital
+Mezőkövesd 	Mozgásszervi Rehabilitációs Központ 	Locomotion Disease Rehabilitative Centre
+Miskolc 	Borsod-Abaúj-Zemplén Megyei Kórház 	Borsod-Abaúj-Zemplén County Hospital
+Miskolc 	Semmelweis Kórház 	Semmelweis Hospital
+Miskolc 	Szent Ferenc Kórház 	Saint Francis Hospital
+Ózd 	Almási Balogh Pál Kórház 	Pál Almási Balogh Hospital
+Pásztó 	Margit Kórház 	Margit Hospital
+Salgótarján 	Szent Lázár Kórház 	Saint Lazarus Hospital
+Sátoraljaújhely 	Erzsébet Kórház 	Erzsébet Hospital
+Berettyóújfalu 	Tisza István Kórház 	István Tisza Hospital
+Debrecen 	Kenézy Gyula Kórház 	Gyula Kenézy Hospital
+Debrecen 	Debreceni Egyetemi Klinikák 	University of Debrecen Clinics
+Jászberény 	Erzsébet Kórház 	Erzsébet Hospital
+Karcag 	Kátai Gábor Kórház 	Gábor Kátai Hospital
+Kisvárda 	Felső-Szabolcsi Kórház 	Upper Szabolcs Hospital
+Mátészalka 	Városi Kórház 	Municipal Hospital
+Nyíregyháza 	Jósa András Kórház 	András Jósa Hospital
+Szolnok 	Hetényi Géza Kórház 	Géza Hetényi Hospital
+Szolnok 	MÁV Kórház 	HSR Hospitals
+Baja 	Szent Rókus Kórház 	Saint Roch Hospital
+Békéscsaba 	Réthy Pál Kórház 	Pál Réthy Hospital
+Gyula 	Pándy Kálmán Kórház 	Kálmán Pándy Hospital
+Hódmezővásárhely 	Erzsébet Kórház 	Erzsébet Hospital
+Kalocsa 	Szent Kereszt Kórház 	Holy Cross Hospital
+Kecskemét 	Bács-Kiskun Megyei Kórház 	Bács-Kiskun County Hospital
+Kecskemét 	Kecskeméti Repülőkórház 	Kecskemét Aviation Hospital
+Kiskunhalas 	Semmelweis Kórház 	Semmelweis Hospital
+Kiskunfélegyháza 	Városi Kórház 	Municipal Hospital
+Makó 	Diósszilágyi Sámuel Kórház 	Sámuel Diósszilágyi Hospital
+Orosháza 	Városi Kórház 	Municipal Hospital
+Szeged 	Szent-Györgyi Albert Klinikai Központ 	Albert Szent-Györgyi Clinical Centre[4]
+Szentes 	Bugyi István Kórház 	István Bugyi Hospital
+#Iceland
+    Capital Region Healthcare District (  Heilbrigðisumdæmi höfuðborgarsvæðisins)
+    Western Region Healthcare District (  Heilbrigðisumdæmi Vesturlands)
+    Westfjords Healthcare District (  Heilbrigðisumdæmi Vestfjarða)
+    Northern Healthcare District (  Heilbrigðisumdæmi Norðurlands)
+    Eastern Region Healthcare District (  Heilbrigðisumdæmi Austurlands)
+    Southern Region Healthcare District (  Heilbrigðisumdæmi Suðurlands)
+    Southern Peninsula Healthcare District (  Heilbrigðisumdæmi Suðurnesja)
+    National University Hospital of Iceland 	Landspítali - háskólasjúkrahús 	3 March 2000 	General and specialised
+university hospital 	Capital Region 	Reykjavíkurborg
+Akureyri Hospital 	Sjúkrahúsið á Akureyri 		General and specialised
+teaching hospital 	Northern 	Akureyrarkaupstaður
+Healthcare Institution of Blönduós 	Heilbrigðisstofnunin Blönduósi 		Northern 	Blönduósbær
+Healthcare Institution of Eastern Iceland 	Heilbrigðisstofnun Austurlands 		Eastern Region 	Fljótsdalshérað
+Healthcare Institution of Fjallabyggð 	Heilbrigðisstofnunin Fjallabyggð 		Northern 	Fjallabyggð
+Healthcare Institution of Patreksfjörður 	Heilbrigðisstofnunin Patreksfirði 		Westfjords 	Vesturbyggð
+Healthcare Institution of Sauðárkrókur 	Heilbrigðisstofnunin Sauðárkróki 		Northern 	Sveitarfélagið Skagafjörður
+Healthcare Institution of South Iceland 	Heilbrigðisstofnun Suðurlands 	1 September 2004 	Southern Region 	Sveitarfélagið Árborg
+Healthcare Institution of Southeast Iceland 	Heilbrigðisstofnun Suðausturlands 		Southern Region 	Sveitarfélagið Hornafjörður
+Healthcare Institution of Southern Peninsula 	Heilbrigðisstofnun Suðurnesja 		Southern Peninsula 	Reykjanesbær
+Healthcare Institution of the Westfjords 	Heilbrigðisstofnun Vestfjarða 		Westfjords 	Ísafjarðarbær
+Healthcare Institution of Vestmannaeyjar 	Heilbrigðisstofnunin Vestmannaeyjum 		Southern Region 	Vestmannaeyjabær
+Healthcare Institution of Western Iceland 	Heilbrigðisstofnun Vesturlands 	1 January 2010 	Western Region 	Akraneskaupstaður
+Healthcare Institution of Þingeyjarsýslur 	Heilbrigðisstofnun Þingeyinga 		Northern Healthcare District 	Norðurþing
+#Ireland
+
+    St. Dympna's Hospital
+    Cavan General Hospital
+    Mid-Western Regional Hospital, Ennis
+    St. Johns Hospital, Ennis
+    Caherkalla Hospice & Private Hospital, Ennis
+    Bantry General Hospital, Bantry
+    Bon Secours Hospital, Cork
+    Cork Medical Centre, Cork [(Closed)]
+    Cork University Hospital, Cork
+    Erinville Hospital, Cork
+    Mallow General Hospital, Mallow
+    Marymount Hospital, Cork
+    Mercy Hospital, Cork
+    Shanakiel Hospital, Cork
+    South Infirmary Victoria University Hospital, Cork
+    Bandon Community Hospital, Bandon
+    St. Anthony's Hospital (Cork), Dunmanway
+    St. Finbarr's Hospital, Cork
+    St. Mary's Orthopaedic Hospital, Cork
+    St. Stephen's Hospital, Glanmire, Cork
+    St. Patrick's Hospital, Fermoy
+    Tabor Lodge, Tabor
+    Ballyshannon
+    Carndonagh Community Hospital, Carndonagh
+    Donegal Community Hospital, Donegal Town
+    Dungloe Community Hospital, Dungloe
+    Killybegs Community Hospital, Killybegs
+    Letterkenny General Hospital, Letterkenny
+    Lifford Community Hospital, Lifford
+    St. Conal's Psychiatric Hospital, Letterkenny
+    Beacon Hospital, Sandyford
+    Beaumont Hospital, Dublin
+    Blackrock Clinic, Blackrock
+    Bloomfield Care Centre, Rathfarnham
+    Bon Secours Hospital, Dublin
+    Cappagh National Orthopaedic Hospital, Finglas
+    Central Mental Hospital, Dundrum
+    Cherry Orchard Hospital, Ballyfermot
+    Children's University Hospital, Temple Street
+    Clonskeagh Hospital, Clonskeagh
+    Coombe Women's Hospital, Dolphin's Barn
+    Hermitage Medical Clinic, Lucan, County Dublin
+    Highfield Hospital, Whitehall
+    Incorporated Orthopaedic Hospital of Ireland, Clontarf
+    Connolly Hospital, Blanchardstown
+    Dublin Dental Hospital, Lincoln Place
+    Leopardstown Park Hospital, Foxrock
+    Mater Misericordiae University Hospital, Dublin
+    Mater Private Hospital, Eccles Street
+    Mount Carmel Hospital, Churchtown, Dublin
+    National Maternity Hospital, Holles Street
+    National Rehabilitation Hospital, Dun Laoghaire
+    Our Lady's Children's Hospital, Crumlin
+    Peamount Hospital, Newcastle
+    The Rotunda Maternity Hospital
+    Royal City of Dublin Hospital, Baggot Street
+    The Royal Hospital, Donnybrook
+    Royal Victoria Eye and Ear Hospital, Adelaide Road
+    Sports Surgery Clinic, Santry, Dublin
+    St. Brendan's Hospital, Dublin
+    St. Bricin's Military Hospital, Arbour Hill
+    St. Columcille's Hospital, Loughlinstown
+    St. Edmundsbury Hospital, Lucan, County Dublin
+    St. Ita's Psychiatric Hospital, Portrane
+    St. James's Hospital, Rialto
+    St. John of God Hospital, Stillorgan
+    St. Joseph's Hospital, Dublin
+    St. Loman's Hospital, Palmerstown
+    St. Luke's Hospital, Rathgar
+    St. Mary's Hospital (Baldoyle), Baldoyle
+    St. Mary's Hospital (Phoenix Park), Phoenix Park
+    St. Michael's Hospital, Dun Laoghaire
+    St. Patrick's Hospital, Dublin 8
+    St. Paul's Hospital, Dublin
+    St. Vincent's Psychiatric Hospital, Fairview
+    St. Vincent's Private Hospital, Merrion Road
+    St. Vincent's University Hospital, Elm Park
+    Simpson's Hospital, Dundrum
+    Tallaght Hospital, Tallaght
+    Bon Secours Hospital, Galway
+    Galway Clinic, Galway
+    Merlin Park Regional Hospital, Galway
+    Portiuncula Hospital, Ballinasloe
+    University Hospital Galway, Galway
+    Bon Secours Hospital, Tralee
+    Cahersiveen Community Hospital (St. Anne's), Cahersiveen
+    Dingle Community Hospital (St. Elizabeth's), Dingle
+    Kenmare Community Hospital, Kenmare
+    Killarney Community Hospital, Killarney
+    Listowel Community Hospital, Listowel
+    St. Finan's Hospital, Killarney
+    Kerry General Hospital, Tralee
+    Clane Hospital, Clane
+    Naas General Hospital, Naas
+    St. Vincent's Hospital, Athy
+    Aut Even Hospital, Kilkenny
+    Castlecomer District Hospital, Castlecomer
+    Lourdes Regional Orthopaedic Hospital, Kilcreene
+    St. Canice's Psychiatric Hospital, Kilkenny
+    St. Luke's General Hospital, Kilkenny
+    Midland Regional Hospital, Portlaoise
+    Our Lady's Hospital, Manorhamilton
+    Barringtons Hospital, Limerick
+    University Hospital Limerick
+    Mid-Western Regional Orthopaedic Hospital, Croom
+    St. Camillus' Geriatric Hospital, Limerick
+    St. John's Hospital (Limerick)
+    St. Munchins Maternity Hospital, Limerick
+    Louth County Hospital, Dundalk
+    Our Lady of Lourdes Hospital, Drogheda
+    St. Brigid's Psychiatric Hospital, Ardee
+    Mayo General Hospital, Castlebar
+    Ballina District Hospital, Ballina
+    Swinford District Hospital, Swinford
+    Belmullet District Hospital, Belmullet
+    Sacred Heart Hospital, Castlebar
+    Our Lady's Hospital, Navan
+    St. Joseph's Hospital, Trim, Trim
+    Monaghan Hospital, Monaghan
+    Birr District Hospital, Birr
+    Midland Regional Hospital, Tullamore
+    Roscommon County hospital Roscommon
+    Sacred Heart Hospital Roscommon
+    Sligo General Hospital, Sligo
+    St. John's Hospital, Sligo
+    St. Joseph's Hospital, Sligo
+    Mid-Western Regional Hospital, Nenagh
+    South Tipperary General Hospital, Clonmel
+    St. Brigid's District Hospital, Carrick-on-Suir
+    St. Joseph's Hospital, Dungarvan
+    St. Otteran's Psychiatric Hospital, Waterford
+    St. Vincent's District Hospital, Dungarvan
+    Waterford Regional Hospital, Waterford
+    Midland Regional Hospital, Mullingar
+    St. Loman's Psychiatric Hospital, Mullingar
+    St. Mary's Hospital, Mullingar
+    Saint Francis Private Hospital, Mullingar
+    Ely Hospital, Wexford
+    Gorey District Hospital, Gorey
+    New Houghton Hospital, New Ross
+    St John's Hospital, Enniscorthy
+    St Senan's Psychiatric Hospital, Enniscorthy
+    Wexford General Hospital, Wexford
+    St. Vincent's Hospital, Wicklow
+    Newcastle Hospital, Newtownmountkennedy
+#Italy
+    Hospital of Santa Maria Nuova
+    Meyer Children's Hospital
+    Ospedale degli Innocenti
+    Ospedale Maggiore
+    Ospedale Niguarda Ca' Granda
+    Pio Albergo Trivulzio
+    San Raffaele Hospital
+    San Gennaro dei Poveri
+    Bambino Gesù Hospital
+    Policlinico Umberto I
+    Ospedale degli Incurabili, Naples
+    Ospedale L'Albergo Reale dei Poveri, Naples
+    Maddalena lunatic asylum
+    Burlo Garofolo Pediatric Institute
+    Casa Sollievo della Sofferenza
+    CTO Hospital Turin
+    European Institute of Oncology
+    ISMETT
+    Istituto Giannina Gaslini
+    Ospedale G. Capilupi Capri
+    Policlinico Sant'Orsola-Malpighi
+#Jersey
+Jersey General Hospital, St Helier
+Overdale Hospital, St Helier
+St Saviour's Hospital, St Saviour
+#Kazakhstan
+#Latvia
+Pauls Stradiņš Clinical University Hospital
+Riga East Clinical University Hospital
+Riga Children's Clinical University Hospital
+Hospital of Traumatology and Orthopedics
+"Šmerlis" Independent Hospital
+Riga City Maternity Hospital
+Bikur Holim Hospital Riga
+#Liechtenstein
+#Lithuania
+    Panevėžys Hospital - Panevėžys
+    Šiauliai Hospital - Šiauliai
+    Hospital of Lithuanian University of Health Sciences Kaunas Clinics - Kaunas
+    Kaunas Red Cross Hospital - Kaunas
+    Republican Children's Hospital- Vilnius
+    Vilnius Red Cross Hospital - Vilnius
+    Vilnius University Hospital - Vilnius
+#Luxembourg
+#the Republic of Macedonia
+#Malta
+Mater Dei Hospital (L-Isptar Mater Dei) 	Msida 
+St. Luke's Hospital (L-Isptar San Luqa) 	Pietà 
+Karin Grech Hospital (L-Isptar Karen Grech) 	Pietà 
+Sir Paul Boffa Hospital (L-Isptar Boffa) 	Floriana 
+St. Vincent De Paul Residence (San Vincenz de Paul or L-Ingieret) 	Luqa
+Mount Carmel Hospital (L-Isptar Monti Karmeli) 	Attard
+Zammit Clapp Hospital (L-Isptar Zammit Clapp) 	San Giljan
+Gozo General Hospital (L-Isptar Generali ta' Ghawdex) 	Victoria
+RNH Mtarfa 	L-Imtarfa
+RNH Bighi 	Il-Kalkara
+#Moldova
+#Monaco
+    The Princess Grace Hospital Centre - Monaco
+#Montenegro
+#the Netherlands
+    Free University Medical Center VU medisch centrum , Amsterdam
+    Academic Medical Center Academisch Medisch Centrum , Amsterdam
+    University Medical Center Groningen Universitair Medisch Centrum Groningen , Groningen
+    University Medical Center Utrecht Universitair Medisch Centrum Utrecht , Utrecht
+    Leiden University Medical Center Leids Universitair Medisch Centrum , Leiden
+    University Medical Center St Radboud Universitair Medisch Centrum St Radboud , Nijmegen
+    Academic Hospital Maastricht Academisch ziekenhuis Maastricht , Maastricht
+    Erasmus MC Erasmus MC, Rotterdam
+    Medical Centre Alkmaar , Alkmaar
+    St. Antonius Ziekenhuis Nieuwegein, Nieuwegein
+    Medisch Spectrum Twente, Enschede
+    Spaarne Ziekenhuis Hoofddorp, Hoofddorp
+    Medisch Centrum Leeuwarden, Leeuwarden
+    St. Elisabeth Ziekenhuis Tilburg, Tilburg
+    Medisch Centrum Haaglanden, The Hague
+    Maasstad Ziekenhuis, Rotterdam
+    Isala Klinieken, Zwolle
+    Catharina Ziekenhuis, Eindhoven
+    Scheperziekenhuis, Emmen
+    Wilhelminaziekenhuis, Assen
+    Ziekenhuis Bethesda, Hoogeveen
+    Diaconessenhuis, Meppel
+    Flevoziekenhuis, Almere
+    Zuiderzeeziekenhuis, Lelystad
+    Dokter J.H. Jansenziekenhuis, Emmeloord
+    Talma Sionsberg Ziekenhuis, Dokkum
+    Nijsmellinghe Ziekenhuis, Drachten
+    Ziekenhuis De Tjongerschans, Heerenveen
+    Medisch Centrum Leeuwarden , Leeuwarden 
+    Antonius Ziekenhuis, Sneek
+    Universitair Medisch Centrum St Radboud, Nijmegen
+    Canisius-Wilhelmina Ziekenhuis , Nijmegen
+    Ziekenhuis Rijnstate - Arnhem
+    Gelre Ziekenhuizen, Lukas, Apeldoorn
+    Gelre Ziekenhuizen, Spittaal, Zutphen
+    Slingeland Ziekenhuis, Doetinchem
+    Streekziekenhuis Koningin Beatrix, Winterswijk
+    Streekziekenhuis Rivierenland, Tiel
+    Ziekenhuis Velp, Velp
+    Ziekenhuis Zevenaar, Zevenaar
+    Ziekenhuis Gelderse Vallei, Ede
+    Ziekenhuis Sint Jansdal, Harderwijk
+    Universitair Medisch Centrum Groningen , Groningen
+    Delfzicht Ziekenhuis, Delfzijl
+    Refaja Ziekenhuis, Stadskanaal
+    Martiniziekenhuis, Groningen
+    Sint Lucas Ziekenhuis, Winschoten
+    Academisch Ziekenhuis Maastricht , Maastricht
+    Atrium Medisch Centrum, Heerlen
+    Vie Curie Medisch Centrum, Venlo Venray
+    Orbis Medisch Centrum, Sittard
+    St. Jans Gasthuis, Weert
+    Laurentius Ziekenhuis, Roermond
+    Ziekenhuis Lievensberg - Bergen op Zoom
+    Amphia Hospital - Breda
+    Catharina-Ziekenhuis - Eindhoven
+    Máxima Medisch Centrum - Eindhoven
+    Elkerliek ziekenhuis - Helmond
+    Franciscus Ziekenhuis Roosendaal - Roosendaal
+    St. Elisabeth Hospital - Tilburg
+    TweeSteden Hospital - Tilburg
+    Vrije Universiteit Medisch Centrum , Amsterdam
+    Academisch Medisch Centrum , Amsterdam
+    Onze Lieve Vrouwe Gasthuis - Amsterdam
+    BovenIJ Ziekenhuis - Amsterdam
+    Sint Lucas Andreas Ziekenhuis - Amsterdam
+    Slotervaartziekenhuise - Amsterdam
+    Ziekenhuise Amstelland - Amstelveen
+    Medical Center Alkmaar  - Alkmaar 
+    Rode Kruis Ziekenhuis - Beverwijk
+    Gemini Ziekenhuis - Den Helder
+    Kennemer Gasthuis - Haarlem
+    Tergooiziekenhuizen - Hilversum
+    Spaarne Ziekenhuis - Heemstede and Hoofddorp
+    Westfries Gasthuis - Hoorn
+    Waterlandziekenhuise - Purmerend
+    Zaans Medisch Centrum  - Zaandam
+    Medisch Spectrum Twente, Enschede 
+    Isala Klinieken, Zwolle 
+    Ziekenhuisgroep Twente, Almelo Almelo
+    Ziekenhuisgroep Twente, Hengelo Hengelo
+    Deventer Ziekenhuis, Deventer
+    Röpcke-Zweers Ziekenhuis, Hardenberg
+    Universitair Medisch Centrum Utrecht , Utrecht
+    St. Antonius Ziekenhuis - Nieuwegein
+    MESOS Medisch Centrum - Utrecht
+    Diakonessenhuis - Utrecht
+    Diakonessenhuis - Zeist
+    Zuwe Hofpoort Ziekenhuis Woerden
+    Meander Medisch Centrum Amersfoort
+    Admiral de Ruyter Ziekenhuis, Goes Vlissingen
+    Ziekenhuis Walcheren, Vlissingen
+    Bronovo Hospital, The Hague
+    Medisch Centrum Haaglanden, The Hague
+    Erasmus MC, Rotterdam
+    Leiden University Medical Center , Leiden
+    Diaconessenhuis, Leiden
+    Sint Franciscus Gasthuis, Rotterdam
+    Albert Schweitzer Ziekenhuis, Dordrecht
+    Reinier de Graaf Gasthuis , Delft
+#Norway
+    Central Norway Regional Health Authority
+        Nordmøre and Romsdal Hospital Trust
+            Kristiansund Hospital
+            Molde Hospital
+        Nord-Trøndelag Hospital Trust
+            Levanger Hospital
+            Namsos Hospital
+        St. Olavs Hospital Trust
+            St. Olavs University Hospital
+            Orkdal Hospital
+            Røros Hospital
+        Sunnmøre Hospital Trust
+        Central Norway Pharmaceutical Trust
+    Northern Norway Regional Health Authority
+        Finnmark Hospital Trust
+        Helgeland Hospital Trust
+        Hålogaland Hospital Trust
+        Nordland Hospital Trust
+        University Hospital of North Norway
+        Northern Norway Pharmaceutical Trust
+    Southern and Eastern Norway Regional Health Authority
+        Akershus University Hospital
+        Asker and Bærum Hospital Trust
+        Blefjell Hospital Trust
+            Kongsberg Hospital
+            Notodden Hospital
+            Rjukan Hospital
+        Buskerud Hospital Trust
+        Innlandet Hospital Trust
+        Oslo University Hospital
+            Aker University Hospital
+            Rikshospitalet
+            Ullevål University Hospital
+        Psychiatry of Vestfold Hospital Trust
+        Ringerike Hospital Trust
+        Sunnaas Hospital Trust
+        Southern Norway Hospital Trust
+            Sørlandet Hospital Arendal
+            Sørlandet Hospital Flekkefjord
+            Sørlandet Hospital Kristiansand
+        Telemark Hospital Trust
+        Vestfold Hospital Trust
+        Østfold Hospital Trust
+        Sykehuspartner
+        Southern and Eastern Norway Pharmaceutical Trust
+    Western Norway Regional Health Authority
+        Bergen Hospital Trust
+            Haukeland University Hospital
+        Fonna Hospital Trust
+        Førde Hospital Trust
+        Stavanger Hospital Trust
+        Western Norway Pharmaceutical Trust
+#Poland
+    Medical University of Białystok
+        Uniwersytecki Szpital Kliniczny, Białystok
+        Uniwersytecki Dziecięcy Szpital Kliniczny im. dr Ludwika Zamenhofa, Białystok
+    Collegium Medicum in Bydgoszcz of the Nicolaus Copernicus University
+        Szpital Uniwersytecki nr 1 im. dr Antoniego Jurasza, Bydgoszcz
+        Szpital Uniwersytecki nr 2 im. dr Jana Biziela, Bydgoszcz
+        Wojskowy Szpital Kliniczny z Polikliniką, Bydgoszcz
+    Collegium Medicum of the Nicolaus Copernicus University in Ciechocinek
+        Uzdrowiskowy Szpital Kliniczny, Ciechocinek
+Uniwersyteckie Centrum Kliniczne, Gdańsk
+    Medical University of Gdańsk
+        Uniwersyteckie Centrum Kliniczne, Gdańsk
+    Medical University of Gdańsk in Gdynia
+        Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej, Gdynia
+    Medical University of Silesia, Katowice
+        Centralny Szpital Kliniczny im. prof. Kornela Gibińskiego, Katowice
+        Samodzielny Publiczny Szpital Kliniczny im. Andrzeja Mielęckiego, Katowice
+        Samodzielny Publiczny Szpital Kliniczny nr 5 - Szpital okulistyczny, Katowice
+        Górnośląskie Centrum Zdrowia Dziecka, Katowice
+        Górnośląskie Centrum Medyczne, Katowice
+    Jagiellonian University Medical College
+        Szpital Uniwersytecki, Kraków
+        Uniwersytecka Klinika Stomatologiczna, Kraków
+        Uniwersytecki Szpital Dziecięcy, Kraków
+    Wojskowy Szpital Kliniczny z Polikliniką, Kraków
+    Medical University of Lublin in Lublin
+        Samodzielny Publiczny Szpital Kliniczny nr 1, Lublin
+        Samodzielny Publiczny Szpital Kliniczny nr 4, Lublin
+        Dziecięcy Szpital Kliniczny im. prof. Antoniego Gębali, Lublin
+    Wojskowy Szpital Kliniczny z Polikliniką, Lublin
+Centralny Szpital Kliniczny, Łódź
+        Centralny Szpital Kliniczny, Łódź
+        Uniwersytecki Szpital Kliniczny nr 1 im. Norberta Barlickiego, Łódź
+        Uniwersytecki Szpital Kliniczny nr 2 im. Wojskowej Akademii Medycznej, Łódź
+        Uniwersytecki Szpital Kliniczny nr 3 im. dr Seweryna Sterlinga, Łódź
+        Uniwersytecki Szpital Kliniczny nr 4 im. Marii Konopnickiej, Łódź
+        Uniwersytecki Szpital Kliniczny nr 5 im. gen. dyw. Bolesława Szareckiego, Łódź
+        Uniwersytecki Szpital Kliniczny nr 6 – Instytut Stomatologii, Łódź
+    Medical Sciences Faculty of the University of Warmia and Mazury, Olsztyn
+        Uniwersytecki Szpital Kliniczny, Olsztyn
+    Centrum Medyczne Kształcenia Podyplomowego, Otwock
+        Samodzielny Publiczny Szpital Kliniczny im. prof. Adama Grucy, Otwock
+    Pomeranian Medical University
+        Samodzielny Publiczny Szpital Kliniczny nr 1 im. prof. Tadeusza Sokołowskiego,
+Clinical university hospital, Poznań
+    Poznań University of Medical Sciences
+        Szpital Kliniczny Przemienienia Pańskiego, Poznań
+        Szpital Kliniczny im. Heliodora Święcickiego, Poznań
+        Ginekologiczno-Położniczy Szpital Kliniczny, Poznań
+        Ortopedyczno-Rehabilitacyjny Szpital Kliniczny im. Wiktora Degi, Poznań
+        Szpital Kliniczny im. Karola Jonschera, Poznań
+        Specjalistyczny Szpital Kliniczny Uniwersytetu Medycznego, Poznań
+    Pomeranian Medical University
+        Samodzielny Publiczny Szpital Kliniczny nr 1 im. prof. Tadeusza Sokołowskiego, Szczecin
+        Samodzielny Publiczny Szpital Kliniczny nr 2, Szczecin
+Szpital Kliniczny im. ks. Anny Mazowieckiej, Warsaw
+    Medical University of Warsaw
+        Samodzielny Publiczny Centralny Szpital Kliniczny, Warsaw
+        Samodzielny Publiczny Dziecięcy Szpital Kliniczny, Warsaw
+        Samodzielny Publiczny Kliniczny Szpital Okulistyczny, Warsaw
+        Szpital Kliniczny Dzieciątka Jezus, Warsaw
+        Szpital Kliniczny im. Księżnej Anny Mazowieckiej, Warsaw
+
+    Centrum Medyczne Kształcenia Podyplomowego, Warsaw
+        Samodzielny Publiczny Szpital Kliniczny im. prof. Witolda Orłowskiego, Warsaw
+    Ministerstwo Spraw Wewnętrznych i Administracji, Warsaw
+        Centralny Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji, Warsaw
+    Wojskowy Instytut Medyczny, Warsaw
+        Centralny Szpital Kliniczny Ministerstwa Obrony Narodowej, Warsaw
+Clinical university hospital in Wrocław
+    Wrocław Medical University, Wrocław
+        Samodzielny Publiczny Szpital Kliniczny nr 1, Wrocław
+        Akademicki Szpital Kliniczny im. Jana Mikulicza-Radeckiego, Wrocław
+        Akademicka Klinika Stomatologiczna, Wrocław
+    Siły Zbrojne Rzeczypospolitej Polskiej, Wrocław
+        Wojskowy Szpital Kliniczny z Polikliniką, Wrocław
+    Medical University of Silesia, Zabrze
+
+        Samodzielny Publiczny Szpital Kliniczny nr 1 im. prof. Stanisława Szyszko, Zabrze
+        Samodzielny Publiczny Szpital Kliniczny nr 3, Zabrze
+
+    Jagiellonian University Medical College, Zakopane
+
+        Uniwersytecki Szpital Ortopedyczno-Rehabilitacyjny, Zakopane
+ 
+    Specialist Hospital in Jasło
+    Children's Clinical Hospital, Kraków
+    Krakowski Szpital Specjalistyczny im. Jana Pawła II, Kraków
+    University Hospital, Kraków
+    Państwowy Szpital Kliniczny Nr4, Lublin
+    University Hospital, Łódź
+    Wojewódzki Szpital Zespolony, Nowy Sącz
+    SPZOZ, Puławy
+    The County Hospital, Sanok
+    Carolina Medical Center in Warsaw
+    Children’s Memorial Health Institute, Warsaw
+    Wojewódzki Szpital Specjalistyczny Chorób Płuc, Zakopane
+    Medicover Hospital, Warsaw
+    Wojewódzki Szpital Podkarpacki im.Jana Pawa II w Krośnie, Krosno
+
+#Portugal
+ 
+    Hospital do Espírito Santo - Évora
+    Hospital Militar de Évora - Évora
+    Hospital da Misericórdia   - Évora
+    Hospital of the Litoral Alentejano - Santiago do Cacém
+    Centro Hospitalar of the Baixo Alentejo   - Beja, Serpa
+    Unidade Local de Saúde of the Norte Alentejano  - Portalegre, Elvas Municipality
+ 
+    Hospital Distrital de Faro - Faro
+    Centro Hospitalar of the Barlavento Algarvio   - Lagos, Portimão
+ 
+    Hospital São Marcos - Braga
+    Hospital Santa Maria Maior - Barcelos
+    Centro Hospitalar of the Alto Ave   - Guimarães, Fafe
+ 
+    Centro Hospitalar of the Nordeste  - Bragança  
+ 
+    Unidade Local de Saúde of Castelo Branco  
+    Centro Hospitalar Cova da Beira   - Covilhã, Fundão, Portugal
+ 
+    Centro Hospitalar de Coimbra   Coimbra
+    Centro Hospitalar Psiquiátrico of Coimbra
+    Hospitais da Universidade de Coimbra
+    Instituto Português de Oncologia (Portuguese Institute of Oncology)
+	
+    Hospital da Luz  
+    Centro Hospitalar Lisboa Norte  
+	Hospital of Santa Maria, Lisbon.
+    Centro Hospitalar Lisboa Central 
+    Centro Hospitalar Lisboa Ocidental 
+    Centro Hospitalar Barreiro-Montijo   - Barreiro, Montijo
+    Centro Hospitalar de Setúbal   - Setúbal
+    Hospital Curry Cabral
+    Maternidade Alfredo da Costa
+    Hospital Garcia de Orta - Almada, Seixal Municipalityl
+    Hospital Reynaldo dos Santos - Vila Franca de Xira
+    Hospital Prof. Doutor Fernando Fonseca - Amadora
+    Hospital de Cascais Dr. José de Almeida - Cascais
+    Instituto Português de Oncologia Francisco Gentil  Portuguese Institute of Oncology
+
+    British Hospital  
+    Hospital Particular de Lisboa  
+    Hospital da Cruz Vermelha  
+    Hospital de Santiago  
+    Hospital da CUF  
+    Hospital dos Lusíadas  
+
+    Hospital das Forças Armadas 
+
+    Hospital Real de Todos os Santos
+    Hospitais Civis de Lisboa 
+
+    Santa Casa da Misericórdia   
+    Hospital da Arrábida
+    Centro Hospitalar of Porto
+    Hospital de Gaia - V.N. Gaia
+    Hospital Pedro Hispano - Matosinhos
+    Hospital de S. João - Porto
+    Hospital S. Sebastião - Santa Maria da Feira
+    Centro Hospitalar of Póvoa de Varzim and Vila do Conde 
+    Instituto Português de Oncologia (Portuguese Institute of Oncology) 
+    Unidade Local de Saúde of Guarda - Seia, Guarda, Portugal
+    Hospital de Santo André - Leiria
+    Hospital Distrital Caldas da Rainha
+    Centro Hospitalar of the Médio Tejo  - Abrantes, Tomar, Torres Novas
+    Centro Hospitalar of the Tâmega and Sousa   - Penafiel, Amarante
+    Unidade Local de Saúde of the Alto Minho   - Viana do Castelo region
+    Hospital de São Teotónio - Viseu
+#Romania
+Alba	Aiud	Aiud TB hospital
+Alba	Aiud	Aiud Municipal Hospital
+Alba	Alba Iulia	Alba Iulia Emergency County Hospital
+Alba	Blaj	Blaj Municipal Hospital
+Alba	Câmpeni	TB Sanatorium Câmpeni
+Alba	Câmpeni	Câmpeni Town Hospital
+Alba	Cugir	Cugir Town Hospital
+Alba	Sebeș	Sebes Municipal Hospital
+Alba	Zlatna	Zlatna Town Hospital
+Arad	Arad	Dr. Salvator Vuia Clinical Hospital of Obstetrics-Gynecology
+Arad	Arad	Arad County Emergency Clinical Hospital
+Arad	Arad	Arad County Clinical Hospital
+Arad	Capalnas	Capalnas Psychiatric Hospital
+Arad	Chișineu-Criș	Sf. Gheorghe Hospital
+Arad	Dezna	Dr. Corneliu Bârsan Neurological rehabilitation Hospital
+Arad	Gurahonț	Gurahonț Territorial TB Hospital
+Arad	Ineu	Ineu Town Hospital
+Arad	Lipova	Lipova Town Hospital
+Arad	Mocrea	Mocrea Psychiatry Hospital
+Arad	Sebiș	Chronic diseases Sebiș Hospital
+Argeș	Călinești	Ion Crăciun Hospital
+Argeș	Câmpulung Muscel	Câmpulung Muscel Municipal Hospital
+Argeș	Costești	King Carol I Municipal Hospital
+Argeș	Curtea de Argeș	Curtea de Argeș Municipal Hospital
+Argeș	Domnești	Dr. Teja Papahagi Town Hospital
+Argeș	Mioveni	Sf. Spiridon Town Hospital
+Argeș	Pitești	Pitești Pediatric Hospital
+Argeș	Pitești	Pitești County Emergency Hospital
+Bacău	Bacău	Bacău Pediatrics Hospital
+Bacău	Bacău	Bacău County Hospital
+Bacău	Buhuși	Buhuși Town Hospital
+Bacău	Comănești	Ioan Lascăr Town Hospital
+Bacău	Moinești	Moinești Municipal Hospital
+Bacău	Onești	Onești Municipal Hospital
+Bacău	Podu Turcului	Podu Turcului Communal Hospital
+Bacău	Târgu Ocna	Târgu Ocna Town Hospital
+Bihor	Aleșd	Aleșd Town Hospital
+Bihor	Beiuș	Beiuș Municipal Hospital
+Bistrița	Beclean	Beclean Town Hospital
+Bistrița	Bistrița	Bistrița Năsăud County Emergency Hospital
+Bistrița	Năsăud	Dr. George Trifon Town Hospital
+#Russia
+#San Marino
+#Serbia
+#Slovakia
+        Teaching Hospital with Polyclinic Bratislava
+        Interklinik Bratislava
+        St. Michael Hospital, a.s. Bratislava
+        National Institute of Heart and Cardiovascular Diseases Bratislava
+        National Institute of Oncology
+        Children's Teaching Hospital with Policlinic Bratislava
+        Philipp Pinel Psychiatric Hospital, Pezinok
+        Teaching Hospital Trencin
+        Hospital with Polyclinic Povazska Bystrica
+        Hospital with Polyclinic Levice
+        Teaching Hospital Nitra
+        R. Korec City Hospital Zlate Moravce
+        Martin University Hospital
+        Medcentrum Zilina
+        Liptov Hospital with Policlinic Liptovsky Mikulas
+        F.D. Roosevelt Teaching Hospital with Policlinic Banska Bystrica
+        Hospital Poprad, a.s. Prešov
+        Hospital with polyclinic Vranov nad Toplou Prešov
+        Jan Adam Reiman Teaching Hospital with Polyclinic Presov
+        Štefan Kukura Hospital in Michalovce Košice
+        Louis Pasteur Teaching Hospital with Polyclinic in Kosice
+        Hospital with Policlinic Trebisov, a.s. Košice
+        Airforce Military Hospital, a.s. Kosice
+        Hospital Kosice-Saca
+
+#Slovenia
+    Ljubljana University Medical Centre - Ljubljana
+    Maribor University Medical Centre - Maribor
+    Brežice General Hospital - Brežice
+    Celje General Hospital - Celje
+    Izola General Hospital - Izola
+    Jesenice General Hospital - Jesenice
+    Murska Sobota General Hospital - Murska Sobota
+    Franc Derganc General Hospital of Nova Gorica - Šempeter pri Gorici
+    Novo Mesto General Hospital - Novo Mesto
+    Jože Potrč General Hospital of Ptuj - Ptuj
+    Slovenj Gradec General Hospital - Slovenj Gradec
+    Trbovlje General Hospital - Trbovlje
+    Begunje Psychiatric Hospital - Begunje
+    Idrija Psychiatric Hospital - Idrija
+    Ormož Psychiatric Hospital - Ormož
+    Vojnik Psychiatric Hospital - Vojnik
+    Ljubljana University Psychiatric Clinic - Ljubljana
+    Šentvid pri Stični Centre for Children's Health Care - Šentvid pri Stični
+    Kranj Gynecology and Obstetrics Hospital, Kranj
+    Topolšica Hospital - Topolšica
+    Ljubljana Institute of Oncology - Ljubljana
+    Postojna Obstetrics and Gynaecology Hospital - Postojna
+    Valdoltra Orthopedic Specialty Hospital - Valdoltra
+    Golnik University Clinic of Respiratory and Allergic Diseases - Golnik
+    University Rehabilitation Institute, Republic of Slovenia - Ljubljana
+#Spain
+    Hospital Puerta del Mar, Cádiz
+    Hospital Santa María del Puerto, El Puerto de Santa María
+    Hospital of Jerez de la Frontera, Jerez de la Frontera
+    Hospital of Puerto Real
+    Hospital Punta de Europa, Algeciras
+    Hospital Naval de San Carlos ()
+ 
+    Hospital Universitario Reina Sofia
+ 
+
+    Hospital San Juan de la Cruz, Úbeda
+    Hospital Doctor Sagaz
+    Hospital Universitario Princesa de España
+    Hospital Alto Guadalquivir, Andújar
+    Hospital General San Agustín, Linares
+    Hospital Universitario Neurotraumatológico
+ 
+    Hospital San Juan de Dios
+    Hospital Provincial de San Lázaro
+    Hospital Universitario Virgen del Rocío
+    Hospital El Tomillar international
+    Hospital Universitario Virgen Macarena
+    Hospital Universitario Virgen de Valme
+    Hospital Provincial de San Lazaro
+    Hospital Victoria Eugenia aka de la Cruz Roja
+ 
+
+    Hospital Real y General de Nuestra Señora de Gracia
+    Hospital Royo Villanova
+    Hospital Quirón Zaragoza
+    Hospital Clínico Universitario Lozano Blesa
+    Hospital Universitario Miguel Servet de Zaragoza
+ 
+
+    Hospital de Cabueñes - Gijon
+    Hopital Central Universitario de Asturias
+    Hospital de San Agustin de Aviles
+    Hospital Comarcal de Jarrio
+    Hospital Valle del Nalón
+    Hospital del Oriente de Asturias
+    Hospital de Jove
+ 
+    Hospital Mateu Orfila -Mahón Menorca
+    Hospital Universitari Son Espases- Palma de Mallorca
+    Hospital Son Llatzer -Palma de Mallorca
+    Hospital Comarcal de Inca -Inca Mallorca
+    Fundación Hospital de Manacor -ManacorMallorca
+    Hospital Can Misses -Ibiza
+    Hospital de Formentera -Formentera
+ 
+    Hospital de Basurto - Bilbao
+    Hospital de Cruces - Barakaldo
+    Hospital Quirón Vizcaya - Vizcaya
+ 
+    Hospital Universitario de Canarias - Tenerife
+    Hospital Universitario Nuestra Señora de Candelaria - Tenerife
+ 
+
+    Marqués de Valdecilla University Hospital, Santander
+ 
+    Hospital de Albacete - Albacete
+    Hospital General de Ciudad Real - Ciudad Real
+    Hospital General "La Mancha Centro" de Alcázar de San Juan - Ciudad Real
+    Hospital Virgen de la Salud - Toledo
+
+ 
+    Hospital Joan XXIII - Tarragona
+    Hospital Santa Tecla - Tarragona
+    Hospital San Joan de Reus - Reus, Tarragona
+    Pius Hospital de Valls - Valls, Tarragona
+ 
+    Hospital Sant Joan de Déu Barcelona Link - Esplugues de Llobregat, Barcelona
+    Hospital Clínic Link - Barcelona
+    Corporación Parc Taulí - Sabadell
+    Hospital de Barcelona - Barcelona
+    Hospital de Bellvitge - l'Hospitalet de Llobregat, Barcelona
+    Hospital de la Vall d'Hebron - Barcelona
+    Hospital del Mar- Barcelona
+    Hospital de Sant Pau  
+    Hospital Quirón Barcelona - Barcelona
+    Hospital Plató - Barcelona
+ 
+    Clínica Girona Nephrology and Dialysis Service - Girona
+ 
+
+    Hospital Universitari Arnau de Vilanova - Lleida
+ 
+    Hospital Infanta Cristina de Badajoz
+ 
+    Complexo Hospitalario Universitario de A Coruña - A Coruña
+    Complexo Hospitalario Universitario de Santiago - Santiago de Compostela
+    Complexo Hospitalario Arquitecto Marcide - Professor Novoa Santos - Naval. Xerencia da Área de Ferrol - Ferrol
+    Fundación Pública Hospital Virxe da Xunqueira - Cee, Galicia
+    Fundación Pública Hospital da Barbanza - Santa Mariña de Ribeira
+ 
+    Complexo Hospitalario Xeral-Calde - Lugo
+    Hospital da Costa - Burela
+    Hospital Comarcal de Monforte - Monforte de Lemos
+ 
+
+    Complexo Hospitalario de Pontevedra - Pontevedra
+    University Hospital Complex Of Vigo - Vigo
+    Fundación Pública Hospital do Salnés - Vilagarcía de Arousa
+ 
+    Complexo Hospitalario de Ourense - Ourense
+    Fundación Hospital Verín - Verín
+    Hospital Comarcal de Valdeorras - Valdeorras
+ 
+
+    Hospital San Pedro - Logroño
+ 
+    Hospital 12 de Octubre
+    Hospital Carlos III
+    Hospital Puerta del Hierro Majadahonda, Madrid
+    Hospital Universitario La Paz - Madrid
+    Clinica Moncloa - Madrid
+    Fundacion Hospital Alcorcón - Madrid
+    Hospital de Móstoles - Móstoles, Madrid
+    Hospital Quirón Madrid - Madrid
+    Hospital Ramon y Cajal
+    Hospital La Princesa
+    Hospital Niño Jesus
+    Hospital Gregorio Marañon
+    Hospital Dam
+    Hospital Central de la Defensa 
+ 
+    Hospital Universitario Virgen de la Arrixaca- Murcia
+    Hospital Universitario Morales Meseguer - Murcia
+    Hospital Universitario Reina Sofía - Murcia
+    USP Hospital San Carlos - Murcia
+    Hospital Universitario Virgen del Rosell - Cartagena
+    Hospital Universitario General de Santa Lucía - Cartagena
+    Hospital Nuestra Señora del Perpetuo Socorro - Cartagena
+    Hospital Naval - Cartagena
+    Santo Hospital de la Caridad - Cartagena
+    Centro Médico Virgen de la Caridad - Cartagena
+    Hospital Rafael Méndez - Lorca
+    Hospital de la Vega Lorenzo Guirao - Cieza
+    Hospital Comarcal del Noroeste - Caravaca de la Cruz
+    Hospital Virgen del Castillo - Yecla
+    Hospital Los Arcos - San Javier, Murcia
+    Clinica Universitaria de Navarra Link - Pamplona
+    Hospital 9 d'Octubre - Valencia
+    Hospital Arnau de Vilanova - Valencia
+    Hospital Virgen del Consuelo - Valencia
+    Hospital Militar Vazquez Bernabeu - Valencia
+    Hospital de València al Mar - Valencia
+    Clinica Quirón - Valencia
+    Casa de la salud - Valencia
+    Hospital Universitari La Fe - Valencia
+    Hospital Doctor Peset - Valencia
+    Hospital General Universitari - Valencia
+    Hospital Clínic Universitari- Valencia
+    Hospital Lluis Alcanyís - Xàtiva
+    Hospital Francesc de Borja - Gandia
+    Hospital de La Ribera - Alzira
+    Hospital General de Castellón - Castellón de la Plana
+    Hospital Provincial de Castellón - Castellón de la Plana
+    Hospital La Plana - Villareal, Castellón
+    Hospital General de Alicante - Alicante
+
+#Sweden
+ 
+        Visby lasarett - Visby
+        Halmstad Hospital - Halmstad
+        Varberg Hospital - Varberg
+        Kalix Hospital - Kalix
+        Sunderby Hospital - Boden  Luleå
+        Gällivare Hospital - Gällivare
+        Piteå Rivervalley Hospital - Piteå
+        Kiruna Hospital - Kiruna
+        Helsingborg Hospital - Helsingborg
+        Ängelholm Hospital - Ängelholm
+        Landskrona Hospital - Landskrona
+        Skåne University Hospital - Malmö and Lund
+        Trelleborg Hospital - Trelleborg
+        Ystad Hospital - Ystad
+        Kristianstads Lasarett - Kristianstad
+        Beckomberga Hospital - Bromma 
+        Bromma sjukhus - Bromma
+        Dalens sjukhus - Enskededalen
+        Danderyds sjukhus - Danderyd
+        Huddinge universitetssjukhus - Huddinge  Karolinska universitetssjukhuset 
+        Karolinska Universitetsjukhuset i Huddinge
+        Jakobsbergs sjukhus - Järfälla
+        Karolinska University Hospital - Solna and Huddinge
+        Löwenströmska sjukhuset - Upplands Väsby
+        Norrtälje sjukhus - Norrtälje
+        Nynäshamns sjukhus - Nynäshamn
+        S:t Eriks ögonsjukhus - Stockholm Municipality
+        S:t Görans Sjukhus - Stockholm Municipality
+        Sabbatsbergs sjukhus - Stockholm Municipality
+        Sollentuna sjukhus - Sollentuna Municipality
+        Södersjukhuset - Stockholm Municipality
+        Södertälje sjukhus - Södertälje
+        Uppsala University Hospital  
+        Norrland University Hospital - Umeå
+        Möndals Sjukhus - Möndal
+        Sahlgrenska University Hospital - Gothenburg
+        Sahlgrenska University Hospital East - Gothenburg
+        Länssjukhuset Ryhov - Jönköping
+        Värnamo Sjukhus - Värnamo
+        Höglandssjukhuset - Eksjö
+        Örebro University Hospital - Örebro
+        köping hospital - köping
+#Switzerland
+
+    Am Rosenberg Clinic, Heiden
+    Andreas Clinic, Cham
+    Beau-Site Clinic, Bern
+    Belair Clinic, Schaffhausen
+    Bethesda-Spital, Basel
+    Birshof Clinic, Basel
+    Bois-Cerf Clinic, Lausanne
+    Bruderholzspital, Basel
+    Bürgerspital, Solothurn
+    Cecil Clinic, Lausanne
+    University Hospital of Lausanne (CHUV), Lausanne
+    Clinique de Montchoisi, Lausanne
+    Clinique Générale St-Anne Fribourg
+    Claraspital, Basel
+    Ente Ospedaliero Cantonale, Ticino
+    Felix Platter-Spital, Basel
+    Hirslanden Clinic, Zurich
+    Hirslanden Clinic, Aarau
+    University Hospital of Geneva
+    Im Park Clinic, Zurich
+    Kantonsspital, Aarau
+    Kantonsspital, Olten
+    Kantonsspital, Baden
+    Kantonsspital, Liestal
+    Kantonsspital, Lucerne
+    Kantonsspital, St. Gallen
+    Kantonsspital, Männedorf
+    Lindenhofspital, Bern
+    Merian Iselin-Spital, Basel
+    Ospedale Civico, Lugano
+    Ospedale Italiano, Lugano
+    Ospedale San Giovanni, Bellinzona
+    Permanence Clinic, Bern
+    Regionalspital, Burgdorf
+    Regionalspital, Langenthal
+    Regionalspital, Langnau im Emmental
+    Regionalspital, Thun
+    Salem Hospital, Bern
+    St. Anna Clinic, Lucerne
+    Stadtspital Triemli, Zurich
+    Swiss Paraplegic Centre, Nottwil
+    Sonnenhof Hospitals Ltd., Klinik Sonnenhof & Klinik Engeried Bern
+    Spital Thusis, Graubünden
+    Tiefenauspital, Bern
+    University Hospital of Basel
+    University Hospital of Bern
+    University Hospital of Zurich
+    Waidspital, Zurich
+    Zieglerspital, Bern
+#Turkey
+
+    Anadolu Tıp Merkezi
+    Özel Ortopedia Hastanesi
+    Başkent Üniversitesi Alanya Uygulama ve Araştırma Merkezi
+    Çanakkale Devlet Hastanesi
+    Denizli Devlet Hastanesi
+    Diyarbakır Devlet Hastanesi
+    Diyarbakır Asker Hastanesi
+    Erzurum Mareşal Fevzi Çakmak Asker Hastanesi
+    Erzurum Bölge Eğitim Araştırma Hastanesi
+    Erzincan Devlet Hastanesi
+    13 Şubat Devlet (SSK) Hastanesi
+    Eskişehir Hava Hastanesi
+
+    Bakırköy Psychiatric Hospital
+    Balıklı Greek Hospital
+    Surp Agop Hospital
+    Taksim German Hospital
+    Yaşar Hospital, Bakırköy
+    Batı Bahat Hastanesi, İkitelli
+    Acıbadem Hospitals Group
+    Arnavutköy Government Hospital, Arnavutköy
+    Şişli Florence Nightingale Hastanesi, Çağlayan
+    Kadıköy Florence Nightingale Hastanesi, Kadıköy
+    Gayrettepe Florence Nightingale Hastanesi, Gayrettepe
+    Göktürk Florence Nightingale Tıp Merkezi, Göktürk
+    Göz Sağlığı Merkezi
+    Memorial Hastanesi, Şişli, Etiler, Ataşehir, Suadiye
+    Ivf center in Turkey
+    Memorial HIZMET Hospital,Istanbul
+    Ethica Hospital
+    Estethica Plastic Surgery Hospitals
+    Medicana tüp bebek merkezi istanbul
+    Superplast Estetik Cerrahi Merkezi, Nişantaşı İstanbul
+    MetropolDoctors, Levent İstanbul
+  
+    Gölcük Deniz Hastanesi
+    Gebze Fatih Devlet Hastanesi
+    Gebze Devlet Hastanesi
+    Özel Gebze Merkez Hastanesi
+    Kocaeli Devlet Hastanesi
+    Kocaeli Üniversitesi Tıp fakültesi
+    özel Yeni yüzyıl hastanesi
+    Gebze Tıp merkezi
+    Yeşim Tıp Merkezi
+    Özel Akademi hastanesi
+    Gebze Şifa tıp merkezi
+  
+    SSK Konya Doğumevi ve Çocuk Hastalıkları Hastanesi
+    Konya Başkent Hastanesi
+    Konya Numune Hastanesi
+    Konya Meram Tıp Fakültesi Hastanesi
+  
+    Mersin University Hospital
+    Mersin state Hospital
+    Private IMC Hospital
+    Private Sistem Tıp Hospital
+    Private Doğuş Tanrıöver Hopspital
+    Private Toros Hospital
+    Private Yenişehir Hospital
+  	Muğla Kamu Hastaneleri Birliği
+	Muğla Eğitim Araştırma Hastanesi
+	Fethiye Devlet Hastanesi
+	Milas Devlet Hastanesi
+	Bodrum Devlet Hastanesi
+	Marmaris Devlet Hastanesi
+	Yatağan Devlet Hastanesi
+	Köyceğiz Devlet Hastanesi
+	Dalaman Devlet Hastanesi
+	Ortaca Devlet Hastanesi
+	Datça Devlet Hastanesi
+	Muğla Ağız ve Diş Sağlığı Merkezi
+	Fethiye Ağız ve Diş Sağlığı Merkezi
+    SSK Nazilli Hastanesi
+	Çorlu Asker Hastanesi
+    SSK Karadeniz-Ereğli Hastanesi, Karadeniz-Ereğli,Özel Anadolu Hastanesi,Karadeniz-Ereğli
+    Çağıner Hastanesi
+    Diomed Hastanesi
+    Dr. Zekai Tahir Burak Kadın Hastanesi
+    Florence Nightingale Avrupa Hospital, Şişli
+    Florence Nightingale Hospital, Çağlayan
+    Florence Nightingale Metropolitan Hospital, Gayrettepe
+    Florence Nightingale Hospital, Göktürk
+    Göz Sağlığı Merkezi
+    KBB Tıp Merkezi
+    Medline Sağlık Hizmetleri
+    Oltu Devlet Hastanesi
+    Özel Derman Polikliniği
+    Özel Güneş Hastanesi
+    T.C. Ziraat Bankası Hastanesi
+    Turgut Özal Tıp Merkezi KBB Anabilim Dalı
+    Aliağa Devlet Hastanesi, Aliağa
+    Atatürk Eğitim ve Araştırma Hastanesi, Yeşilyurt, Konak
+    Bayındır Devlet Hastanesi, Bayındır
+    Bergama Dr. Faruk İlker Devlet Hastanesi, Bergama
+    Bornova Türkan Özilhan Devlet Hastanesi, Bornova
+    Bozyaka Eğitim ve Araştırma Hastanesi, Bozyaka, Konak
+    Buca Seyfi Demirsoy Devlet Hastanesi, Buca
+    Buca Doğumevi ve Çocuk Hastalıkları Hastanesi, Buca
+    Çeşme Alper Çizgenakat Devlet Hastanesi, Çeşme
+    Çiğli Devlet Hastanesi, Çiğli
+    D.D.Y. Hastanesi, Alsancak, Konak
+    Dikili Devlet Hastanesi, Dikili
+    Dr. Behçet Uz Çocuk Hastanesi, Alsancak
+    Dr. Suat Seren Göğüs Hastalıkları Ve Cerrahi Eğitim Hastanesi, Yenişehir, Konak
+    Eşrefpaşa Belediye Hastanesi, Yenişehir, Konak
+    Foça Devlet Hastanesi, Foça
+    İzmir Eğitim Diş Hastanesi, Konak
+    Karşıyaka Devlet Hastanesi, Serinkuyu, Karşıyaka
+    Kemalpaşa Devlet Hastanesi, Kemalpaşa
+    Kiraz Devlet Hastanesi, Kiraz
+    Menemen Devlet Hastanesi, Menemen
+    Nevvar - Salih İşgören Alsancak Devlet Hastanesi, Alsancak, Konak
+    Ödemiş Devlet Hastanesi, Ödemiş
+    Seferihisar Necat Hepkon Devlet Hastanesi, Seferihisar
+    Selçuk Devlet Hastanesi, Selçuk
+    Tepecik Eğitim ve Araştırma Hastanesi, Yenişehir, Konak
+    Tire Devlet Hastanesi, Tire
+    Torbalı Devlet Hastanesi, Torbalı
+    Urla Devlet Hastanesi, Urla
+    Ege Üniversitesi Tıp Fakültesi Doğumevi, Bornova
+    Dr. E.Hayri Üstündağ Kadın Hastalıkları ve Doğum Hastanesi, Konak
+    SGK Tepecik Doğum Hastanesi, Yenişehir, Konak
+    Özel Çınarlı Kadın Doğum Hastanesi, Konak
+ 
+    Başkent Üniversitesi Zübeyde Hanım Hastanesi, Bostanlı, Karşıyaka
+    Dokuz Eylül Üniversitesi Tıp Fakültesi Hastanesi, İnciraltı, Balçova
+    Ege Üniversitesi Tıp Fakültesi Hastanesi, Bornova
+ 
+    Güzelyalı Hava Hastanesi, Üçkuyular, Konak
+    İzmir Mevki Asker Hastanesi, Hatay, Konak
+ 
+    Özel Akut Kalp Damar Hastanesi, Gaziemir
+    Özel Atakalp Hastanesi, Konak
+    Özel Baki Uzun Hastanesi, Karabağlar
+    BatıAnadolu Central Hospital, Bayraklı
+    Ekol Kulak Burun Boğaz Hastanesi, Çiğli
+    Özel Deniz Hastanesi, Yenişehir, Konak
+    Özel Diabet Hastanesi, Yenişehir, Konak
+    Özel Ege Sağlık Hastanesi, Alsancak, Konak
+    Özel Egepol Hastanesi, Karabağlar
+    Özel El Ve Mikrocerrahi Hastanesi, Alsancak, Konak
+    Özel Gazi Hastanesi, Alsancak, Konak
+    Özel Gözde Hastanesi, Yenişehir, Konak
+    Özel Hayat Hastanesi, Konak
+    Özel İzmir Hastanesi, Konak
+    Özel Karataş Hastanesi, Karataş, Konak
+    Özel Kaşkaloğlu Göz Hastanesi Alsancak, Konak
+    Özel Kent Hastanesi, Çiğli
+    Medical Park İzmir Hastanesi, Karşıyaka
+    Özel Medifema Hastanesi, Torbalı
+    Özel Su Hastanesi, Kahramanlar, Konak
+    Özel Şifa Üniversitesi Bornova Eğitim Araştırma Hastanesi, Bornova
+    Özel Şifa Hastanesi İzmir, Basmane, Konak
+    Özel Tınaztepe Hastanesi, Buca
+    Ankara Egitim Ve Arastirma Hastanesi Ankara Training and Research Hospital
+    Ankara Fizik Tedavi Ve Rehabilitasyon Merkezi Ankara Physical Therapy and Rehabilitation Center
+    Ankara Numune Hastanesi Ankara Numune Hospital
+    Ankara Onkoloji Hastanesi Ankara Oncology Hospital
+    Ankara Verem Savaş Derneği Hastanesi Ankara Battling Tuberculosis Foundation Hospital
+    Atatürk Araştırma Hastanesi  Atatürk Research Hospital 
+    Atatürk Sanatoryumu Göğüs Hastalıkları Hastanesi Atatürk Senatorium Hospital for Breast Diseases
+    Büyükşehir Belediye Hastanesi Greater Municipality Hospital
+    Deri Ve Zührevi Hastalıkları Hastanesi Dermatological & Venereal Diseases Hospital
+    Dr. M. Ülker Acil Yardım Ve Travmatoloji Hastanesi Dr. M. Ülker Emergency Trauma Hospital
+    Dr. Sami Ulus Çocuk Hastanesi Dr. Sami Ulus Children's Hospital
+    Dr. Zekai Tahir Burak Kadın Hastanesi Dr. Zekai Tahir Burak Women's Hospital
+    Etimesgut Devlet Hastanesi Etimesgut State Hospital
+    Muhittin Ülker Acil Yardım Hastanesi Muhittin Ülker Emergency Hospital
+    PTT Rüzgarlı Dispanseri PTT Rüzgarlı Dispensary
+    S.B. Ankara Hastanesi S.B. Ankara Hospital
+    Türkiye Yüksek İhtisas Hastanesi Turkish High Specialty Hospital
+    TC Ziraat Bankası Hastanesi Turkish Ziraat Bank Hospital
+    TCDD Hastanesi Turkish State Railways Hospital,
+    Ankara Meslek Hastanesi Ankara Occupational Hospital
+ 
+    SSK Ankara Eğitim Hastanesi, Dışkapı
+    SSK Ankara Çocuk Hastanesi
+    SSK İhtisas Hastanesi
+    SSK Meslek Hastalıkları Hastanesi
+    SSK Ulus Hastanesi
+    SSK Ulucanlar Dispanseri
+    SSK Yenişehir Dispanseri
+ 
+    SSK Etlik Doğumevi
+    Zübeyde Hanım Doğumevi
+ 
+    Ankara Üniversitesi Tıp Fakültesi Hastanesi 
+    Ankara Üniversitesi Tıp Fakültesi Cebeci Hastanesi 
+    Ankara Üniversitesi Tıp Fakültesi İbni Sina Hastanesi 
+    Başkent Üniversitesi Hastanesi
+    Fatih Üniversitesi Tıp Fakültesi Hastanesi
+    Gazi Üniversitesi Tıp Fakültesi Hastanesi
+    Gazi Üniversitesi Tıp Fakültesi Gölbaşı Hastanesi 
+    Hacettepe Üniversitesi Tıp Fakültesi Hastanesi 
+    Ankara Gülhane Askeri Tıp Akademisi
+    Ankara Mevki Asker Hastanesi
+    Etimesgut Hava Hastanesi
+    29 Mayıs Hastanesi
+    Zonguldak Cerrah Hastanesi
+    Alkan Hastanesi
+    Başkent Üniversitesi Hastanesi
+    Bayındır Tıp Merkezi
+    Çağ Hastanesi
+    Çankaya Hastanesi
+    Mesa Hastanesi
+    Güven Hastanesi, Kavaklıdere
+    Olgunlar Hastanesi
+    Özel Demet Hastanesi
+    Özel Yaşam Hastanesi, Maltepe
+    Sevgi Millienium Hastanesi, Kavaklıdere
+    V.S.D Nusret Karasu Hastanesi, Ulus
+    Ankara 29 Mayıs Hastanesi, Dikmen
+    Bayındır Klinik, Kavaklıdere
+    Çağ Hastanesi, Kızılay
+    Çankaya Hastanesi, Kavaklıdere
+    Ankara Tıp Merkezi, Kavaklıdere
+    Keçiören Hastanesi, Keçiören
+    Kudret Göz Hastanesi, Kavaklıdere
+    Hasvak Gün Hastanesi, GaziOsmanPaşa
+    Ahmet Örs Hastanesi, Beştepe
+    Çankaya Tıp Merkezi, Çankaya
+     Başkent University Healthcare  
+    Ayvalık Devlet Hastanesi
+    Balıkesir Devlet Hastanesi
+    Balıkesir Göğüs Hastalıkları Hastanesi
+    Bandırma Devlet Hastanesi
+    Bigadiç Devlet Hastanesi
+    Burhaniye Devlet Hastanesi
+    Dursunbey Devlet Hastanesi
+    Edremit Devlet Hastanesi
+    Gönen Devlet Hastanesi
+    Sındırgı Devlet Hastanesi
+    Susurluk Devlet Hastanesi
+    SSK Balıkesir Hastanesi
+    SSK Bandırma Hastanesi
+    SSK Bigadiç Hastanesi
+    SSK Edremit Hastanesi
+    Balıkesir Asker Hastanesi
+    Edremit Asker Hastanesi
+    Bursa Devlet Hastanesi
+    Gemlik Devlet Hastanesi
+    Harmancık Devlet Hastanesi
+    İnegöl Devlet Hastanesi
+    İznik Devlet Hastanesi
+    Karacabey Devlet Hastanesi
+    Mudanya Devlet Hastanesi
+    Mustafakemalpaşa Devlet Hastanesi
+    Orhaneli Devlet Hastanesi
+    Orhangazi Devlet Hastanesi
+    Yenişehir Devlet Hastanesi
+    SSK Demirtaş Polikliniği
+    SSK Duaçınar Polikliniği
+    SSK Gemlik Hastanesi
+    SSK Hastanesi
+    SSK İnegöl Hastanesi
+    SSK Karacabey İstasyonu
+    SSK Kestel İstasyonu
+    SSK Orhangazi İstasyonu
+    SSK P. Sanayi Polikliniği
+    SSK Şevket Yılmaz Hastanesi
+    Zübeyde Hanım Doğumevi
+    Celal Bayar Üniversitesi Moris Şinasi Eğitim ve Uygulama Hastanesi
+    Uludağ Üniversitesi Tıp Fakültesi Hastanesi
+    A.O.S. Onkoloji Hastanesi
+    Bursa Çocuk Hastanesi
+    Göğüs Hastanesi
+    Yüksek İhtisas Hastanesi
+    Dr. Ayten BOZKAYA Spastik  
+    Özel Bursa Hastanesi
+    Özel Hayat Hastanesi
+    Özel Konur Sağlık Merkezi
+    Özel Vatan Hastanesi
+#Ukraine
+#United Kingdom
+#England
+    Bassetlaw Hospital – Worksop, Nottinghamshire
+    Chesterfield Royal Hospital – Chesterfield
+    Derbyshire Children's Hospital – Derby
+    Glenfield General Hospital – Glenfield, Leicestershire
+    Grantham & District Hospital – Grantham, Lincolnshire
+    John Coupland Hospital – Gainsborough, Lincolnshire
+    Kettering General Hospital – Kettering, Northamptonshire
+    King's Mill Hospital – Sutton-in-Ashfield, Nottinghamshire
+    Leicester General Hospital – Leicester
+    Leicester Royal Infirmary – Leicester
+    Lincoln County Hospital – Lincoln, Lincolnshire
+    London Road Community Hospital – Derby
+    Louth County Hospital – Louth, Lincolnshire
+    Northampton General Hospital, Northampton, Northamptonshire
+    Nottingham City Hospital – Nottingham
+    Nottingham University Hospitals NHS Trust – Nottingham
+    Nuffield Health Private Hospital – Derby
+    George Eliot Hospital – Nuneaton
+    Pilgrim Hospital – Boston, Lincolnshire
+    Queen's Medical Centre – Nottingham
+    Rampton Secure Hospital – Nottinghamshire
+    Royal Derby Hospital – Derby
+    St Andrew's Hospital – Northampton
+    St Mary's Hospital – Kettering
+    Loughborough Hospital – Loughborough
+ 
+    Addenbrooke's Hospital – Cambridge, 1,300 Beds
+    Basildon Hospital – Basildon, Essex
+    Bedford Hospital NHS Trust – Bedford, 520 Beds
+    Broomfield Hospital – Chelmsford, 800 Beds
+    Colchester General Hospital – Colchester, Essex
+    Essex County Hospital – Colchester, Essex
+    Hemel Hempstead General Hospital, Hemel Hempstead, Hertfordshire, 40 Beds
+    Herts and Essex Hospital, Bishop's Stortford, Hertfordshire Community Hospital, 36 beds.
+    Hinchingbrooke Hospital – Huntingdon, Cambridgeshire, 396 Beds
+    Ipswich Hospital – Ipswich, 800 Beds
+    James Paget Hospital – Gorleston, Great Yarmouth, Norfolk
+    Lister Hospital – Stevenage, Hertfordshire
+    Luton & Dunstable Hospital – Luton, Bedfordshire
+    Norfolk and Norwich University Hospital – Norwich
+    North Cambridgeshire Hospital – Wisbech
+    Norwich Community Hospital – Norwich
+    Nuffield Health Cambridge Hospital – Cambridge
+    Orsett Hospital – Grays, Essex
+    Papworth Hospital – Cambridgeshire
+    Peterborough City Hospital – Peterborough, Cambridgeshire
+    Prestwich Hospital – Bury St Edmunds, Suffolk
+    Princess Alexandra Hospital (Harlow) – Harlow, Essex
+    Queen Elizabeth Hospital, King's Lynn – King's Lynn, Norfolk
+    Queen Elizabeth II Hospital – Welwyn Garden City, Hertfordshire
+    St Audry's Hospital – Melton, Suffolk, England
+    St Albans City Hospital – St Albans, Hertfordshire, 40 Beds
+    St Leonard's Hospital – Sudbury, Suffolk
+    Southend University Hospital – Westcliffe-on-Sea, Essex
+    Walnut Tree Hospital – Sudbury, Suffolk
+    West Suffolk Hospital – Bury St Edmunds, Suffolk,children's department,664 Beds
+    Watford General Hospital -Watford Hertfordshire, 531 Beds
+    Violet Hill Hospital – Stowmarket, Suffolk
+
+    Auckland Park Hospital – Bishop Auckland
+    Bishop Auckland General Hospital – Bishop Auckland
+    Cherry Knowle Hospital – Ryhope
+    Chester-le-Street Hospital – Chester-le-Street
+    County Hospital – Durham
+    Nuffield Health Tees Hospital – Stockton-on-Tees
+    Earls House Hospital – Durham
+    Darlington Memorial Hospital – Darlington
+    Freeman Hospital – Newcastle
+    Hexham General Hospital – Hexham
+    The James Cook University Hospital – Middlesbrough
+    Middleton St George Hospital – Middleton St George
+    Newcastle General Hospital – Newcastle
+    North Tyneside General Hospital – North Shields
+    Nuffield Health Newcastle-upon-Tyne Hospital - Newcastle
+    Queen Elizabeth Hospital, Gateshead – Gateshead
+    Royal Victoria Infirmary – Newcastle
+    St Luke's Hospital – Middlesbrough
+    St Nicholas Hospital – Gosforth
+    Shotley Bridge Community Hospital – Shotley Bridge
+    South Tyneside District Hospital – South Shields
+    Sunderland Royal Hospital – Sunderland
+    University Hospital of North Durham – Durham
+    University Hospital of Hartlepool – Hartlepool
+    University Hospital of North Tees – Stockton-on-Tees
+    Wansbeck General Hospital – Ashington
+    West Lane Hospital – Middlesbrough
+    West Park Hospital – Darlington
+    General Hospital Ayresome Green Lane (Middlesbrough)
+ 
+    Aintree University Hospital – Liverpool
+    Arrowe Park Hospital – Wirral
+    Ashworth Hospital
+    Alder Hey Children's Hospital – Liverpool
+    Altrincham General Hospital
+    Billinge Hospital
+    Birch Hill Hospital – Rochdale
+    Blackpool Victoria Hospital – Blackpool, Lancashire
+    Booth Hall Children's Hospital
+    Broadgreen Hospital – Liverpool
+    Burnley General Hospital – Burnley, Lancashire
+    Clatterbridge General Hospital – Wirral
+    Chorley and South Ribble District General Hospital - Chorley
+    Countess of Chester Hospital – Chester, Cheshire
+    Cumberland Infirmary – Carlisle
+    Fairfield Hospital – Bury
+    Fazakerley Hospital – Liverpool
+    Furness General Hospital – Barrow-in-Furness
+    Halton General Hospital – Runcorn
+    Leigh Infirmary – Leigh
+    Leighton Hospital – Crewe
+    Lytham Hospital – Lytham
+    Macclesfield District General Hospital – Macclesfield
+    Manchester Royal Eye Hospital – Manchester
+    Manchester Royal Infirmary – Manchester
+    North Cheshire Hospital – Warrington
+    North Manchester General Hospital
+    Rochdale Infirmary
+    Royal Albert Edward Infirmary – Wigan – 513 Beds
+    Royal Blackburn Hospital – Blackburn
+    Royal Bolton Hospital – Bolton
+    Royal Lancaster Infirmary – Lancaster
+    Royal Liverpool Children's Hospital – Liverpool
+    Royal Liverpool University Hospital – Liverpool
+    Royal Manchester Children's Hospital
+    Royal Oldham Hospital – Oldham
+    Royal Preston Hospital – Preston
+    Salford Royal – Salford
+    Southport and Ormskirk District General Hospital
+    St Helens Hospital – Merseyside
+    St Mary's Hospital for Women and Children – Manchester
+    Stepping Hill Hospital – Stockport
+    Tameside General Hospital – Ashton-under-Lyne
+    Trafford General Hospital, Davyhulme, Manchester
+    The Walton Centre for Neurology and Neurosurgery – Liverpool
+    Warrington Hospital – Warrington
+    West Cumberland Infirmary – Whitehaven
+    Westmorland General Hospital – Kendal
+    Whiston Hospital – Merseyside
+    Withington Hospital – Manchester
+    Wythenshawe Hospital – Manchester
+ 
+    Ashford Hospital – Ashford, Surrey
+    Brighton General Hospital – Brighton
+    Conquest Hospital – Hastings, East Sussex
+    Crawley Hospital – Crawley, West Sussex
+    Darent Valley Hospital – Dartford, Kent
+    Eastbourne District General Hospital – Eastbourne, East Sussex
+    East Surrey Hospital – Redhill, Surrey
+    Frimley Park Hospital – Frimley, Surrey
+    Kent and Sussex Hospital – Tunbridge Wells, Kent
+    Kent and Canterbury Hospital – Canterbury, Kent
+    Maidstone General Hospital – Maidstone, Kent
+    Medway Maritime Hospital – Medway, Kent
+    Montefiore Hospital – Hove
+    Nuffield Health Brighton Hospital – Brighton
+    Pembury Hospital – Pembury, Tunbridge Wells, Kent
+    Princess Royal Hospital – Haywards Heath, West Sussex
+    Queen Elizabeth The Queen Mother Hospital – Margate, Kent
+    Queen Victoria Hospital – East Grinstead, West Sussex
+    Royal Sussex County Hospital – Brighton
+    Royal Alexandra Hospital – Brighton
+    Royal Surrey County Hospital – Guildford, Surrey
+    Royal Victoria Hospital – Folkestone, Kent
+    Southlands Hospital – Shoreham-by-Sea, West Sussex
+    St Peter's Hospital – Chertsey, Surrey – 400 Beds
+    St Richard's Hospital – Chichester, West Sussex
+    William Harvey Hospital – Ashford, Kent
+    Worthing Hospital – Worthing, West Sussex
+    Amersham Hospital – Amersham, Buckinghamshire
+    Broadmoor Hospital
+    Coldeast Hospital – Sarisbury Green, Hampshire
+    Fordingbridge Hospital - Fordingbridge, Hants.
+    Gosport War Memorial Hospital – Gosport, Hampshire
+    Havant War Memorial Hospital – Havant, Hampshire
+    Heatherwood Hospital – Ascot, Berkshire
+    Horton General Hospital – Banbury, Oxfordshire
+    John Radcliffe Hospital – Oxford
+    Lymington Hospital – Lymington
+    Lymington New Forest Hospital – Lymington
+    Moorgreen Hospital – West End, Hampshire
+    Milton Keynes General Hospital – Milton Keynes
+    Netley Hospital – Netley, Hampshire
+    New Hall Hospital – Salisbury independent
+    North Hampshire Hospital – Basingstoke
+    Nuffield Orthopaedic Centre – Oxford
+    Oxford Clinic for Specialist Surgery – Oxford
+    Petersfield Hospital – Petersfield, Hampshire
+    Queen Alexandra Hospital – Portsmouth, Hampshire
+    Radcliffe Infirmary – Oxford
+    Romsey Hospital – Romsey
+    Royal Berkshire Hospital – Reading, Berkshire
+    Royal Buckinghamshire Hospital – Aylesbury, Buckinghamshire
+    Royal Hampshire County Hospital – Winchester
+    Royal Hospital Haslar – Gosport, Hampshire
+    Royal South Hampshire Hospital – Southampton
+    Roundway Hospital – Devizes, Wiltshire
+    Southampton General Hospital – Southampton
+    Stoke Mandeville Hospital – Aylesbury, Buckinghamshire
+    St Christopher's Hospital – Fareham, Hampshire
+    St James' Hospital – Portsmouth, Hampshire
+    St Mary's Hospital – Isle of Wight
+    St Mary's Hospital – Portsmouth, Hampshire
+    Tatchbury Mount Hospital – Totton
+    Warneford Hospital – Oxford
+    Western Hospital – Southampton
+    Wexham Park Hospital – Wexham, Slough, Berkshire
+    Wycombe General Hospital – High Wycombe, Buckinghamshire
+    Fareham Community Hospital – Locksheath, Fareham, Southampton
+    Bodmin NHS Treatment Centre (Bodmin Hospital) – Bodmin, Cornwall
+    Royal Bournemouth Hospital – Bournemouth, Dorset
+    Bristol Royal Hospital for Children – Bristol
+    Bristol General Hospital – Bristol
+    Bristol Royal Infirmary – Bristol
+    Camborne Redruth Community Hospital – Illogan Highway
+    Cheltenham General Hospital – Cheltenham, Gloucestershire
+    Christchurch Hospital – Christchurch, Dorset
+    Cossham Memorial Hospital – Bristol
+    Derriford Hospital – Plymouth
+    Dorset County Hospital – Dorchester
+    Edward Hain Memorial Hospital – St Ives
+    Fountain Way – Salisbury, Wiltshire
+    Frenchay Hospital – Bristol
+    Gloucestershire Royal Hospital – Gloucester
+    Great Western Hospital – Swindon
+    Helston Cottage Hospital – Helston, Cornwall
+    Musgrove Park Hospital – Taunton, Somerset
+    Newton Abbot Community Hospitial - Newton Abbot, Devon
+    North Devon District Hospital – Barnstaple, Devon
+    Old Manor Hospital, Salisbury, Wiltshire
+    Paulton Memorial Hospital – Paulton, Somerset
+    Penrice Hospital – St Austell – Cornwall
+    Poltair Hospital – Heamoor, Penzance, Cornwall.
+    Poole Hospital – Poole, Dorset
+    Royal Cornwall Hospital – Truro
+    Royal Devon and Exeter Hospital – Exeter
+    Royal National Hospital for Rheumatic Diseases – Bath, Somerset
+    Royal United Hospital – Bath, Somerset
+    St Ann's Hospital – Poole, Dorset
+    St Michael's Hospital – Bristol
+    St Michael's Hospital – Hayle, Cornwall
+    Salisbury District Hospital – Salisbury, Wiltshire
+    South Bristol Community Hospital – Hengrove, Bristol
+    Southmead Hospital – Bristol
+    Stoke Military Hospital – Plymouth
+    Torbay District Hospital – Torquay
+    West Cornwall Hospital – Penzance
+    Westminster Memorial Hospital – Shaftesbury, Dorset
+    Weston General Hospital – Weston-super-Mare, North Somerset
+    Yeovil District Hospital – Yeovil, Somerset
+ 
+    Alexandra Hospital – Redditch
+    Birmingham Children's Hospital – Birmingham
+    Birmingham Dental Hospital – Birmingham
+    Birmingham Nuffield Hospital (Independent) – Edgbaston, Birmingham
+    Birmingham Women's Hospital – Edgbaston, Birmingham
+    BMI The Meriden Hospital – Coventry
+    Cannock Chase Hospital – Cannock
+    City Hospital, Birmingham – Birmingham
+    The (BMI) Edgbaston Hospital () – Birmingham
+    Ellen Badger Hospital – Shipston-on-Stour
+    George Eliot Hospital – Nuneaton
+    Good Hope Hospital – Sutton Coldfield
+    Heartlands Hospital – Birmingham
+    Manor Hospital – Walsall
+    Moseley Hall Hospital – Moseley, Birmingham
+    New Cross Hospital – Wolverhampton
+    Nuffield Health Warwickshire Hospital – Leamington Spa
+    Nuffield Health Shrewsbury Hospital – Shrewsbury
+    Princess Royal Hospital – Telford
+    Queen Elizabeth Hospital Birmingham – Birmingham
+    Queen Elizabeth Psychiatric Hospital – Edgbaston, Birmingham
+    Queen's Hospital – Burton upon Trent
+    Robert Jones and Agnes Hunt Orthopaedic Hospital – Oswestry
+    Royal Leamington Spa Rehabilitation Hospital – Leamington Spa
+    The Royal Orthopaedic Hospital – Northfield, Birmingham
+    The (BMI) Priory Hospital () – Birmingham
+    The Woodbourne Priory Independent Hospital Birmingham – Birmingham
+    Royal Shrewsbury Hospital – Shrewsbury
+    Russells Hall Hospital (Dudley)
+    Sandwell General Hospital – Sandwell
+    Selly Oak Hospital – Birmingham
+    Showell Green Lane Mental Hospital – Sparkhill, Birmingham
+    Spire Parkway Hospital (BUPA) – Solihull
+    Hospital of St. Cross, Rugby – Warwickshire
+    St Michael's Hospital, Warwick – Warwickshire
+    Solihull Hospital – Solihull
+    County Hospital – Stafford
+    Stratford Hospital – Stratford-upon-Avon
+    University Hospital Coventry – Coventry
+    University Hospital of North Staffordshire – Stoke-on-Trent
+    Warwick Hospital – Warwick
+    West Heath Hospital – Birmingham
+    Worcestershire Royal Hospital – Worcester
+    Alfred Bean Hospital – Driffield, East Riding of Yorkshire
+    Bridlington and District Hospital – Bridlington, East Riding of Yorkshire
+    Castle Hill Hospital – Cottingham, East Riding of Yorkshire
+    Diana, Princess of Wales Hospital – Grimsby, North East Lincolnshire
+    East Riding Community Hospital - Beverley, East Riding of Yorkshire
+    Friarage Hospital - Northallerton, North Yorkshire
+    Goole and District Hospital – Goole, East Riding of Yorkshire
+    Harrogate District Hospital – Harrogate, North Yorkshire
+    Hornsea Cottage Hospital – Hornsea, East Riding of Yorkshire
+    Hull and East Riding Hospital – Anlaby, East Riding of Yorkshire
+    Hull Royal Infirmary – Hull, East Riding of Yorkshire
+    Malton Community Hospital – Malton, North Yorkshire
+    Princess Royal Hospital – Hull, East Riding of Yorkshire
+    The Retreat – York, North Yorkshire
+    Ripon and District Community Hospital – Ripon, North Yorkshire
+    St Hugh's Hospital – Grimsby, North East Lincolnshire
+    Scarborough General Hospital – Scarborough, North Yorkshire
+    Scunthorpe General Hospital – Scunthorpe, North Lincolnshire
+    Whitby Community Hospital – Whitby, North Yorkshire
+    Withernsea Community Hospital – Withernsea, East Riding of Yorkshire
+    York Hospital – York, North Yorkshire
+    Airedale General Hospital – Keighley
+    Bradford Royal Infirmary – Bradford
+    Calderdale Royal Hospital – Halifax
+    Castleford, Normanton and District Hospital – Castleford
+    Chapel Allerton Hospital – Leeds
+    Clayton Hospital – Wakefield
+    Dewsbury and District Hospital – Dewsbury
+    Fieldhead Hospital – Wakefield
+    Leeds Dental Hospital – Leeds
+    Leeds General Infirmary – Leeds
+    Lynfield Mount Hospital – Bradford
+    Huddersfield Royal Infirmary – Huddersfield
+    Methley Park Hospital – Methley
+    Nuffield Health Leeds Hospital – Leeds
+    Pinderfields General Hospital – Wakefield
+    Pontefract General Infirmary – Pontefract
+    St James's University Hospital – Leeds
+    St. Luke's Hospital, Bradford – Bradford
+    St. Luke's Hospital, Huddersfield – Huddersfield
+    Seacroft Hospital – Leeds
+    Wharfedale Hospital – Otley
+Barnet General Hospital	Barnet
+Capio Nightingale Hospital	Marylebone
+Chase Farm Hospital	Enfield
+Elizabeth Garrett Anderson Hospital Maternity Building	Euston
+Gordon Hospital	Pimlico
+Great Ormond Street Hospital	Bloomsbury
+St Peter Baptist Hospital	Paddington
+Highlands Hospital	Winchmore Hill
+Hospital of St John and St Elizabeth	St John's Wood
+Middlesex Hospital	Central London
+New End Hospital	Camden
+North Middlesex Hospital	Edmonton
+The Priory Hospital Southgate	Southgate
+Royal Free Hospital	Hampstead
+St Ann's Hospital	Harringay
+University College Hospital	Bloomsbury
+Wellington Hospital	St John's Wood
+Whittington Hospital	Highgate
+Wood Green & Southgate Hospital	Bounds Green
+	
+Royal Northern Hospital	Holloway
+Hornsey Central Hospital	Crouch End
+Prince of Wales Hospital	Tottenham
+Hornsey Isolation Hospital	Muswell Hill
+St Lukes Hospital	Muswell Hill
+Cygnet Hospital Beckton	Beckton
+Harold Wood Hospital	Harold Wood
+Homerton University Hospital	Homerton, London
+King George Hospital	Redbridge
+London Lock Hospital	Hyde Park Corner, London
+Moorfields Eye Hospital	London Borough of Islington
+National Hospital for Neurology and Neurosurgery	Bloomsbury, London
+Newham University Hospital	Plaistow
+Queen Elizabeth Hospital for Children	Tower Hamlets, Bethnal Green
+Queen's Hospital	Romford
+Rush Green Hospital	Rush Green
+St Andrew's Hospital	Tower Hamlets
+Royal London Hospital	Tower Hamlets, Whitechapel
+Royal National Throat, Nose and Ear Hospital	Gray's Inn Road, Camden
+St Bartholomew's Hospital	Smithfield, London
+St. Clement's Hospital	Tower Hamlets, Mile End
+Wanstead Hospital	Wanstead
+Whipps Cross University Hospital	Leytonstone
+Hammersmith Hospital	Hammersmith & Fulham
+Central Middlesex Hospital	Park Royal
+Cygnet Hospital Ealing	Ealing
+Cygnet Hospital Harrow	Harrow
+Ealing Hospital	Southall
+Harefield Hospital	Harefield
+Hillingdon Hospital	Hillingdon
+Lakeside Mental Health Unit	Hounslow
+Mount Vernon Hospital	Hillingdon
+Northwick Park Hospital	Brent
+Park Royal Centre for Mental Health	Park Royal
+Queen Charlotte's and Chelsea Hospital	Hammersmith & Fulham
+Riverside Centre	Hillingdon
+Royal National Orthopaedic Hospital	Stanmore
+St Bernard's Hospital	Southall
+St Mary's Hospital	Paddington
+St Mary's Hospital  Harrow Road 
+West Middlesex Hospital	Isleworth
+Western Eye Hospital	Marylebone
+Beckenham Hospital	Beckenham
+Belgrave Hospital for Children	Kennington
+Bethlem Royal Hospital	Beckenham
+Dulwich Hospital	Southwark
+Evelina Children's Hospital	Lambeth
+St. Francis Hospital	Southwark
+St Giles Hospital	Southwark
+Greenwich Hospital	Greenwich
+Greenwich District Hospital	Greenwich
+Guy's Hospital	Southwark
+King's College Hospital	Camberwell
+Lambeth Hospital	Stockwell
+London Bridge Hospital	London
+University Hospital Lewisham	Lewisham
+Maudsley Hospital	Camberwell
+Mayday University Hospital	Thornton Heath
+Orpington Hospital	Orpington
+Princess Royal University Hospital	Farnborough
+The Priory Hospital Hayes Grove	Bromley
+Queen Elizabeth Hospital	Woolwich
+Queen Mary's Hospital	Sidcup
+St Anthony's Hospital	Cheam
+St Thomas' Hospital	Lambeth
+Charing Cross Hospital	Hammersmith
+Chelsea & Westminster Hospital	Chelsea
+Cromwell Hospital	South Kensington
+Kensington and Chelsea Mental Health Centre	Royal Borough of Kensington and Chelsea
+King Edward VII's Hospital Sister Agnes	Westminster
+Kingston Hospital	Kingston upon Thames
+Lister Hospital	Chelsea
+The London Clinic	Westminster
+The Portland Hospital for Women and Children	Marylebone/Fitzrovia
+The Princess Grace Hospital	Marylebone
+The Priory Hospital, Roehampton	Roehampton
+Putney Hospital	Commondale, Putney, SW15
+Royal Brompton Hospital	Chelsea
+Royal Hospital Chelsea	Chelsea
+Royal Hospital for Neuro-disability	Putney
+Royal Marsden Hospital	Chelsea
+St Charles' Hospital	Royal Borough of Kensington and Chelsea
+St George's Hospital	Tooting
+St Helier Hospital	Sutton
+St Mary Abbot's Hospital	Kensington
+South London Hospital for Women and Children	Clapham
+Teddington Memorial Hospital	Teddington
+Westminster Hospital	Westminster
+Barnsley Hospital NHS Foundation Trust	Barnsley
+Beighton Community Hospital	Sheffield
+Centenary House  	Sheffield
+Charles Clifford Dental Hospital	Sheffield
+Claremont Hospital	Sheffield
+Crimicar Lane Hospital	Sheffield
+Doncaster Gate Hospital	Rotherham
+Doncaster Royal Infirmary	Doncaster
+Flocton House 	Sheffield
+Jessop Hospital for Women	Sheffield
+Jessop Wing	Sheffield
+Kendray Hospital	Barnsley
+Lodge Moor Hospital	Sheffield
+Middlewood Hospital	Sheffield
+Montagu Hospital	Mexborough
+Mount Vernon Hospital	Barnsley
+Nether Edge Hospital	Sheffield
+Northern General Hospital	Sheffield
+Oakwood Young People's Centre	Sheffield
+Park Hill Hospital	Doncaster
+The Rotherham NHS Foundation Trust	Rotherham
+Royal Hallamshire Hospital	Sheffield
+Ryegate Children's Centre	Sheffield
+Sheffield Children's Hospital	Sheffield
+Shirle Hill Hospital	Sheffield
+St Catherine's Hospital	Doncaster
+St George's Hospital	Sheffield
+St Peter's Close Child psychiatry	Sheffield
+Thornbury Hospital	Sheffield
+Weston Park Hospital	Sheffield
+#Northern Ireland
+    Alexandra Gardens Day Hospital
+    Belfast City Hospital
+    Windsor House Mental Health Service
+    Beechcroft Hospital
+    Cancer Centre, Belfast
+    Forster Green Hospital
+    Knockbracken Healthcare Park
+    Mater Infirmorum Hospital
+    Muckamore Abbey Hospital
+    Musgrave Park Hospital
+    Royal Belfast Hospital for Sick Children
+    Royal Jubilee Maternity
+    Royal Victoria Hospital
+    Shaftesbury Square Hospital
+ 
+    Antrim Area Hospital, Antrim
+    Braid Valley Hospital, Ballymena
+    Dalriada Hospital, Ballycastle
+    Holywell Hospital, Antrim
+    Lagan Valley Hospital, Lisburn
+    Moyle Hospital, Larne
+    Robinson Hospital, Ballymoney
+    Whiteabbey Hospital, Newtownabbey
+ 
+
+    Belvoir Park Hospital, Belfast
+ 
+
+    Armagh Community Hospital, Armagh
+    Craigavon Area Hospital, Portadown
+        Bluestone Mental Health Unit, Portadown
+    Longstone Hospital, Armagh
+    Lurgan Hospital, Lurgan
+    Mullinure Health & Wellbeing Centre, Armagh
+    St Luke's Hospital, Armagh
+ 
+    Ards Community Hospital, Newtownards
+    Banbridge Polyclinic, Banbridge
+    Bangor Community Hospital, Bangor
+    Daisy Hill Hospital, Newry
+    Downe Hospital, Downpatrick
+    Downshire Hospital, Downpatrick
+    Ulster Hospital, Dundonald
+    Banbridge Hospital
+    South West Acute Hospital, Enniskillen
+    Erne Hospital, Enniskillen
+    Altnagelvin Area Hospital, Derry
+    Causeway Hospital, Coleraine
+    Grangewood Hospital, Derry
+    Lakeview Hospital, Derry
+    Mid-Ulster Hospital, Magherafelt
+    Waterside Hospital, Derry
+ 
+
+    Roe Valley Hospital, Limavady
+ 
+    South Tyrone Hospital, Dungannon
+    Tyrone County Hospital, Omagh
+    Tyrone and Fermanagh Hospital, Omagh
+ 
+
+    The State Hospital for Scotland and Northern Ireland Carstairs, South Lanarkshire, Scotland.
+ 
+    Fitzwilliam Clinic, Belfast
+    Hillsborough Clinic, Hillsborough
+    Kingsbridge Private Hospital, Belfast
+    North West Independent Hospital, Ballykelly
+    Ulster Independent Clinic, Belfast
+
+#Scotland
+    University Hospital Crosshouse, Crosshouse, Kilmarnock
+    East Ayrshire Community Hospital, Cumnock
+    Kirklandside Hospital, Hurlford
+    Ayrshire Central Hospital, Irvine
+    Brooksby House Hospital, Largs
+    Isle of Arran War Memorial Hospital, Lamlash, Isle of Arran
+    Lady Margaret Hospital, Millport, Isle of Cumbrae
+    Ailsa Hospital, Ayr
+    Biggart Hospital, Prestwick
+    Davidson Cottage Hospital, Girvan
+    University Hospital Ayr, Ayr
+    Borders General Hospital, Melrose
+    Coldstream Cottage Hospital
+    Hawick Community Hospital
+    Hay Lodge Hospital, Peebles
+    Kelso Hospital
+    Knoll Hospital, Duns
+    Sister Margaret Cottage Hospital, Jedburgh
+    Crichton Royal Hospital
+    Dumfries and Galloway Royal Infirmary
+    Nithbank Hospital
+    Annan Hospital
+    Castle Douglas Hospital
+    Galloway Community Hospital, Stranraer
+    Kirkcudbright Hospital
+    Lochmaben Hospital
+    Moffat Hospital
+    Newton Stewart Hospital
+    Thomas Hope Hospital, Langholm
+    Thornhill Hospital
+    Adamson Hospital, Cupar
+    Cameron Hospital, Windygates
+    Glenrothes Hospital, Glenrothes
+    Lynebank Hospital, Dunfermline
+    Queen Margaret Hospital, Dunfermline
+    Randolph Wemyss Memorial Hospital, Buckhaven
+    St Andrews Community Hospital, St Andrews
+    Stratheden Hospital, Springfield (Cupar)
+    Victoria Hospital (Kirkcaldy)
+    Whytemans Brae Hospital, Kirkcaldy
+    Clackmannan County Hospital, Alloa
+    Sauchie Hospital
+    Falkirk Community Hospital
+    Bellsdyke Hospital, Larbert
+    Bo'ness Hospital
+    Bonnybridge Hospital
+    Lochview Hospital, Larbert
+    Royal Scottish National Hospital, Larbert
+    Forth Valley Royal Hospital, Larbert
+    Orchard House Hospital
+    Stirling Community Hospital
+    Bannockburn Hospital
+    Aberdeen Community Health and Care Village
+    Aberdeen Maternity Hospital
+    Aberdeen Royal Infirmary University of Aberdeen Medical School
+    City Hospital
+    National Hyperbaric Centre
+    Roxburghe House
+    Royal Aberdeen Children's Hospital
+    Royal Cornhill Hospital
+    Woodend Hospital
+    Woolmanhill Hospital
+    Aboyne Hospital
+    Campbell Hospital, Portsoy
+    Chalmers Hospital, Banff
+    Fraserburgh Hospital
+    Glen O'Dee Hospital, Banchory
+    Insch and District War Memorial Hospital
+    Inverurie Hospital
+    Jubilee Hospital, Huntly
+    Kincardine Community Hospital, Stonehaven
+    Maud Hospital, Maud, Peterhead
+    Peterhead Community Hospital
+    Turriff Hospital
+    Ugie Hospital, Peterhead
+    Dr Gray's Hospital, Elgin
+    Fleming Cottage Hospital, Aberlour
+    Leanchoil Hospital, Forres
+    Seafield Hospital, Buckie
+    Spynie Hospital, Elgin
+    Stephen Cottage Hospital, Dufftown
+    Turner Memorial Hospital, Keith
+    Inverclyde Royal Hospital, Greenock
+    Ravenscraig Hospital, Greenock
+
+    Beatson Oncology Centre
+    Blawarthill Hospital
+    Drumchapel Hospital
+    Gartnavel General Hospital
+    Gartnavel Royal Hospital
+    Glasgow Dental Hospital and School
+    Glasgow Homeopathic Hospital
+    Glasgow Royal Infirmary University of Glasgow Medical School
+    Glasgow Royal Maternity Hospital
+    Leverndale Hospital
+    Lightburn Hospital
+    Parkhead Hospital
+    Queen Mother's Maternity Hospital (Yorkhill)
+    Royal Hospital for Sick Children (Yorkhill)
+    Southern General Hospital
+    Stobhill Hospital
+    Victoria Infirmary
+    Western Infirmary
+    Canniesburn Hospital, Bearsden
+ 
+    Dumbarton Joint Hospital
+    Golden Jubilee Hospital, Clydebank
+    Vale of Leven District General Hospital, Alexandria
+ 
+    Dykebar Hospital, Paisley
+    Hawkhead Hospital, Paisley
+    Johnstone Hospital
+    Merchiston Hospital, Brookfield
+    Royal Alexandra Hospital, Paisley
+ 
+    Philipshill Victoria Auxiliary Hospital, East Kilbride
+	Wishaw General Hospital
+	Highland
+	Argyll and Bute
+    Argyll and Bute Hospital, Lochgilphead
+    Campbeltown Hospital
+    Dunoon and District General Hospital
+    Islay Hospital, Bowmore, Isle of Islay
+    Lorn and Islands Hospital, Oban
+    Mid-Argyll Community Hospital, Lochgilphead
+    Victoria Hospital, Rothesay
+    Victoria Infirmary, Helensburgh
+ 
+    Ian Charles Hospital, Grantown-on-Spey
+    St Vincent's Hospital, Kingussie
+ 
+    Caithness General Hospital, Wick
+    Dunbar Hospital (Thurso), Thurso
+    Town and County Hospital, Wick
+    New Craigs Psychiatric Hospital, Inverness
+    Raigmore Hospital, Inverness
+    Royal Northern Infirmary, Inverness
+ 
+    Belford Hospital, Fort William
+    Nairn Town and County Hospital, Nairn
+    County Community Hospital, Invergordon
+    Ross Memorial Hospital, Dingwall
+    Mackinnon Memorial Hospital, Broadford, Isle of Skye
+    Portree Hospital, Isle of Skye
+    Lawson Memorial Hospital, Golspie
+    Migdale Hospital, Bonar Bridge
+    Cleland Hospital, Cleland
+    Coathill Hospital, Coatbridge
+    Hartwoodhill Hospital, Hartwood
+    Monklands Hospital, Airdrie
+    Strathclyde Hospital, Motherwell
+    Victoria Memorial Cottage Hospital, Kilsyth
+    Wester Moffat Hospital, Airdrie
+    Wishaw General Hospital, Wishaw
+    Hairmyres Hospital, East Kilbride
+    Kello Hospital, Biggar
+    Kirklands Hospital, Bothwell
+    Lady Home Hospital, Douglas
+    Lockhart Hospital, Lanark
+    Roadmeetings Hospital, Carluke
+    Stonehouse Hospital
+    Udston Hospital, Hamilton
+    Astley Ainslie Hospital, Edinburgh
+    Chalmers Hospital (Edinburgh)
+    Corstorphine Hospital
+    Edinburgh Dental Institute
+    Lauriston Building
+    Leith Community Treatment Centre
+    Liberton Hospital
+    Princess Alexandra Eye Pavilion
+    Royal Edinburgh Hospital
+    Royal Hospital for Sick Children (Edinburgh)
+    Royal Infirmary of Edinburgh at Little France University of Edinburgh Medical School
+    Royal Victoria Hospital (Edinburgh)
+    Western General Hospital
+    Belhaven Hospital
+    Edenhall Hospital, Musselburgh
+    Edington Cottage Hospital, North Berwick
+    Herdmanflat Hospital, Haddington
+    Roodlands General Hospital, Haddington
+    Loanhead Hospital
+    Midlothian Community Hospital
+    Rosslynlee Hospital, Roslin
+    St John's Hospital, Livingston
+    St. Michael's Hospital, Linlithgow
+    Tippethill House Hospital, Whitburn
+    Balfour Hospital, Kirkwall
+    Gilbert Bain Hospital, Lerwick
+    Montfield Hospital, Lerwick
+    Arbroath Infirmary
+    Brechin Infirmary
+    Forfar Infirmary
+    Little Cairnie Hospital, Arbroath
+    Montrose Royal Infirmary
+    Stracathro Hospital, Brechin
+    Sunnyside Royal Hospital, Hillside
+    Whitehills Hospital, Forfar
+    Carseview Centre
+    Dundee Dental Hospital
+    Kings Cross Hospital
+    Ninewells Hospital ( University of Dundee Medical School)
+    Royal Dundee Liff Hospital
+    Royal Victoria Hospital (Dundee)
+    Tayside Children's Hospital
+    Ashludie Hospital, Monifieth
+    Netherlea Hospital, Newport-on-Tay
+    Strathmartine Hospital, Baldovan
+    Murray Royal Hospital
+    Perth Royal Infirmary
+    Aberfeldy Community Hospital
+    Blairgowrie Community Hospital
+    Crieff Community Hospital
+    Irvine Memorial Hospital, Pitlochry
+    St. Margaret's Hospital, Auchterarder
+    St. Brendan's Hospital, Castlebay, Isle of Barra
+    Uist and Barra Hospital, Balivanich, Isle of Benbecula
+    Western Isles Hospital, Stornoway, Isle of Lewis
+    State Hospital for Scotland and Northern Ireland, Carstairs
+    Golden Jubilee National Hospital, Clydebank
+ 
+    Albyn Hospital, Aberdeen
+    Carrick Glen Hospital, Ayr, South Ayrshire
+    Edinburgh Clinic, Edinburgh
+    Fernbrae Hospital, Dundee
+    Kings Park Hospital, Stirling
+    Murrayfield Hospital, Edinburgh
+    Nuffield Health Glasgow Hospital Glasgow
+    Ross Hall Hospital, Glasgow
+    Shawfair Park Hospital, Edinburgh
+ 
+    Alexander Clinic, Oldmeldrum, Aberdeenshire
+    Castle Craig Hospital, Peebles
+    Graham Anderson House, Glasgow
+    Huntercombe Hospital - Edinburgh, Uphall, West Lothian
+    Monroe House, Dundee
+    Partnerships in Care Ayr Clinic, Ayr
+    Priory Hospital Glasgow, Glasgow
+    Surehaven Glasgow Hospital, Glasgow
+    Murdostoun Castle, Wishaw
+    Scottish Epilepsy Centre, Glasgow 
+#Wales
+    Cefn Coed Hospital, Cockett, Swansea
+    Fairwood Hospital, Upper Killay
+    Garngoch Hospital, Gorseinon
+    Gellinudd Hospital, Pontardawe
+    Glanrhyd Hospital, Bridgend
+    Gorseinon Hospital, Gorseinon
+    Groeswen Hospital, Port Talbot
+    Hill House Hospital, Sketty, Swansea
+    Memorial Hospital West
+    Morriston Hospital, Morriston
+    Maesteg Community Hospital, Bridgend
+    Neath Port Talbot Hospital, Port Talbot
+    Princess of Wales Hospital, Bridgend
+    Singleton Hospital, Swansea
+    Tonna Hospital, Neath
+    Cardiff Royal Infirmary, Roath, Cardiff
+    Lansdowne Hospital, Canton, Cardiff
+    Rookwood Hospital, Llandaff, Cardiff
+    St David's Hospital, Canton, Cardiff
+    University Dental Hospital, Cardiff
+    University Hospital of Wales, Heath, Cardiff Heath Hospital
+    Whitchurch Hospital, Whitchurch, Cardiff
+    Children's Hospital for Wales, Heath, Cardiff
+    Barry Hospital, Barry, Vale of Glamorgan
+    Llandough Hospital, Llandough, Vale of Glamorgan
+    Dewi Sant Hospital, Pontypridd
+    Pontypridd & District Cottage Hospital, Pontypridd
+    Prince Charles Hospital, Merthyr Tydfil
+    Royal Glamorgan Hospital, Llantrisant
+    Ysbyty Cwm Cynon, Mountain Ash
+    Ysbyty Cwm Rhondda, Llwynypia
+    Ysbyty George Thomas, Treorchy
+    Aberbargoed Hospital, Aberbargoed
+    Abertillery and District Hospital, Abertillery
+    Blaenavon Hospital, Blaenavon
+    Caerphilly & District Miners Hospital, Caerphilly
+    Chepstow Community Hospital, Chepstow
+    County Hospital, Pontypool
+    Llanfrechfa Grange Hospital, Cwmbran
+    Maindiff Court Hospital, Abergavenny
+    Monmouth Hospital, Monmouth
+    Nevill Hall Hospital, Abergavenny
+    Redwood Memorial Hospital, Rhymney
+    Royal Gwent Hospital, Newport
+    St Cadoc's Hospital, Caerleon, Newport
+    St Woolos Hospital, Newport
+    Ysbyty Aneurin Bevan, Ebbw Vale
+    Ysbyty’r Tri Chwm, Ebbw Vale, Blaenau Gwent
+    Ysbyty Ystrad Fawr, Ystrad Mynach
+    Amman Valley Hospital, Ammanford
+    Bronglais General Hospital, Aberystwyth
+    Bryntirion Hospital, Llanelli
+    Cardigan & District Memorial Hospital, Cardigan
+    Llandovery Hospital, Llandovery
+    Mynydd Mawr Hospital, Llanelli
+    Prince Phillip Hospital, Llanelli
+    South Pembrokeshire Hospital, Pembroke Dock
+    St David's Hospital, Carmarthen 
+    Tenby Cottage Hospital, Tenby
+    Tregaron Hospital, Tregaron
+    West Wales General Hospital, Glangwili, Carmarthen
+    Withybush General Hospital, Haverfordwest
+    Flint Community Hospital, Flint
+    Deeside Community Hospital, Deeside
+    Chirk Community Hospital, Chirk
+    Holywell Community Hospital, Holywell
+    Lluesty Hospital, Holywell
+    Mold Community Hospital, Mold
+    Penley Polish Hospital, Penley
+    Wrexham Maelor Hospital, Wrexham
+    Bron y Garth Hospital, Penrhyndeudraeth
+    Bryn Beryl Hospital, Pwllheli
+    Bryn y Neuadd Hospital, Llanfairfechan
+    Cefni Hospital, Llangefni
+    Dolgellau Hospital, Dolgellau
+    Eryri Hospital, Caernarfon
+    Ffestiniog Memorial Hospital, Blaenau Ffestiniog
+    Llandudno General Hospital, Llandudno
+    Minfordd Hospital, Bangor
+    Tywyn Memorial Hospital, Tywyn
+    Ysbyty Gwynedd, Bangor
+    Ysbyty Penrhos Stanley, Holyhead
+    Abergele Hospital, Abergele
+    Colwyn Bay Community Hospital, Colwyn Bay
+    Conwy Hospital, Conwy
+    Denbigh Infirmary, Denbigh
+    Glan Clwyd Hospital, Bodelwyddan
+    H.M. Stanley Hospital, St. Asaph
+    Llangollen Hospital, Llangollen
+    North Wales Cancer Treatment Centre, Rhyl
+    Prestatyn Community Hospital
+    Royal Alexandra Hospital, Rhyl
+    Ruthin Community Hospital, Ruthin
+    Brecon War Memorial Hospital, Brecon
+    Bro Ddyfi Community Hospital, Machynlleth
+    Bronllys Hospital, Bronllys
+    Builth Wells Hospital, Builth Wells
+    Knighton Hospital, Knighton
+    Llandrindod Wells County War Memorial Hospital, Llandrindod Wells
+    Llanidloes Hospital, Llanidloes
+    Montgomery County Infirmary, Newtown
+    Victoria Memorial Hospital, Welshpool
+    Ystradgynlais Community Hospital, Ystradgynlais
+    Velindre Hospital, Whitchurch, Cardiff -   Velindre Cancer Centre
+	Welsh Ambulance Services NHS Trust
+#Vatican City

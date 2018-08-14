@@ -1,0 +1,21 @@
+
+new files:
+inFile_with_list_of_url:/Users/lenin/Downloads/crawleroutput/output/all.think.tank.from.world.aug.20.2015/first_level_rss.world.tt.first_time.Already_crawled.merged.FILEID.2.and.3.txt
+outFile_1:/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/1..rss.us.tt.first_time_level_1..txt
+outFile_2:/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/2..rss.us.tt.first_time_level_1..txt
+curr, max:1;1
+new files:
+inFile_with_list_of_url:/Users/lenin/Downloads/crawleroutput/output/all.think.tank.from.world.aug.20.2015/first_level_rss.world.tt.first_time.Already_crawled.merged.FILEID.2.and.3.txt
+outFile_1:/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/1..rss.us.tt.first_time_level_1..txt
+outFile_2:/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/2..rss.us.tt.first_time_level_1..txt
+curr, max:1;1
+new files:
+inFile_with_list_of_url:/Users/lenin/Downloads/crawleroutput/output/all.think.tank.from.world.aug.20.2015/first_level_rss.world.tt.first_time.Already_crawled.merged.FILEID.2.and.3.txt
+outFile_1:/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/1..rss.us.tt.first_time_level_1..txt
+outFile_2:/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/2..rss.us.tt.first_time_level_1..txt
+curr, max:1;1
+new files:
+inFile_with_list_of_url:/Users/lenin/Downloads/crawleroutput/output/all.think.tank.from.world.aug.20.2015/first_level_rss.world.tt.first_time.Already_crawled.merged.FILEID.2.and.3.txt
+outFile_1:/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/1..rss.us.tt.first_time_level_1..txt
+outFile_2:/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/2..rss.us.tt.first_time_level_1..txt
+curr, max:1;1

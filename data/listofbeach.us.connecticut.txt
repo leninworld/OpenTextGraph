@@ -1,0 +1,58 @@
+#    Bridgeport
+        Pleasure Beach
+        Seaside Park
+#    Clinton
+        Clinton Town Beach
+#    Colchester
+        Day Pond State Park
+#    Coventry
+        Lisicke Beach
+        Patriot's Park
+#    East Lyme
+        Rocky Neck State Park
+        McCook's Beach
+        Hole in the Wall Beach
+        Crescent Beach
+#	Ellington
+        Sandy Beach on Crystal Lake
+#    Fairfield
+        Jennings Beach
+        Lake Mohegan
+        Penfield Beach
+        Sasco Beach
+        Southport Beach
+#    Griswold
+        Hopeville Pond State Park
+#    Guilford
+        Lake Quonnipaug
+        Jacob's Beach
+#    Groton
+        Bluff Point Beach
+        Eastern Point Beach
+#    Madison
+        Hammonasset Beach State Park
+#    Milford
+        Gulf Beach
+        Silver Sands State Park
+#    New Haven
+        Lighthouse Point Park
+#    New London
+        Ocean Beach Park
+#    New Fairfield
+        New Fairfield Town Park
+#    Norwalk
+        Calf Pasture Beach
+#    Old Lyme
+        Sound View Beach
+#    Old Saybrook
+        Harvey's Beach
+#    Stratford
+        Long Beach
+        Short Beach
+#    West Haven
+        West Haven Beaches 
+        Morse Beach
+        Oak Street Beach
+        Sandy Point
+#    Westport
+        Sherwood Island State Park

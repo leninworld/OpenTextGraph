@@ -1,0 +1,503 @@
+
+#Allen
+!!!Texas Health Presbyterian Hospital Allen
+
+#Arlington
+!!!Arlington Memorial Hospital
+!!!Medical Center of Arlington
+
+#Bedford
+!!!Texas Health HEB
+#Commerce
+!!!Hunt Regional Community Hospital of Commerce
+
+Cleburne, Texas THR Cleburne, Walls Regional Hospital
+
+#Dallas
+!!!Baylor University Medical Center
+!!!Charlton Methodist Hospital
+!!!Children's Medical Center Dallas
+!!!Doctors Hospital of Dallas
+!!!Forest Park Medical Center - Dallas
+!!!Medical City Dallas Hospital
+!!!Methodist Medical Center of Dallas
+!!!Parkland Memorial Hospital
+!!!Presbyterian Hospital of Dallas
+!!!Pine Creek Medical Center
+!!!Texas Scottish Rite Hospital for Children
+!!!St. Paul University Hospital
+!!!University General Hospital Dallas
+!!!Zale Lipshy University Hospital
+
+#Denison
+!!!Texoma Medical Center
+
+#Decatur
+!!!Wise Regional Health System
+
+#Denton
+!!!Denton Regional Medical Center
+!!!Presbyterian Hospital of Denton
+!!!Rehabilitation Hospital of Denton
+!!!UBH Denton
+
+#Fort Worth
+!!!Harris Methodist Hospital
+!!!Huguley Memorial Medical Center
+!!!John Peter Smith Hospital
+!!!Baylor All Saints Medical Center (formerly All Saints Hospital)
+!!!Plaza Medical Center of Fort Worth
+!!!Cook Children's Medical Center
+!!!Northwest Hospital
+
+#Frisco
+!!!Centennial Medical Center
+
+#Grapevine
+!!!Baylor Regional Medical Center of Grapevine
+
+#Greenville
+!!!Hunt Regional Medical Center
+
+#Irving
+!!!Baylor Medical Center of Irving
+!!!Las Colinas Medical Center
+
+#Lewisville
+!!!Medical Center of Lewisville
+
+#McKinney
+!!!Medical Center of McKinney
+!!!Baylor Medical Center of McKinney
+
+#Mansfield
+!!!Methodist Mansfield Medical Center
+
+#Mesquite
+!!!Dallas Regional Medical Center (formerly Medical Center of Mesquite)
+
+#Mineral Wells
+!!!Palo Pinto General Hospital
+
+#North Richland Hills
+!!!North Hills Hospital
+
+#Plano
+!!!Baylor Heart Hospital
+!!!Baylor Regional Medical Center at Plano
+!!!Medical Center of Plano
+!!!Presbyterian Hospital of Plano
+!!!Children's Medical Center-Legacy
+
+#Richardson
+!!!Methodist Medical Center- Richardson
+
+#Stephenville
+!!!Harris Methodist Hospital
+
+#Sulphur Springs
+!!!Hopkins County Memorial Hospital
+
+#Sunnyvale
+!!!Texas Regional Medical Center of Sunnyvale
+
+#Athens
+!!!East Texas Medical Center-Athens
+
+#Atlanta
+!!!Atlanta Memorial
+
+#Carthage
+!!!East Texas Medical Center Carthage
+
+#Fairfield
+!!!East Texas Medical Center-Fairfield
+
+#Jacksonville
+!!!East Texas Medical Center-Jacksonville
+!!!Mother Frances Hospital
+
+#Longview
+!!!Good Shepherd Medical Center
+!!!Longview Regional Medical Center
+
+#Lufkin
+!!!Woodland Heights Medical Center
+!!!Memorial Medical Center-Lufkin
+
+#Marshall
+!!!Marshall Regional Medical Center
+
+#Mount Pleasant
+!!!Titus Regional Medical Center
+
+#Nacogdoches
+!!!Nacogdoches Memorial Hospital
+
+#Palestine
+!!!Palestine Regional Medical Center
+
+#Paris
+!!!Paris Regional Medical Center
+
+#Pittsburg
+!!!East Texas Medical Center- Pittsburg
+
+#Rusk
+!!!Rusk State Hospital
+
+#Texarkana
+!!!Wadley Regional Medical Center
+!!!Christus St. Michael Health System
+
+#Tyler
+!!!East Texas Medical Center-Tyler
+!!!University of Texas Health Center at Tyler
+!!!Trinity Mother Frances Health System
+!!!Texas Spine & Joint Hospital
+
+Southeast Texas
+
+#Angleton
+!!!Angleton-Danbury Medical Center
+
+#Baytown
+!!!San Jacinto Methodist Hospital
+
+#Beaumont
+!!!Christus Saint Elizabeth Hospital
+!!!Dubuis Hospital of Beaumont
+!!!Memorial Hermann Baptist Beaumont Hospital
+#Cleveland
+!!!Cleveland Regional Medical Center
+
+#College Station
+!!!College Station Medical Center
+
+#Bryan
+!!!St. Joseph Regional Health Center
+!!!The Physician's Centre Hospital
+
+#Conroe
+!!!Conroe Regional Medical Center
+
+#Galveston
+!!!Jennie Sealy Hospital
+!!!John Sealy Hospital at the University of Texas Medical Branch
+!!!R. Waverley Smith Pavilion
+!!!Rebecca Sealy Hospital
+!!!St. Mary's Hospital (defunct)
+!!!Shriners Hospitals for Children: Galveston Burns Institute
+!!!Texas Department of Criminal Justice Prison Hospital
+!!!UTMB Children's Hospital
+
+#Groves
+!!!Renaissance Hospital
+
+#Katy
+!!!Memorial Hermann Katy Hospital
+
+#Houston
+!!!Bellaire Medical Center
+!!!Ben Taub General Hospital
+!!!Cypress Fairbanks Medical Center
+!!!East Houston Regional Medical Center
+!!!Houston Northwest Medical Center
+!!!Lyndon B. Johnson General Hospital
+!!!#Children's Memorial Hermann Hospital
+!!!#Memorial Hermann - Texas Medical Center
+!!!#Memorial Hermann Memorial City Hospital
+!!!#Memorial Hermann Northeast Hospital
+!!!#Memorial Hermann Northwest Hospital
+!!!#Memorial Hermann Southeast Hospital
+!!!#Memorial Hermann Southwest Hospital
+!!!#The Methodist Hospital
+!!!#Methodist West Houston Hospital
+!!!#Methodist Willowbrook Hospital
+!!!The Michael DeBakey Veteran's Administration Medical Center
+!!!Park Plaza Hospital and Medical Center
+!!!Baylor St. Luke's Medical Center
+!!!St. Joseph Medical Center
+!!!Texas Children's Hospital
+!!!Texas Orthopedic Hospital
+!!!Tomball Regional Hospital
+!!!The University of Texas M. D. Anderson Cancer Center
+!!!Woman's Hospital of Texas
+
+#Huntsville
+!!!Huntsville Memorial Hospital
+
+#Jasper
+!!!Christus Jasper Memorial Hospital
+!!!Dickerson Memorial Hospital
+
+#Lake Jackson
+!!!Brazosport Memorial Hospital
+
+#Livingston
+!!!Memorial Medical Center
+
+#Lufkin
+!!!Woodland Heights Medical Center
+
+#Nassau Bay
+!!!Christus St John Hospital
+
+#Navasota
+!!!Grimes St. Joseph Health Center
+
+#Orange
+!!!Memorial Hermann Baptist Orange Hospital
+
+#Pasadena
+!!!Bayshore Medical Center
+!!!Patients Medical Center
+
+#Port Arthur
+!!!Christus Saint Mary Hospital
+!!!The Medical Center of Southeast Texas
+
+#Sugar Land
+!!!Memorial Hermann Sugar Land Hospital
+!!!Memorial Hermann Sugar Land Health Center
+!!!Methodist Sugar Land Hospital
+!!!Sugar Land Medical Center
+
+#Texas City
+!!!Mainland Medical Center
+
+#Tomball
+!!!Tomball Regional Hospital
+
+#Webster
+!!!Clear Lake Regional Medical Center
+
+#The Woodlands
+!!!Memorial Hermann The Woodlands Hospital
+
+Central Texas
+
+#Austin
+!!!Austin State Hospital
+!!!Arise Austin Medical Center
+!!!University Medical Center Brackenridge
+!!!Children's Hospital of Austin
+!!!Dell Children's Medical Center
+!!!Heart Hospital of Austin
+!!!The Hospital at Westlake Medical Center
+!!!North Austin Medical Center
+!!!St. David's Medical Center
+!!!St. David's Rehabilitation Hospital
+!!!Seton Main Hospital
+!!!Seton Northwest Hospital
+!!!Seton Southwest Hospital
+!!!South Austin Medical Center
+
+#Brownwood
+!!!Brownwood Regional Medical Center
+
+#Burnet
+!!!Seton Highland Lakes Medical Center
+
+#Cedar Park
+!!!Cedar Park Regional Medical Center
+
+#Clifton
+!!!Goodall-Witcher Healthcare Foundation
+
+#Floresville
+!!!Connally Memorial Medical Center
+
+#Fort Hood
+!!!Carl R Darnall Army Medical Clinic
+
+#Fredericksburg
+!!!Hill Country Memorial Hospital
+
+#Georgetown
+!!!Georgetown Medical Center
+
+#Groesbeck
+!!!Limestone Medical Center
+
+#Kenedy
+!!!Otto Kaiser Memorial Hospital
+
+#Kerrville
+!!!Peterson Regional Medical Center (formerly Sid Peterson Memorial Hospital)
+
+#Killeen
+!!!Metroplex Hospital
+
+#Kyle
+!!!Seton Medical Center Hays
+
+#La Grange
+!!!St Mark's Medical Center
+
+#Lakeway
+!!!Lakeway Regional Medical Center
+
+#Mexia
+!!!Parkview Regional Hospital
+
+#Round Rock
+!!!Round Rock Medical Center
+!!!Scott & White Healthcare - Round Rock Hospital
+!!!Seton Medical Center Williamson
+
+#San Antonio
+!!!Audie Murphy VA Medical Center
+!!!Baptist Medical Center
+!!!Northeast Baptist Hospital
+!!!North Central Baptist Hospital
+!!!Mission Trail Baptist Hospital
+!!!St. Luke's Baptist Hospital
+!!!Methodist Hospital
+!!!Methodist Children's Hospital
+!!!Metropolitan Methodist Hospital
+!!!Methodist Stone Oak Hospital
+!!!Northeast Methodist Hospital
+!!!Methodist Texsan Hospital
+!!!Nix Medical Center
+!!!San Antonio State Hospital
+!!!Southwest General Hospital
+!!!Christus Santa Rosa Hospital
+!!!Christus Santa Rosa Hospital of Alamo Heights
+!!!Christus Santa Rosa Hospital Medical Center
+!!!Christus Santa Rosa Hospital Westover Hills
+!!!South Texas Medical Center
+!!!Brooke Army Medical Center
+!!!University Hospital
+!!!University Hospital Robert B. Green Campus
+!!!Wilford Hall USAF Medical Center
+
+#San Marcos
+!!!Central Texas Medical Center
+
+#Smithville
+!!!Smithville Regional Hospital
+
+#Temple
+!!!Scott & White Memorial Hospital
+!!!Scott & White Continuing Care Hospital
+!!!McLane Children's Hospital Scott & White
+!!!King's Daughters
+!!!Temple VA (Olin E. Teague)
+
+#Waco
+!!!Hillcrest Baptist Medical Center
+!!!Providence Medical Center
+!!!Central Texas Veterans Health Care System - Waco VA Medical Center [1]
+
+#Marlin
+!!!Falls Community Hospital And Clinic
+
+#Brownsville
+!!!Brownsville Baptist Medical Center [2]
+!!!Valley Regional Medical Center
+!!!Brownsville Doctors Hospital
+!!!Drscoll Children's Hospital
+!!!Guadalupe Health Center
+!!!Texas Oncology
+!!!Brownsville Nursing & Rehabilitation Center
+!!!South Texas Rehabilitation Hospital
+!!!Solara Healthcare Hospital
+
+#Corpus Christi
+!!!Spohn Memorial Hospital
+!!!Spohn Shoreline Hospital
+!!!Spohn South Hospital
+!!!Padre Behavioral Hospital
+!!!Driscoll Children's Hospital
+!!!Doctor's Regional Medical Center
+!!!Bay Area Medical Center
+
+#Cuero
+!!!Cuero Community Hospital
+
+#Del Rio
+!!!Val Verde Regional Medical Center
+
+#Eagle Pass
+!!!Fort Duncan Medical Center
+
+#Edinburg
+!!!Doctors Hospital at Renaissance
+!!!Edinburg Regional Medical Center
+!!!Edinburg Children's Hospital
+!!!Women's Hospital at Renaissance
+!!!Doctor's Hospital at Renaissance Behavioral Center
+!!!Doctor's Hospital at Renaissance Cancer Center
+
+#Harlingen
+!!!Valley Baptist Medical Center
+
+#Laredo
+!!!Doctors Hospital
+!!!Gateway Community Center
+!!!Laredo Medical Center
+!!!Laredo Specialty Hospital
+!!!Providence Surgical & Medical
+
+#McAllen
+!!!McAllen Heart Hospital
+!!!McAllen Medical Center
+!!!Rio Grande Regional Hospital
+!!!Driscolls Children's Hospital
+
+#Victoria
+!!!Citizens Medical Center
+!!!DeTar Healthcare System
+
+#Abilene
+!!!Hendrick Medical Center
+!!!Abilene Regional Medical Center
+
+#Alpine
+!!!Big Bend Regional Medical Center
+
+#Amarillo
+!!!Northwest Texas Hospital
+!!!Baptist Saint Anthony's
+
+#Andrews
+!!!Permian Regional Medical Center
+
+#El Paso
+!!!Del Sol Medical Center-East
+!!!Las Palmas – Del Sol Rehab. Hospital
+!!!Las Palmas Medical Center-West
+!!!Horizon Specialty Hospital
+!!!Thomason Hospital
+!!!Rio Vista Rehab. Hospital
+!!!Sierra Medical Center
+!!!Southwestern General Hospital
+!!!William Beaumont Army Medical Center
+!!!Providence Memorial Hospital
+!!!University Medical Center
+
+#Lubbock
+!!!Covenant Hospital
+!!!University Medical Center
+
+#Midland
+!!!Midland Memorial Hospital
+
+#Odessa
+!!!Medical Center Hospital
+!!!Odessa Regional Medical Center
+
+#San Angelo
+!!!San Angelo Community Medical Center
+!!!Shannon Medical Center
+
+#Stamford
+!!!Stamford Memorial Hospital
+
+#Stanton
+!!!Martin County Hospital
+
+#Wichita Falls
+!!!United Regional Healthcare System
+!!!Kell West Regional Hospital

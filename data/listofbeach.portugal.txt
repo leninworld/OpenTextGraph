@@ -1,0 +1,253 @@
+#Azores beach
+#Ovar
+
+    Praia do Furadouro
+
+#Braga
+
+    Praia da Apúlia
+    Praia de Cepães
+    Praia de Ofir
+    Praia de Suave Mar
+    Praia de S. Bartolomeu do Mar
+    Praia de Belinho
+    Praia de Rio de Moinhos
+
+
+#Macedo de Cavaleiros
+    Praia do Azibo
+
+#Cantanhede
+
+    Praia da Tocha
+
+#Figuera da Foz
+
+    Praia do Cabedelo
+    Praia de Quiaios
+
+#Mira
+
+    Praia de Mira
+
+#Faro (Algarve)
+
+    Vilamoura Beach
+
+#Albufeira
+
+    Praia dos Arrifes
+    Praia da Balaia
+    Praia da Coelha
+    Praia do Evaristo
+    Praia do Castelo
+    Praia da Falésia
+    Praia da Galé
+    Praia da Oura
+    Praia dos Pescadores
+    Praia da Rocha Baixinha
+    Praia Santa Eulália
+    Praia de São Rafael
+    Praia do Túnel
+
+#Aljezur
+
+    Praia de Adegas
+    Praia do Amado
+    Praia da Amoreira
+    Praia da Arrifana
+    Praia da Baía dos Tiros
+    Praia da Bordeira
+    Praia do Canal
+    Praia da Carriagem
+    Praia de Vale Figueira
+    Praia do Vale dos Homens
+    Praia do monte Clérigo
+    Praia de Odeceixe Mar
+    Praia do Penedo
+    Praia da Pipa
+    Praia de Samouqueira
+
+#Castro Marim
+
+    Praia da Alagoa
+    Praia do Cabeço
+    Praia Verde
+
+#Lagoa
+
+    Praia de Albandeira
+    Praia da Angrinha
+    Praia de Benagil
+    Praia dos Caneiros
+    Praia do Carvalho
+    Praia de Carvoeiro
+    Praia Grande
+    Praia da Marinha
+    Praia do Molhe
+    Praia Nova
+    Praia do Pintadinho
+    Praia da Senhora da Rocha
+    Praia do Vale de Centeanes
+
+#Lagos
+
+    Praia da Luz
+
+#Portimão
+
+    Praia da Rocha
+
+#Tavira
+
+    Praia do Barril
+    Praia de Cabanas de Tavira
+    Praia do Homem Nu
+    Praia da Ilha de Tavira
+    Praia do Lacém
+    Praia das Quatro Águas
+    Praia da Terra Estreita
+
+#Vila do Bispo
+
+    Praia do Burgau
+    Praia da Cordoama
+    Praia da Ingrina
+    Praia da Salema
+
+#Vila Real de Santo António
+
+    Praia de Adão e Eva
+    Praia de Cacela Velha
+    Praia da Fábrica
+    Praia da Lota
+    Manta Rota
+    Praia de Monte Gordo
+    Praia de Vila Real de Santo António
+
+#Nazaré
+
+    Praia da Nazaré
+
+#Peniche
+
+    Praia da Consolação
+    Supertubos
+
+#Cascais
+
+    Praia do Abano
+    Praia de Carcavelos
+    Praia do Guincho
+    Praia das Moitas
+    Praia da Parede
+
+#Lourinhã
+
+    Praia do Areal
+    Praia da Areia Branca
+    Praia do Caniçal
+    Praia de Paimogo
+    Praia da Peralta
+    Praia de Porto das Barcas
+    Praia do Porto Dinheiro
+    Praia de Vale Frades
+    Praia de Valmitão
+    Praia de Zimbral
+
+#Mafra
+
+    Praia do Banco do Cavalinho
+    Praia da Calada
+    Praia da Foz do Lizandro
+
+#Oeiras
+
+    Praia de Paço de Arcos
+    Praia de Santo Amaro de Oeiras
+
+#Sintra
+
+    Praia da Adraga
+    Azenhas do Mar
+    Praia Grande
+    Praia das Maçãs
+    Praia do Magoito
+    Praia da Ursa
+
+#Madeira
+
+    Porto Santo Beach
+    Praia da Calheta
+    Praia Formosa
+
+#Matosinhos
+
+    Praia da Memória
+    Piscinas de Marés
+
+#Póvoa de Varzim
+
+    Aguçadoura Beach
+    Praia da Barranha
+    Praia dos Beijinhos
+    Praia do Carvalhido
+    Praia da Codicheira
+    Coim Beach
+    Esteiro Beach
+    Fragosa Beach
+    Lagoa Beach
+    Praia de Paimó
+    Praia da Pedra Negra
+    Quião Beach
+    Redonda Beach
+    Rio Alto Beach
+    Salgueira Beach
+    Santo André Beach
+    Verde Beach
+
+#Vila do Conde
+
+    Praia de Labruge
+    Praia do Puço
+
+#Vila Nova de Gaia
+
+    Praia da Aguda
+    Praia do Cabedelo
+    Praia da Granja
+    Praia de Miramar
+
+#Almada
+
+    Praia do Banheiro
+    Praia da Bela Vista
+    Costa da Caparica
+
+#Grândola
+
+    Praia da Aberta Nova
+    Praia Atlântica
+    Praia de Melides
+
+#Sesimbra
+
+    Praia da Lagoa de Albufeira
+
+#Setúbal
+
+    Praia de Albarquel
+    Praia da Figueirinha
+
+#Sines
+
+    Praia de São Torpes
+
+#Caminha
+
+    Praia de Caminha
+
+#Viana do Castelo
+
+    Praia do Cabedelo
+    Praia do Paçô

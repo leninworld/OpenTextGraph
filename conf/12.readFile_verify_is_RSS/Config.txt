@@ -1,0 +1,8 @@
+inFile=/Users/lenin/Downloads/#crawleroutput/all.think.tank.from.world.aug.20.2015/2..rss.us.tt.first_time_level_1._FILTER_equalrss.txt
+outFile=/Users/lenin/Downloads/#crawleroutput/all.think.tank.from.world.aug.20.2015/2..rss.us.tt.first_time_level_1._FILTER_equalrss_isRSS_true.txt
+outFile_pastRunResultsFile=/Users/lenin/Downloads/#crawleroutput/all.think.tank.from.world.aug.20.2015/2..rss.us.tt.first_time_level_1._FILTER_rss_feed_pastRANalready.txt
+is_Append_outFile=true
+is_Append_pastRunResultsFile=true
+start_line=-1
+end_line=-1
+isSOPprint=false

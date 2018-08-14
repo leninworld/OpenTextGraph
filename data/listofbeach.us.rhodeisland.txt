@@ -1,0 +1,32 @@
+#Rhode Island
+    Barrington
+        Barrington Beach
+    Block Island
+        Crescent Beach
+        Surfers Beach
+        Mansion Beach
+    Charlestown
+        Burlingame State Park, Burlingame State Park
+        Charlestown Breachway State Beach, Charlestown Breachway
+        East Beach State Beach, Ninigret Conservation Area
+    Middletown
+        Sachuest Beach
+        Third Beach
+    Narragansett
+        Narragansett Town Beach
+        Roger Wheeler State Beach
+        Salty Brine State Beach
+        Scarborough State Beach Complex - North & South
+    Newport
+        Easton's Beach
+        Fort Adams State Beach, Fort Adams State Park
+        Gooseberry Beach
+    South Kingstown
+        East Matunuck State Beach
+    Tiverton
+        Grinnell's Beach
+        Fogland Beach
+    Warwick
+        Goddard Memorial State Beach, Goddard Memorial State Park
+    Westerly
+        Misquamicut State Beach

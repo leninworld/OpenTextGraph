@@ -1,0 +1,2 @@
+inputFolderName=/Users/lenin/Dropbox/#Data/group-by-age-related-out/
+outputFileName=/Users/lenin/Dropbox/#Data/group-by-age-related-out/output.csv

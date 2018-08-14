@@ -1,0 +1,10 @@
+folder=/Users/lenin/Dropbox/Maitrayi/p18 -/Labeling/900labeled/
+NLPfolder=/Users/lenin/OneDrive/jar/NLP/
+inputSingleURL_OR_input1=OUTPUT_merged_full_bodyText_RSSFEED_CRAWLED.txt__ENGLISH.txt_LEN_50_FILTER.txt_PASSED_FILTER.txt_url_tagline_untagline.3all_p18.txtNEW.txt
+inputSingleURL_OR_input1.remark=Give single URL for crawling and do NLP
+isSOPdebug=false
+is_overwrite_flag_with_flag_model=true
+is_overwrite_flag_with_flag_model.remark=if true, POSModel passed via param will be used.
+debugFileName=debug.txt
+outputFile=/Users/lenin/GoogleDrive/uaw.test.input/CrawledOutdummy.txt
+GBAD_output_file=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/gbad_output.txt

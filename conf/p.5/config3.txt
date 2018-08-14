@@ -1,0 +1,12 @@
+WSbaseFolder=/Users/lenin/Downloads/#problems/p19/10minsplitC1065/
+inputDataFileToCreateGBADGraph=3.txt
+delimiter_4_inputDataFileToCreateGBADGraph=!!!
+outFile=C1065_auth_OUTPUT_all_3.txt
+s1.graphtopology=[source]->(has)4,[destination]->(has)6,[source]->(has)[sent],[sent]->(has)[destination],4->(hasSport)5,6->(hasDport)7,[sent]->(has)[duration],[duration]->(has)2,[sent]->(has)[protocol],[protocol]->(has)8,[sent]->(has)[packetCount],[packetCount]->(has)9
+s1.graphtopology.remark=time,duration,source computer,source port,destination computer,destination port,protocol,packet count,byte count
+isSOPprint=false
+isDebugMore=false
+startLineNo=-1
+endLineNo=-1
+is_create_each_document_as_an_XP_in_graph=true
+is_create_each_document_as_an_XP_in_graph.remark=if true, then one XP for one given file.

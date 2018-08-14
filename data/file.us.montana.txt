@@ -1,0 +1,248 @@
+#Anaconda
+
+    Community Hospital of Anaconda
+
+#Baker
+
+    Fallon Medical Complex
+
+#Big Sandy
+
+    Big Sandy Medical Center
+
+#Big Timber
+
+    Pioneer Medical Center
+
+#Billings
+
+    Billings Clinic
+    St. Vincent Healthcare
+
+#Boulder
+
+    Montana Developmental Center
+
+#Bozeman
+
+    Bozeman Deaconess Hospital[1]
+    Student Health Service Montana State University
+
+#Butte
+
+    St. James Healthcare
+
+#Chester
+
+    Liberty County Hospital and Nursing Home
+
+#Choteau
+
+    Teton Medical Center
+
+#Circle
+
+    McCone County Health Center
+
+#Columbus
+
+    Stillwater Billings Clinic
+
+#Conrad
+
+    Pondera Medical Center
+
+#Crow Agency
+
+    Crow/Northern Cheyenne Hospital
+
+#Culbertson
+
+    Roosevelt Memorial Medical Center
+
+#Cut Bank
+
+    Northern Rockies Medical Center
+
+#Deer Lodge
+
+    Montana State Prison Infirmary
+    Powell County Medical Center
+
+#Dillon
+
+    Barrett Hospital & HealthCare
+
+#Ekalaka
+
+    Dahl Memorial Medical Assistance Facility
+
+#Ennis
+
+    Madison Valley Hospital
+
+#Forsyth
+
+    Rosebud Health Care Center
+
+#Fort Benton
+
+    Missouri River Medical Center
+
+#Fort Harrison
+
+    Veterans Affairs Montana Health Care System
+
+#Glasgow
+
+    Frances Mahon Deaconess Hospital
+
+#Glendive
+
+    Glendive Medical Center
+
+#Great Falls
+
+    Benefis Health System
+    Central Montana Surgical Hospital
+
+#Hamilton
+
+    Marcus Daly Memorial Hospital
+
+#Hardin
+
+    Big Horn County Memorial Hospital
+
+#Harlem
+
+    Fort Belknap U. S. Public Health Service Indian Hospital
+
+#Harlowton
+
+    Wheatland Memorial Hospital
+
+#Havre
+
+    Northern Montana Hospital
+
+#Helena
+
+    Shodair Children's Hospital
+    St. Peter's Hospital, Helena
+    Fort Harrison VA Hospital
+
+#Jordan
+
+    Garfield County Health Center
+
+#Kalispell
+
+    Health Center Northwest
+    Kalispell Regional Medical Center
+
+#Lewistown
+
+    Central Montana Medical Center
+
+#Libby
+
+    St. John's Lutheran Hospital
+
+#Livingston
+
+    Livingston Memorial Hospital
+
+#Malta
+
+    Phillips County Hospital
+
+#Miles City
+
+    Holy Rosary Healthcare
+
+#Missoula
+
+    Community Medical Center
+    St. Patrick Hospital and Health Sciences Center
+    University of Montana Health Service
+
+#Philipsburg
+
+    Granite County Medical Center
+
+#Plains
+
+    Clark Fork Valley Hospital
+
+#Plentywood
+
+    Sheridan Memorial Hospital
+
+#Polson
+
+    St. Joseph Medical Center (Montana)
+
+#Poplar
+
+    Poplar Community Hospital
+
+#Red Lodge
+
+    Beartooth Hospital and Health Center
+
+#Ronan
+
+    St. Luke Community Hospital
+
+#Roundup
+
+    Roundup Memorial Healthcare
+
+#Saint Mary
+
+    U.S. Public Health Service Blackfeet Community Hospital
+
+#Scobey
+
+    Daniels Memorial Healthcare Center
+
+#Shelby
+
+    Marias Medical Center
+
+#Sheridan
+
+    Ruby Valley Hospital
+
+#Sidney
+
+    Sidney Health Center
+
+#Superior
+
+    Mineral Community Hospital
+
+#Terry
+
+    Prairie Community Health Center
+
+#Townsend
+
+    Broadwater Health Center
+
+#Warmsprings
+
+    Montana State Hospital
+
+#White Sulphur Springs
+
+    Mountainview Medical Center
+
+#Whitefish
+
+    North Valley Hospital
+
+#Wolf Point
+
+    Trinity Hospital

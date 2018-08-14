@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="beach(world) and hospitals(euro)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/beach(world) and hospitals(euro).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

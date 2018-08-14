@@ -1,0 +1,53 @@
+#Bellevue
+
+    Bellevue Medical Center
+
+#Columbus
+
+    Columbus Community Hospital
+
+#Fremont
+
+    Fremont Area Medical Center
+
+#Grand Island
+
+    Saint Francis Medical Center
+    Grand Island VA Medical Center
+
+#Hastings
+
+    Mary Lanning Memorial Hospital
+
+#Kearney
+
+    Good Samaritan Hospital
+
+#Lincoln
+
+    BryanLGH Medical Center
+    CHI Health St. Elizabeth
+    Nebraska Heart Institute Heart Hospital
+
+#Norfolk
+
+    Faith Regional Health Services
+    Norfolk Regional Center
+
+#North Platte
+
+    Great Plains Regional Medical Center
+
+#Omaha
+Further information: List of hospitals in Omaha, Nebraska
+#Papillion
+
+    Alegent Health Midland Hospital
+
+#Scottsbluff
+
+    Regional West Medical Center
+
+#Superior
+
+    Brodstone Memorial Nuckolls County Hospital

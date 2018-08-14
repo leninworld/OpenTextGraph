@@ -1,0 +1,470 @@
+# Alabama
+
+    Gulf Shores
+    Orange Beach
+
+# Alaska
+# Arizona
+# Arkansas
+# California
+
+    Black's Beach
+    Capistrano Beach
+    Carlsbad
+    Carmel-by-the-Sea
+    Carpinteria
+    Children's Pool Beach, La Jolla
+    Corona del Mar
+    Coronado
+    Dana Point
+    Del Mar
+    Encinitas
+    Grover Beach
+    Hermosa Beach
+    Huntington Beach
+    Imperial Beach
+    La Jolla, San Diego
+    La Jolla Cove, La Jolla
+    La Jolla Shores, La Jolla
+
+    Laguna Beach
+    Long Beach
+    Malibu
+    Manhattan Beach
+    Mission Beach, San Diego
+    Monterey
+    Morro Bay
+    Newport Beach
+    Ocean Beach, San Diego
+    Ocean Beach, San Francisco
+    Oceanside
+    Oxnard
+    Pacific Beach, San Diego
+    Pacific Grove
+    Palos Verdes Estates
+    Redondo Beach
+    San Clemente
+    San Onofre Beach
+    San Pedro, Los Angeles
+    Santa Barbara
+    Santa Cruz
+    Santa Monica
+    Solana Beach
+    Sunset Beach
+    Surfside
+    Torrance
+    Ventura
+    Venice
+
+#Connecticut
+
+    Calf Pasture Beach, East Norwalk
+    Fairfield Beach
+    Hammonasset Beach State Park
+    Pleasure Beach
+    Rocky Neck State Park
+    Sherwood Island State Park
+    Silver Sands State Park
+
+#Delaware
+
+    Bowers Beach
+    Slaughter Beach
+    Broadkill Beach
+    Lewes
+    Cape Henlopen
+    Henlopen Acres
+    Rehoboth Beach
+    Dewey Beach
+    Delaware Seashore State Park
+    Bethany Beach
+    Middlesex Beach
+    South Bethany
+    Fenwick Island
+
+#Florida
+
+    Atlantic Beach
+    Beverly Beach
+    Boca Raton
+    Boynton Beach
+    Butler Beach
+    Clearwater Beach
+    Cocoa Beach
+    Crescent Beach
+    Dania Beach
+    Daytona Beach
+    Daytona Beach Shores
+    Deerfield Beach
+    Delray Beach
+    Destin
+    Fernandina Beach
+    Fort Myers Beach
+    Fort Walton Beach
+    Flagler Beach
+    Grayton Beach
+    Gulf Stream
+    Gulf Breeze
+    Hallandale Beach
+    Haulover Park
+    Highland Beach
+    Hillsboro Beach
+    Hobe Sound
+    Hollywood
+    Holmes Beach
+    Indiatlantic
+    Indian Harbour Beach
+    Indian River Shores
+    Indian Rocks Beach
+    Jacksonville Beach
+    Jensen Beach
+    Juno Beach
+    Jupiter
+    Key Biscayne
+    Key Largo
+    Key West
+    Lake Worth
+    Madeira Beach
+    Marathon
+    Marco Island
+    Melbourne Beach
+    Miami Beach
+    Miramar Beach
+    Navarre Beach
+    New Smyrna Beach
+    Neptune Beach
+    North Miami Beach
+    North Palm Beach
+    Orchid
+    Ormond Beach
+    Palm Beach
+    Palm Beach Shores
+    Palm Coast
+    Panama City Beach
+    Penascola Beach
+    Perdido Key
+    Pompano Beach
+    Ponce Inlet
+    Ponte Verda Beach
+    Riviera Beach
+    Royal Palm Beach
+    Santa Rosa Beach
+    Satellite Beach
+    Sarasota
+    Seaside
+    Siesta Key Beach
+    South Beach, Miami
+    St. Augustine Beach
+    St. George Island Beach
+    St. Pete Beach
+    Stuart
+    Sunny Isles Beach
+    Vero Beach
+    Vilano Beach
+    Wabasso Beach
+
+#Georgia
+
+    Cumberland Island
+    Jekyll Island
+    Saint Simons Island
+    Sapelo Island
+    Sea Island
+    Tybee Island
+
+#Hawaii
+
+    Green Sands Beach, Hawaii island
+    Hanauma Bay Nature Preserve, Oahu
+    Hapuna Beach State Recreation Area, Hawaii island
+    Kaanapali Beach, Maui
+    Kailua, Oahu
+    Kee Beach, Kauai
+    Lumahai Beach
+    Mauna Kea Beach, Hawaii island
+    Sunset Beach, Oahu
+    Waikiki Beach, Oahu
+
+#Illinois
+
+#Louisiana
+
+    Grand Isle
+    Holly Beach
+
+#Maine
+
+    Higgins Beach
+    Old Orchard Beach
+    Reid State Park
+
+#Maryland
+
+    Ocean City
+    Ocean Pines
+
+#Massachusetts
+
+    Bumpkin Island
+    Cape Cod National Seashore
+    Castle Island
+    Craigville Beach
+    Crane Beach
+    Duxbury Beach
+    Lovells Island
+    Marconi Beach
+    Martha's Vineyard
+    Monument Beach
+    Nantasket Beach
+    Nantucket
+    Provincetown
+    Revere Beach
+    Round Hill
+    Savin Hill Beach
+    Spectacle Island
+    West Beach
+    Winthrop Beach
+    Wollaston Beach
+    Yirrell Beach
+
+#Michigan
+
+    Duck Lake State Park
+    Grand Haven Beach
+    Hoffmaster State Park
+    Holland Beach
+    McLain State Park
+    Muskegon Beach
+    Orchard Beach
+    Oval Beach
+    Saugatuck Dunes Beach
+    Sleeping Bear Dunes National Lakeshore
+    South Haven Beach
+    Van Buren State Park
+    Warren Dunes Beach
+
+#Mississippi
+
+    Biloxi
+    Gulfport
+    Long Beach
+    Ocean Springs
+    Pascagoula
+
+#New Hampshire
+
+    Hampton Beach
+    Rye Beach
+
+#New Jersey
+
+    Allenhurst
+    Asbury Park
+    Atlantic City
+    Avalon
+    Avon-by-the-Sea
+    Barnegat Light
+    Bay Head
+    Beach Haven
+    Belmar
+    Bradley Beach
+    Brick
+    Brigantine
+    Cape May
+    Corson's Inlet State Park (Strathmere)
+    Deal
+    Gunnison Beach
+    Harvey Cedars
+    Island Beach State Park (Berkeley)
+    Lavallette
+    Loch Arbour
+    Long Beach
+    Long Branch
+    Longport
+    Manasquan
+    Mantoloking
+    Margate City
+    Monmouth Beach
+    North Wildwood
+    Ocean City
+    Ocean Grove (Neptune)
+    Ortley Beach (Toms River)
+    Point Pleasant Beach
+    Sandy Hook (Highlands)
+    Sea Bright
+    Sea Girt
+    Sea Isle City
+    Seaside Heights
+    Seaside Park
+    Seven Presidents Oceanfront Park (Long Branch)
+    Ship Bottom
+    Spring Lake
+    Stone Harbor
+    Strathmere
+    Surf City
+    Ventnor City
+    Villas (Lower Township)
+    West Wildwood
+    Wildwood
+    Wildwood Crest
+
+#New York
+ 
+
+    Atlantic Beach
+    Brighton Beach, Brooklyn
+    Coney Island, Brooklyn
+    East Hampton
+    Fire Island
+    Lido Beach
+    Long Beach
+    Montauk
+    Ocean Beach
+    Southampton
+    Point Lookout
+    Rockaway Beach
+    Westhampton Beach
+    West Hampton Dunes
+
+#North Carolina
+
+    Atlantic Beach
+    Avon
+    Buxton
+    Cape Hatteras
+    Carolina Beach
+    Caswell Beach
+    Corolla
+    Duck
+    Emerald Isle
+    Holden Beach
+    Indian Beach
+    Kure Beach
+    Long Beach
+    Hatteras
+    Nags Head
+    North Topsail Beach
+    Oak Island
+    Ocean Isle Beach
+    Ocracoke
+    Pine Knoll Shores
+    Portsmouth
+    Rodanthe
+    Salter Path
+    Salvo
+    Southern Shores
+    Sunset Beach
+    Surf City
+    Waves
+    Wrightsville Beach
+    Yaupon Beach
+
+#Ohio
+
+    Edgewater State Park
+    Headlands Beach State Park
+
+#Oregon
+
+    Cannon Beach
+    Depoe Bay
+    Gold Beach
+    Lincoln City
+    Manzanita
+    Newport
+    Port Orford
+    Rockaway Beach
+    Seaside
+    Yachats
+
+#Pennsylvania
+
+    Erie
+    Presque Isle
+
+#Rhode Island
+
+    Matunuck
+    Misquamicut State Beach
+    Narragansett
+    Point Judith
+    Quonochontaug
+    Weekapaug
+
+#South Carolina
+
+    Atlantic Beach
+    Cherry Grove Beach
+    Crescent Beach
+    Edisto Beach
+    Folly Beach
+    Hilton Head Island
+    Myrtle Beach
+    North Myrtle Beach
+    Springmaid Beach
+    Surfside Beach
+
+#Texas
+
+    Galveston
+    Mustang Island
+    Padre Island
+    South Padre Island
+    Surfside Beach
+
+#Vermont
+    Bomoseen State Park
+    Branbury State Park
+    Camp Plymouth State Park
+    D.A.R. State Park
+    Half Moon Pond State Park
+    Lake St. Catherine State Park
+    Silver Lake State Park
+    Waterbury Center State Park
+    Alburg Dunes State Park
+    Boulder Beach State Park
+    Brighton State Park
+    Burton Island State Park
+    Crystal Lake State Park
+    Elmore State Park
+    Grand Isle State Park
+    Kill Kare State Park
+    Knight Point State Park
+    Lake Carmi State Park
+    Maidstone State Park
+    North Hero State Park
+    Ricker Pond State Park
+    Sand Bar State Park
+    Stillwater Recreation Area of Groton State Forest
+    Lake Shaftsbury State Park
+#Virginia
+
+    Buckroe Beach
+    Chincoteague
+    Colonial Beach
+    Ocean View
+    Virginia Beach
+
+#Washington
+
+    Alki Beach
+    Ocean Shores
+
+#American Samoa
+
+    Alega Beach
+    Freddies Beach
+    South Ofu Beach
+
+
+#Guam
+#Northern Mariana Islands
+#Puerto Rico
+
+    Luquillo Beach
+    Boquerón Beach
+
+#U.S. Virgin Islands
+
+    Magen's Bay, St. Thomas
+    Trunk Bay, St. John

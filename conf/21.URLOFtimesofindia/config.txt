@@ -1,0 +1,11 @@
+Folder=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/
+is_Append_Failed_File=true
+is_Append_Success_File=true
+is_Append_outFile=true
+skip_is_english=true
+isDebug=false
+stop_pattern_for_url=15/7/23/
+is_ignore_past_ran_success_file_for_skipping_url=false
+past_ran_success_file_for_skipping_url=timesofindia.success.time_of_india.txt
+past_ran_success_file_for_skipping_url.remark={timesofindia.success.time_of_india.txt,	dummy.txt}
+which_set_of_url.NOUSE.remark={option1,option2}

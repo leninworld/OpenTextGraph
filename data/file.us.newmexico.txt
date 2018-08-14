@@ -1,0 +1,157 @@
+#Alamogordo
+
+    Gerald Champion Regional Medical Center
+
+#Albuquerque
+
+    Heart Hospital of New Mexico
+        Lovelace Medical Center - Downtown
+        Lovelace Rehabilitation Hospital
+        Lovelace Westside Hospital (West Mesa Medical Center)
+        Lovelace Women's Hospital
+    Presbyterian Hospital
+    Presbyterian Kaseman Hospital
+        UNM Carrie Tingley Hospital
+        UNM Children's Hospital
+        UNM Children's Psychiatric Center
+        UNM Hospital
+        UNM Psychiatric Center
+
+#Artesia
+
+    Artesia General Hospital
+
+#Carlsbad
+
+    Carlsbad Medical Center
+
+#Clayton
+
+    Union County General Hospital
+
+#Clovis
+
+    Plains Regional Medical Center
+
+#Crownpoint
+
+    U. S. Public Health Service Indian Hospital
+
+#Deming
+
+    Mimbres Memorial Hospital
+
+#Espanola
+
+    Española Valley Regional (Presbyterian) Hospital
+
+#Farmington
+
+    San Juan Regional Medical Center
+
+#Gallup
+
+    Gallup Indian Medical Center
+    Rehoboth McKinley Christian Health Care Services
+
+#Grants
+
+    Cibola General Hospital
+
+#Hobbs
+
+    Lea Regional Medical Center
+
+#Las Cruces
+
+    Advanced Care Hospital of Southern New Mexico
+    Memorial Medical Center
+    Mesilla Valley Hospital
+    MountainView Regional Medical Center
+    Rehabilitation Hospital of Southern New Mexico
+    UNM Cancer Center
+
+#Las Vegas
+
+    Alta Vista Regional Hospital
+    New Mexico Behavioral Health Institute at Las Vegas
+
+#Los Alamos
+
+    Los Alamos Medical Center
+
+#Lovington
+
+    Nor-Lea General Hospital
+
+#Mescalero
+
+    U. S. Public Health Service Indian Hospital
+
+#Portales
+
+    Roosevelt General Hospital
+
+#Raton
+
+    Miners' Colfax Medical Center
+
+#Rio Rancho
+
+    RUST (Presbyterian) Hospital
+    Presbyterian Medical Center-Rio Rancho
+    University of New Mexico Hospital- Sandoval County
+
+#Roswell
+
+    Eastern New Mexico Medical Center
+    New Mexico Rehabilitation Center
+
+#Ruidoso
+
+    Lincoln County Medical Center
+
+#San Fidel
+
+    Acoma-Canoncito-Laguna Hospital
+
+#Santa Fe
+
+    PHS Santa Fe Indian Hospital
+    CHRISTUS St. Vincent Regional Medical Center
+
+#Santa Rosa
+
+    Guadalupe County Hospital
+
+#Santa Teresa
+
+    Peak Behavioral Health Services
+
+#Shiprock
+
+    Northern Navajo Medical Center
+
+#Silver City
+
+    Gila Regional Medical Center
+
+#Socorro
+
+    Socorro General Hospital
+
+#Taos
+
+    Holy Cross Hospital
+
+#Truth or Consequences
+
+    Sierra Vista Hospital
+
+#Tucumcari
+
+    Dr. Dan C. Trigg Memorial Hospital
+
+#Zuni
+
+    U. S. Public Health Service Indian Hospital

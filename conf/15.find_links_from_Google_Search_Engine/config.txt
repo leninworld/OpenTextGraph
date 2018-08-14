@@ -1,0 +1,9 @@
+input_Keyword_File=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/data/15.find_links_from_Google_Search_Engine/keywords.txt
+output_File_1=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/out_google_search_1.txt
+is_Append_output_File_1=true
+output_File_2=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/out_google_search_2.txt
+is_Append_output_File_2=true
+num_results_required=20
+input_proxy_file=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/conf/proxy-ip-address-usa.txt
+input_proxy_file.remark=has <host!!!port> in each line
+output_already_searched_keywords_File=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/out_google_already_searched_success_keywords.txt

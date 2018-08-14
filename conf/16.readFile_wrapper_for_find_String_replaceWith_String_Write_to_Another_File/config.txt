@@ -1,0 +1,6 @@
+inFolder=/Users/lenin/GoogleDrive/uaw.test.input/email.feed.all/
+outFolder=/Users/lenin/GoogleDrive/uaw.test.input/email.feed.all.tsv.out/
+start_line=-1
+end_line=-1
+find_string=!!!
+replace_with_string=\t

@@ -1,0 +1,329 @@
+#Barnstable
+        Bone Hill
+        Bridge Street
+        Cordwood
+        Covells Beach
+        Craigville Beach
+        Crockers Neck
+        Cross Street
+        Dowses Beach
+        East Beach
+        Estey Avenue Beach
+        Fifth Ave
+        Indian Trail
+        Kalmus Ocean
+        Kalmus Yacht
+        Kennedy Memorial
+        Keyes Beach
+        Little River
+        Loops Beach
+        Millway
+        Oregon Beach
+        Oyster Place Road
+        Prince Cove
+        Ropes Beach
+        Sandy Neck
+        Scudder Lane
+        Veterans Beach
+        Wianno Avenue
+#Beverly
+        Brackenbury
+        Dane Street
+            Dane Street Bathhouse
+            Dane Street Jetty
+            Dane Street Outfall
+        Goat Hill
+        Independence
+        Lynch Park
+        Mingo
+        Ober Park
+        Rice Beach
+            Rice Outfall
+        Sandy Point
+        West Beach
+        Woodbury
+ #   Boston
+        Carson Beach, Old Harbor Reservation
+        City Point Beach, Old Harbor Reservation
+            City Point Beach  Farragut
+        Constitution Beach, Belle Isle Marsh Reservation
+        Harbor Islands Reservation
+            Bumpkin Island
+            Lovell's Island Beach
+            Spectacle Island
+        M Street Beach, Old Harbor Reservation
+            M Street Beach at M Street
+        Malibu Beach, Dorchester Shores Reservation
+        Pleasure Bay, Old Harbor Reservation
+        Savin Hill Beach, Dorchester Shores Reservation
+            Savin Hill at Bayside
+        Tenean Beach, Dorchester Shores Reservation
+            Tenean Beach at Middle Site
+ #   Bourne
+        Barlows Landing
+        Cataumet Harbor
+        Electric Avenue
+        Gray Gables
+        Monument Beach
+        Patiusset Beach
+        Sagamore Beach
+        Scenic Park
+#    Braintree
+        Smith Beach
+ #   Brewster
+        Breakwater
+        Cliff Pond Beach, Nickerson State Park
+        Crosby
+        Ellis
+        Flax Pond Beach, Nickerson State Park
+        Linnell Landing Beach
+        Little Cliff Pond, Nickerson State Park
+        Paines Creek
+        Point of Rocks
+        Robbins Hill
+        Saints
+#    Carver
+        Barretts Pond, Myles Standish State Forest
+ #   Chatham
+        Andrew Hardings Lane Beach
+        Bucks Creek
+        Cockle Cove Beach
+            Cockle Cove Creek at Parking Lot
+            Cockle Cove Creek at Ridgevale Bridge
+        Forest Street Beach
+        Hardings Beach East
+        Hardings Beach West
+        Jacknife Harbor Beach
+        Lighthouse Beach
+        Oyster Pond Beach
+        Pleasant Street Beach
+        Ridgevale Beach
+        Scatteree Town Landing
+ #   Chilmark
+        Chilmark Pond Preserve
+        Great Rock Bight
+        Lucy Vincent Beach
+            Lucy Vincent Beach - Chilmark Pond
+            Lucy Vincent Beach - Ocean
+        Menemsha Beach
+        Menemsha Pond
+        Squibnocket Beach
+#    Cohasset
+        Black Rock Beach
+        Little Harbor
+        Sailing Club
+        Sandy Beach
+        Sandy Cove
+        Yacht Club
+#    Concord
+        Walden Pond, Walden Pond State Reservation
+#    Danvers
+        Sandy Beach East
+        Sandy Beach West
+ #   Dartmouth
+        Anthonys
+        Apponagansett Town Beach
+        Barneys Joy
+        Bayview
+        Demarest Lloyd Beach, Demarest Lloyd State Park
+        Hidden Bay
+        Jones Town Beach
+        Moses Creek
+        Nonquitt
+        Oak Hill Shores
+        Round Hill
+        Salters Point East
+        Salters Point South
+ #   Dennis
+        Bayview
+        Chapin Memorial Beach
+        Cold Storage
+        Corporation
+        Crowes Pasture Beach
+        Follins Pond
+        Glendon Road
+        Haigis
+        Harborview
+        Howes Street
+        Inman
+        Mayflower
+        Raycroft
+        Sea Street
+            Sea Street (Dennisport)
+            Sea Street (East Dennis)
+        South Village
+        Sullivan
+        Trotting Park
+        West Dennis
+            West Dennis (Residential)
+            West Dennis (W. of Snack Bar)
+            West Dennis (West)
+#    Duxbury
+        Duxbury Beach
+        Hardin Hill
+        Howlands Landing
+        Landing Road
+        Residents Beach
+        Shipyard Lane
+        West End
+#    Eastham
+        Boat Meadow
+        Campground
+        Coast Guard Beach, Cape Cod National Seashore
+            Coast Guard Beach 1
+            Coast Guard Beach 2
+        Cole Road
+        Cooks Brook
+        Dyer Prince
+        First Encounter
+            First Encounter (Beach)
+            First Encounter (Spit River)
+        Kingsbury
+        Nauset Light Beach, Cape Cod National Seashore
+            Nauset Light Beach 1
+            Nauset Light Beach 2
+            Nauset Light Beach 3
+        South Sunken Meadow
+        Thumpertown
+        Town Cove
+#    Edgartown
+        Bend-in-the-Road Beach
+        Chappy Point Beach
+        East Beach
+            East Beach (Chappy)
+        Edgartown Great Pond
+        Felix Neck
+        Fuller Street
+        Joseph Sylvia Big Bridge
+        Joseph Sylvia Sound
+        Norton Point Beach
+            Norton Point Beach - east Katama Bay
+            Norton Point Beach - east ocean
+            Norton Point Beach - west bay
+            Norton Point Beach - west ocean
+        South Beach State Park
+            South Beach State Park - Middle
+            South Beach State Park - Right Fork West
+        Wasque Swim Beach
+#    Essex
+        Clammers Beach
+        Front Beach
+ #   Fairhaven
+        Fort Phoenix, Fort Phoenix
+        Knollmere
+        Manhattan Avenue
+        Raymond Street
+        West Island
+            West Island - Causeway
+            West Island - Towns Beach
+        Weeden Rd
+ #   Falmouth
+        Bristol Beach
+        Chappaquoit Beach
+        Falmouth Heights Beach
+        Megansett Beach
+        Menauhant Beach
+        Old Silver Beach
+        Surf Drive Beach
+        Woodneck Beach
+#    Freetown
+        Assonet:
+            Assonet Bay Shores Association Beach
+            Porter Pastures Beach
+        East Freetown:
+            Town Beach
+#    Gloucester
+        Coffins Beach
+        Cressy's Beach
+        Good Harbor Beach
+        Half Moon Beach
+        Magnolia Beach
+        Niles Beach
+        Pavillion Beach
+        Plum Cove Beach
+        Wingaersheek Beach
+ #   Hull
+        Nantasket Beach, Nantasket Reservation
+ #   Ipswich
+        Clark Beach
+        Crane Beach
+        Pavilion Beach
+        Steep Hill Beach
+ #   Lynn
+        Kings Beach, Lynn Shores Reservation
+#    Manchester-by-the-Sea
+        Singing Beach
+#    Mashpee
+        South Cape Beach, South Cape Beach State Park
+#    Milton
+        Houghton's Pond, Blue Hills Reservation
+ #   Nahant
+        Nahant Beach, Lynn Shores Reservation
+ #   Nantucket
+        Brant Point
+        Children's Beach
+        Cisco Beach
+        Dionis Beach
+        Francis Street
+        Jetties Beach
+        Madaket Beach
+        Siasconset Beach
+        Surfside Beach
+ #   Natick
+        Cochituate Lake Beach, Cochituate State Park
+ #   North Andover
+        Berry Pond Beach, Harold Parker State Forest
+        Frye Pond Beach, Harold Parker State Forest
+ #   Orleans
+        Nauset Beach
+ #   Plymouth
+        Charge Pond Beach, Myles Standish State Forest
+        College Pond Beach, Myles Standish State Forest
+        Curlew Pond Beach, Myles Standish State Forest
+        Fearings Pond Beach, Myles Standish State Forest
+ #   Provincetown
+        Herring Cove, Cape Cod National Seashore
+        Race Point, Cape Cod National Seashore
+ #   Quincy
+        Wollaston Beach, Quincy Shore Reservation
+ #   Revere
+        Revere Beach, Revere Beach Reservation
+#    Rockport
+        Cape Hedge Beach
+        Front Beach/Back Beach
+        Long Beach
+ #   Salisbury
+        Salisbury Beach, Salisbury Beach State Reservation
+#    Sandwich
+        Scusset Beach, Scusset Beach State Reservation
+#    Saugus
+        Pearce Lake, Breakheart Reservation
+        Peckham Pond, Breakheart Reservation
+#    Scituate
+        Humarock Beach
+#    Swampscott
+        Eismans Beach
+        Fishermans Beach
+        Kings Beach
+        Phillips Beach
+ #   Taunton
+        Middle Pond Beach, Massasoit State Park
+        Watson Pond Beach, Watson Pond State Park
+ #   Truro
+        Beach Point
+        Coast Guard Beach aka "Highland Beach"
+        Fisher Beach
+        Head of the Meadow, Cape Cod National Seashore
+        High Head Beach
+        Longnook Beach
+        Noon's Landing
+ #   Wellfleet
+        Marconi Beach, Cape Cod National Seashore
+ #   Westport
+        Horseneck Beach, Horseneck Beach State Reservation
+ #   Winchester
+        Sandy Beach, Mystic River Reservation
+ #   Winthrop
+        Short Beach, Belle Isle Reservation
+        Winthrop Beach, Belle Isle Marsh Reservation
+        Yirrell Beach, Belle Isle Marsh Reservation

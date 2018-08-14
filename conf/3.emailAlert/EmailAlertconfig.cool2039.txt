@@ -1,0 +1,8 @@
+inputFolder=/Users/lenin/Library/Mail/V2/IMAP-coolsun2039@imap.gmail.com/[Gmail].mbox/All Mail.mbox/47E0C302-248D-474E-94D3-453E762B3BC1
+YYYY=-1
+debugFile=/Users/lenin/GoogleDrive/uaw.test.input/emailFeed_out_debug_ErrorAndURLfile_cool2039.txt
+outputFile=/Users/lenin/GoogleDrive/uaw.test.input/emailFeed_out_cool2039.txt
+outputSuccessFile=/Users/lenin/GoogleDrive/uaw.test.input/emailFeed_out_doneSuccess_cool2039.txt
+pastRunAlreadyReadFilesCSV=/Users/lenin/GoogleDrive/uaw.test.input/dummy.txt
+outputFileForFullPathGenerated=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/emailFeed_out_doneSuccess_cool2039_fpath.txt
+is_pastRun_alreadyRead_FileName_A_Success_File=true

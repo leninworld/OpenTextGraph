@@ -1,0 +1,5 @@
+inputFileName=/Users/lenin/Downloads/output.xmlfeed/out_xml_4_3.0-4.0_set#1.txt
+outputFileName=/Users/lenin/Downloads/output.xmlfeed/out_xml_4_3.0-4.0_set#1_verify.txt
+debugFile=/Users/lenin/Downloads/output.xmlfeed/debug.7.txt
+expectedNumberOftokens=9
+expectedNumberOftokens2=dyn:->5,new(->9

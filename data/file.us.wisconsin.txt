@@ -1,0 +1,300 @@
+#Amery
+!!!Amery Regional Medical Center
+
+#Antigo
+!!!Langlade Hospital
+
+#Appleton
+!!!Appleton Medical Center
+!!!St. Elizabeth Hospital
+
+#Arcadia
+!!!Mayo Clinic Health System - Arcadia (Franciscan Healthcare)
+
+#Ashland
+!!!Memorial Medical Center
+
+#Baldwin
+!!!Baldwin Area Medical Center
+
+#Baraboo
+!!!St. Clare Hospital
+
+#Barron
+!!!Mayo Clinic Health System - Northland
+
+#Beaver Dam
+!!!Beaver Dam Community Hospital
+
+#Beloit
+!!!Beloit Memorial Hospital
+
+#Berlin
+!!!Berlin Memorial Hospital
+
+#Black River Falls
+!!!Black River Memorial Hospital
+
+#Bloomer
+!!!Mayo Clinic Health System - Chippewa Valley
+
+#Boscobel
+!!!Boscobel Area Health Care
+
+#Brookfield
+!!!Wheaton Franciscan Healthcare-Elmbrook Memorial
+
+#Burlington
+!!!Aurora Memorial Hospital of Burlington
+
+#Chilton
+!!!Calumet Medical Center
+
+#Chippewa Falls
+!!!St. Joseph Hospital of Chippewa Falls
+
+#Columbus
+!!!Columbus Community Hospital
+
+#Cumberland
+!!!Cumberland Memorial Hospital
+
+#Darlington
+!!!Memorial Hospital of Lafayette County
+
+#Dodgeville
+!!!Upland Hills Health
+
+#Durand
+!!!Chippewa Valley Hospital
+
+#Eagle River
+!!!Eagle River Memorial Hospital
+
+#Eau Claire
+!!!Mayo Clinic Health System - Eau Claire
+!!!Oakleaf Surgical Hospital
+!!!Sacred Heart Hospital
+
+#Edgerton
+!!!Edgerton Hospital and Health Services
+
+#Elkhorn
+!!!Aurora Lakeland Medical Center
+
+#Fond du Lac
+!!!Agnesian HealthCare (formerly St. Agnes Hospital)
+
+#Fort Atkinson
+!!!Fort Atkinson Memorial Hospital
+
+#Franklin
+!!!Wheaton Franciscan Healthcare-Franklin
+
+#Friendship
+!!!Moundview Memorial Hospital and Clinics
+
+#Glendale
+!!!Orthopaedic Hospital of Wisconsin
+
+#Grantsburg
+!!!Burnett Medical Center
+
+#Green Bay
+!!!Bellin Memorial Hospital
+!!!St. Mary's Hospital
+!!!St. Vincent Hospital
+!!!Aurora BayCare Medical Center
+
+#Hartford
+!!!Aurora Medical Center-Hartford
+
+#Hayward
+!!!Hayward Area Memorial Hospital - Hayward
+
+#Hillsboro
+!!!St Joseph's Community Health Services
+
+#Hudson
+!!!Hudson Hospital
+
+#Janesville
+!!!Mercy Hospital
+!!!St. Mary's Janesville Hospital
+
+#Kenosha
+!!!Aurora Medical Center
+!!!St. Catherine's Hospital
+!!!Kenosha Memorial Hospital
+
+#La Crosse
+!!!Gundersen Lutheran Medical Center
+!!!Mayo Clinic Health System - La Crosse (Franciscan Healthcare)
+
+#Ladysmith
+!!!Rusk County Memorial Hospital and Nursing Home
+
+#Lake Geneva
+!!!Mercy Walworth Hospital
+
+#Lancaster
+!!!Grant Regional Health Center
+
+#Madison
+!!!American Family Children's Hospital
+!!!Meriter Hospital
+!!!St. Mary's Hospital (Madison, Wisconsin)
+!!!University of Wisconsin Hospital and Clinics
+!!!William S. Middleton Memorial VA Hospital
+
+#Manitowoc
+!!!Holy Family Memorial
+
+#Marinette
+!!!Bay Area Medical Center
+
+#Marshfield
+!!!Marshfield Clinic
+!!!Saint Joseph's Hospital
+!!!Saint Joseph's Children's Hospital
+
+#Mauston
+!!!Mile Bluff Medical Center (formerly Hess Memorial Hospital)
+
+#Medford
+!!!Aspirus Medford Hospital
+
+#Menomonie
+!!!Mayo Clinic Health System - Red Cedar
+
+#Merrill
+!!!Good Samaritan Health Center
+
+#Milwaukee and Milwaukee suburbs
+!!!Aurora Medical Center - Oconomowoc
+!!!Aurora Sinai Medical Center - Milwaukee
+!!!Aurora St. Luke's Medical Center - Milwaukee
+!!!Aurora South Shore Medical Center - Cudahy
+!!!Children's Hospital of Wisconsin - Milwaukee
+!!!Clement J. Zablocki Veterans Hospital - Milwaukee
+!!!Columbia St. Mary's Columbia Hospital - Milwaukee
+!!!Columbia St. Mary's Milwaukee Hospital - Milwaukee
+!!!Columbia St. Mary's Ozaukee Hospital - Mequon
+!!!Community Memorial Hospital - Menomonee Falls
+!!!Elmbrook Memorial Hospital - Brookfield
+!!!All Saint's Healthcare-Racine
+!!!St. Luke Memorial Hospital-Racine
+!!!Memorial Hospital of Burlington-Burlington
+!!!Froedtert Hospital - Milwaukee
+!!!Wheaton Franciscan Franklin Medical Center - Franklin
+!!!Milwaukee Regional Medical Center-Wauwautosa
+!!!Milwaukee County Mental Health Center-Milwaukee
+!!!Oconomowoc Memorial Hospital - Oconomowoc
+!!!Orthopedic Hospital of Wisconsin - Milwaukee
+!!!Rogers Memorial Hospital - Milwaukee
+!!!Milwaukee County General Hospital-Milwaukee
+!!!Rogers Memorial Hospital - Oconomowoc
+!!!St. Francis Hospital - Milwaukee
+!!!St. Joseph's Regional Medical Center - Milwaukee
+!!!Aurora West Allis Memorial Hospital - West Allis
+!!!Wisconsin Heart Hospital - Wauwatosa
+!!!Waukesha Memorial Hospital-Waukesha
+
+#Monroe
+!!!Monroe Clinic Hospital
+
+#Neenah
+!!!Theda Clark Medical Center
+
+#Osceola
+!!!Osceola Medical Center
+
+#Oshkosh
+!!!Aurora Medical Center
+!!!Mercy Medical Center
+
+#Osseo
+!!!Mayo Clinic Health System - Oakridge
+
+#Platteville
+!!!Southwest Health Center
+
+#Plymouth
+!!!Aurora Valley View Medical Center
+
+#Portage
+!!!Divine Savior Healthcare
+
+#Prairie du Sac
+!!!Sauk Prairie Memorial Hospital
+
+#Reedsburg
+!!!Reedsburg Area Medical Center
+
+#Rhinelander
+!!!Sacred Heart St Mary Hospital
+
+#Rice Lake
+!!!Lakeview Medical Center of Rice Lake
+
+#Richland Center
+!!!Richland Hospital
+
+#Ripon
+!!!Ripon Medical Center
+
+#River Falls
+!!!River Falls Area Hospital
+
+#Schofield
+!!!Saint Clare's Hospital - Weston
+
+#Shawano
+!!!Shawano Medical Center
+
+#Sheboygan
+!!!Sheboygan Memorial Center
+!!!St. Nicholas Hospital
+
+#Stevens Point
+!!!St. Michael Hospital
+
+#Stoughton
+!!!Stoughton Hospital
+
+#Superior
+!!!St. Mary's Hospital of Superior, an affiliate of St. Mary's/Duluth Clinic Health System
+
+#Tomah
+!!!Tomah Memorial Hospital
+!!!Tomah Veterans' Affairs Medical Center
+
+#Two Rivers
+!!!Aurora Medical Center of Manitowoc County
+
+#Viroqua
+!!!Vernon Memorial Hospital
+
+#Watertown
+!!!Watertown Memorial Hospital
+
+#Waupun
+!!!Agnesian HealthCare (Waupun Memorial Hospital)
+
+#Wausau
+!!!Aspirus Wausau Hospital
+
+#West Bend
+!!!St. Joseph Community Hospital
+
+#Weston
+!!!Saint Clare's Hospital
+
+#Wild Rose
+!!!Wild Rose Community Memorial Hospital
+
+#Wisconsin Rapids
+!!!Riverview Hospital
+
+#Woodruff
+!!!Howard Young Medical Center

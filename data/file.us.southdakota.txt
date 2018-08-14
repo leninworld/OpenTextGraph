@@ -1,0 +1,222 @@
+#Aberdeen
+
+!!!Avera St. Luke's Hospital
+!!!Dakota Plains Surgical Center
+!!!Sanford Aberdeen Medical Center
+
+#Armour
+
+!!!Douglas County Memorial Hospital
+
+#Bowdle
+
+!!!Bowdle Hospital
+
+#Britton
+
+!!!Marshall County Healthcare Center
+
+#Brookings
+
+!!!Brookings Health System
+
+#Burke
+
+!!!Community Memorial Hospital
+
+#Canton
+
+!!!Canton-Inwood Memorial Hospital
+
+#Chamberlain
+
+!!!Mid Dakota Medical Center
+
+#Clear Lake
+
+!!!Deuel County Memorial Hospital
+
+#Custer
+
+!!!Custer Regional Hospital
+
+#Dakota Dunes
+
+!!!Siouxland Surgery Center
+
+#De Smet
+
+!!!De Smet Memorial Hospital
+
+#Deadwood
+
+!!!Black Hills Medical Center
+!!!Lead-Deadwood Regional Hospital
+
+#Dell Rapids
+
+!!!Avera Dells Area Health Center
+
+#Eagle Butte
+
+!!!U. S. Public Health Service Indian Hospital
+
+#Eureka
+
+!!!Eureka Community Health Services/Avera Health
+
+#Faulkton
+
+!!!Faulk County Memorial Hospital
+
+#Flandreau
+
+!!!Flandreau Medical Center/Avera Health
+
+#Fort Meade
+
+!!!Veterans Affairs Black Hills Health Care System
+
+#Freeman
+
+!!!Freeman Regional Health Services
+
+#Gettysburg
+
+!!!Gettysburg Memorial Hospital
+
+#Gregory
+
+!!!Avera Gregory Healthcare Center
+
+#Hot Springs
+
+!!!Fall River Hospital
+
+#Huron
+
+!!!Huron Regional Medical Center
+
+#Madison
+
+!!!Madison Community Hospital
+
+#Martin
+
+!!!Bennett County Hospital and Nursing Home
+
+#Milbank
+
+!!!Milbank Area Hospital/Avera Health
+
+#Miller
+
+!!!Hand County Memorial Hospital/Avera Health
+
+#Mitchell
+
+!!!Avera Queen of Peace Hospital
+
+#Mobridge
+
+!!!Mobridge Regional Hospital
+
+#Parkston
+
+!!!Avera St. Benedict Health Center
+
+#Philip
+
+!!!Hans P. Peterson Memorial Hospital
+
+#Pierre
+
+!!!St. Mary's Healthcare Center
+
+#Pine Ridge
+
+!!!U. S. Public Health Service Indian Hospital
+
+#Platte
+
+!!!Platte Health Center/Avera Health
+
+#Rapid City
+
+!!!Black Hills Surgery Center
+!!!Black Hills Rehabilitation Hospital
+!!!Indian Health Service Hospital
+!!!Rapid City Regional Hospital
+!!!Same Day Surgery Center
+
+#Redfield
+
+!!!Community Memorial Hospital
+
+#Rosebud
+
+!!!U. S. Public Health Service Indian Hospital
+
+#Scotland
+
+!!!Landmann-Jungman Memorial Hospital
+
+#Sioux Falls
+
+!!!Avera Heart Hospital of South Dakota - Sioux Falls
+!!!Avera McKennan Hospital - Sioux Falls
+!!!Children's Care Hospital and School
+!!!Royal C. Johnson Veterans Memorial Hospital
+!!!Select Specialty Hospital-Sioux Falls
+!!!Sioux Falls Surgical Center
+!!!Sanford USD Medical Center
+
+#Sisseton
+
+!!!Coteau des Prairies Hospital
+
+#Spearfish
+
+!!!Spearfish Regional Hospital
+!!!Spearfish Surgery Center
+
+#Sturgis
+
+!!!Sturgis Regional Hospital
+
+#Tyndall
+
+!!!St. Michael's Hospital
+
+#Vermillion
+
+!!!Sanford Vermillion Medical Center
+
+#Viborg
+
+!!!Pioneer Memorial Hospital and Health Services
+
+#Wagner
+
+!!!Wagner Community Memorial Hospital - Avera
+
+#Watertown
+
+!!!Prairie Lakes Hospital & Care Center-
+
+#Webster
+
+!!!Sanford Webster Medical Center
+
+#Wessington Springs
+
+!!!Avera Weskota Memorial Medical Center
+
+#Winner
+
+!!!Winner Regional Healthcare Center
+
+#Yankton
+
+!!!Avera Sacred Heart Hospital
+!!!Lewis and Clark Specialty Hospital

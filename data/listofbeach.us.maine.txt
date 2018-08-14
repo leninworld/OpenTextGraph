@@ -1,0 +1,14 @@
+#    Scarborough
+        Higgins Beach
+#    York
+        Long Sands Beach
+        Short Sands Beach
+        York Harbor Beach
+#    Old Orchard Beach
+        Old Orchard Beach
+#    Wells, Maine
+        Wells Beach
+#    Lincolnville
+        Lincolnville Beach
+#    Georgetown
+        Reid State Park

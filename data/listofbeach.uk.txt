@@ -1,0 +1,130 @@
+# Akrotiri and Dhekelia
+# Anguilla
+# Bermuda
+# British Indian Ocean Territory
+# British Virgin Islands
+    The Baths Virgin Gorda
+# Cayman Islands
+# England
+    Biggar Cumbria
+    Blackpool Lancashire
+    Bournemouth Dorset
+    Bridlington Yorkshire
+    Brighton Sussex
+    Castle Cove Dorset
+    Chesil Beach Dorset
+    Church Ope Cove Dorset
+    Clacton-on-Sea Essex
+    Earnse Bay Cumbria
+    Fistral Beach Cornwall
+    Morecambe Bay Lancashire
+    Mount's Bay Cornwall
+    Newquay Cornwall
+    Scarborough Yorkshire
+    Southend-on-Sea Essex
+    St Oswald's Bay Dorset
+    Studland Dorset
+    Rampside Beach Cumbria
+    Roanhead Cumbria
+    Weymouth Dorset
+    St. Ives Cornwall
+    Maenporth Cornwall
+    Jemima Bay Cornwall
+    Gyllyngvase Cornwall
+# Falkland Islands
+# Gibraltar
+    Catalan Bay
+    Eastern Beach
+    Sandy Bay
+# Montserrat
+# Northern Ireland
+	Portstewart Strand
+# Pitcairn Islands
+# Saint Helena Ascension and Tristan da Cunha
+# South Georgia and the South Sandwich Islands
+# Scotland
+# Turks and Caicos Islands
+# Wales
+    Aberystwyth
+    Barafundle Bay South Pembrokeshire
+    Broad Haven South South Pembrokeshire
+    Freshwater West South Pembrokeshire
+    Pendine Sands Carmarthenshire
+    Poppit Sands Pembrokeshire
+    Saundersfoot South Pembrokeshire
+    Whitesands Pembrokeshire
+    Tenby South Pembrokeshire
+	Anglesey Benllech
+	Anglesey Holyhead
+	Anglesey Llanddona
+	Anglesey Llanddwyn Newborough
+	Anglesey Porth Dafarch
+	Anglesey Porth Swtan Church Bay
+	Anglesey Trearddur Bay
+	Bridgend Rest Bay,Porthcawl
+	Carmarthenshire Cefn Sidan Pembrey Country Park
+	Ceredigion Aberporth
+	Ceredigion Borth
+	Ceredigion New Quay Harbour
+	Ceredigion Tresaith
+	Conwy Llandudno North Shore
+	Gwynedd Abersoch
+	Gwynedd Dinas Dinlle
+	Gwynedd Morfa Bychan (Black Rock Sands)
+	Gwynedd Marian y De Pwllheli
+	Pembrokeshire Amroth
+	Pembrokeshire Broad Haven North
+	Pembrokeshire Coppet Hall
+	Pembrokeshire Dale
+	Pembrokeshire Lydstep
+	Pembrokeshire Newgale
+	Pembrokeshire Saundersfoot
+	Pembrokeshire Whitesands St Davids
+	Pembrokeshire Tenby Castle
+	Pembrokeshire Tenby North
+	Pembrokeshire Tenby South
+	Swansea Bracelet Bay
+	Swansea Caswell Bay
+	Swansea Langland Bay
+	Swansea Port Eynon
+	Swansea Swansea Marina
+	Vale of Glamorgan Penarth Marina
+#Dorset
+    Lyme Regis
+    Charmouth
+    Seatown
+    West Bay
+    Chesil Beach
+    Chesil Cove
+    Hallelujah Bay
+    Church Ope Cove
+    Portland Harbour Beach
+    Smallmouth Beach
+    The Fleet's Beaches
+    Castle Cove
+    Newton Cove
+    Weymouth Beach
+    Greenhill Beach
+    Bowleaze Cove
+    Ringstead Bay
+    Durdle Door Beach
+    Man of War Bay
+    Lulworth Cove
+    Mupe Bay
+    Arish Mell
+    Worbarrow Bay
+    Pondfield Cove
+    Brandy Bay
+    Hobarrow Bay
+    Egmont Bight
+    Kimmeridge Bay
+    Chapmans Pool
+    Durlston Bay
+    Swanage Beach
+    Studland Beach
+    Shell Bay
+    Poole Harbour Beaches
+    Sandbanks Beaches
+    Bournemouth Beach
+    Bedford (Southbourne) Beach
+    Avon (Mudeford) Beach

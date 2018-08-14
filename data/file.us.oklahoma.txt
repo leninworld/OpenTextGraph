@@ -1,0 +1,534 @@
+A
+        # Edmond, Oklahoma
+    AMG Specialty hospital
+
+        # Sulphur, Oklahoma
+    Arbuckle Memorial hospital
+
+        # Atoka, Oklahoma
+    Atoka Memorial hospital
+
+
+B
+        # Owasso, Oklahoma
+    Bailey medical Center
+
+        # Beaver, Oklahoma
+    Beaver County Memorial #hosp. & Nursing Home
+
+        # Oklahoma City, Oklahoma
+    Bone and Joint hospital
+
+        # Bristow, Oklahoma
+    Bristow medical Center
+
+        # Tulsa, Oklahoma
+    Brookhaven hospital
+
+
+C
+        # McAlester, Oklahoma
+    Carl Albert Community Mental Health Center
+
+        # Carnegie, Oklahoma
+    Carnegie Tri-County Municipal hospital
+
+        # Oklahoma City, Oklahoma
+    Cedar Ridge hospital
+
+        # Ada, Oklahoma
+    Chickasaw Nation Health System
+
+        # Bethany, Oklahoma
+    The Children's Center of Bethany
+
+        # Hugo, Oklahoma
+    Choctaw Memorial hospital
+
+        # Talihina, Oklahoma
+    Choctaw Nation Health Services Authority
+
+        # Boise City, Oklahoma
+    Cimarron Memorial hospital and Nursing Home
+
+        # Claremore, Oklahoma
+    Claremore Regional hospital
+
+        # Cleveland, Oklahoma
+    Cleveland Area hospital
+
+        # Lawton, Oklahoma
+    Comanche County Memorial hospital
+
+        # Oklahoma City, Oklahoma
+    Community hospital of Oklahoma City
+
+		# Eufaula, Oklahoma
+    Community hospital Lakeview
+        
+        # Bartlesville, Oklahoma
+    Continuous Care Centers of Bartlesville
+
+        # Tulsa, Oklahoma
+    Continuous Care Centers of OK
+
+        # Cordell, Oklahoma
+    Cordell Memorial hospital
+
+        # Vinita, Oklahoma
+    Craig General hospital
+
+        # Okemah, Oklahoma
+    Creek Nation Community hospital
+
+        # Cushing, Oklahoma
+    Cushing Regional hospital
+
+
+D
+        # Oklahoma City, Oklahoma
+    Deaconess hospital
+
+        # Drumright, Oklahoma
+    Drumright Regional hospital
+
+        # Duncan, Oklahoma
+    Duncan Regional hospital
+
+
+E
+        # Muskogee, Oklahoma
+    Eastar Health System
+
+        # Poteau, Oklahoma
+    Eastern Oklahoma medical Center
+
+        # Edmond, Oklahoma
+    Edmond medical Center
+
+        # Edmond, Oklahoma
+    Edmond Specialty hospital
+
+        # Hobart, Oklahoma
+    Elkview General hospital
+
+        # Eufaula, Oklahoma
+    Epic medical Center
+
+
+F
+        # Yukon, Oklahoma
+    Family medical Care Clinic
+
+        # Fairfax, Oklahoma
+    Fairfax Memorial hospital
+
+        # Fairview, Oklahoma
+    Fairview Regional medical Center
+
+
+
+G
+        # Okmulgee, Oklahoma
+    George Nigh Rehabilitation Institute
+
+        # Chickasha, Oklahoma
+    Grady Memorial hospital
+
+        # Elk City, Oklahoma
+    Great Plains Regional medical Center
+
+        # Norman, Oklahoma
+    Griffin Memorial hospital
+
+
+H
+        # Hollis, Oklahoma
+    Harmon Memorial hospital
+
+        # Buffalo, Oklahoma
+    Harper County Community hospital
+
+        # Stigler, Oklahoma
+    Haskell County Healthcare System
+
+        # Healdton, Oklahoma
+    Healdton Municipal hospital
+
+        # Henryetta, Oklahoma
+    Henryetta medical Center
+
+        # Tulsa, Oklahoma
+    Hillcrest hospital South
+
+        # Tulsa, Oklahoma
+    Hillcrest medical Center
+
+        # Tulsa, Oklahoma
+    Hillcrest Specialty hospital
+
+        # Holdenville, Oklahoma
+    Holdenville General hospital
+
+
+I
+        # Oklahoma City, Oklahoma
+    INTEGRIS Baptist medical Center
+
+        # Miami, Oklahoma
+    INTEGRIS Baptist Regional Health Center
+
+        # Enid, Oklahoma
+    INTEGRIS Bass Baptist Health Center
+
+		# Blackwell, Oklahoma
+    INTEGRIS Blackwell Regional hospital
+        
+        # Yukon, Oklahoma
+    INTEGRIS Canadian Valley Regional hospital
+
+        # Clinton, Oklahoma
+    INTEGRIS Clinton Regional hospital
+
+        # Grove, Oklahoma
+    INTEGRIS Grove hospital
+
+        # Edmond, Oklahoma
+    INTEGRIS Health Edmond
+
+        # Oklahoma City, Oklahoma
+    INTEGRIS Jim Thorpe Rehabilitation
+
+        # Madill, Oklahoma
+    INTEGRIS Marshall County medical Center
+
+        # Pryor, Oklahoma
+    INTEGRIS Mayes County medical Center
+
+        # Oklahoma City, Oklahoma
+    INTEGRIS Southwest medical Center
+
+
+
+J
+        # Altus, Oklahoma
+    Jackson County Memorial hospital
+
+        # Bartlesville, Oklahoma
+    Jane Phillips medical Center
+
+        # Nowata, Oklahoma
+    Jane Phillips Nowata Health Center
+
+        # Norman, Oklahoma
+    JD McCarty Center for Children
+
+        # Waurika, Oklahoma
+    Jefferson County hospital
+
+        # Tishomingo, Oklahoma
+    Johnston Memorial hospital
+
+
+
+K
+        # Oklahoma City, Oklahoma
+    Kindred hospital of Oklahoma City
+
+        # Kingfisher, Oklahoma
+    Kingfisher Regional hospital
+
+
+
+L
+        # Oklahoma City, Oklahoma
+    Lakeside Women's hospital
+
+        # Hugo, Oklahoma
+    Lane Frost Health and Rehabilitation Center
+
+        # Wilburton, Oklahoma
+    Latimer County General hospital
+
+        # Tulsa, Oklahoma
+    Laureate Psychiatric Clinic and hospital
+
+        # Lindsay, Oklahoma
+    Lindsay Municipal hospital
+
+        # Guthrie, Oklahoma
+    Logan medical Center
+
+
+M
+        # Mangum, Oklahoma
+    Mangum Community hospital
+
+        # Coalgate, Oklahoma
+    Mary Hurley hospital
+
+        # McAlester, Oklahoma
+    McAlester Regional Health Center
+
+        # Oklahoma City, Oklahoma
+    McBride Clinic Orthopedic hospital, LLC
+
+        # Idabel, Oklahoma
+    McCurtain Memorial hospital
+
+        # Tulsa, Oklahoma
+    MeadowBrook Specialty hospital of Tulsa
+
+        # Durant, Oklahoma
+    medical Center of Southeastern OK
+
+        # Frederick, Oklahoma
+    Memorial hospital & Physician Group
+
+        # Stilwell, Oklahoma
+    Memorial hospital of Stilwell
+
+        # Guymon, Oklahoma
+    Memorial hospital of Texas County
+
+        # Oklahoma City, Oklahoma
+    Mercy Health Center of Oklahoma City
+
+        # Marietta, Oklahoma
+    Mercy Health Love County
+
+        # Ardmore, Oklahoma
+    Mercy Memorial Health Center, Inc.
+
+        # Midwest City, Oklahoma
+    Midwest Regional medical Center
+
+        # Moore, Oklahoma
+    Moore medical Center
+
+        # Muskogee, Oklahoma
+    Muskogee Regional medical Center
+
+
+N
+        # Shattuck, Oklahoma
+    Newman Memorial hospital
+
+        # Norman, Oklahoma
+    Norman Regional Health System
+
+        # Norman, Oklahoma
+    Norman Regional hospital
+
+        # Norman, Oklahoma
+    Norman Specialty hospital
+
+        # Woodward, Oklahoma
+    Northwest Center for Behavioral Health
+
+		# Oklahoma City, Oklahoma
+    Northwest Surgical hospital
+        
+
+O
+        # Oklahoma City, Oklahoma
+    OK Center for Orthopaedic & Multi-Specialty hospital
+
+        # Okeene, Oklahoma
+    Okeene Municipal hospital
+
+        # Oklahoma City, Oklahoma
+    Oklahoma Heart hospital
+
+        # Oklahoma City, Oklahoma
+    Oklahoma Spine hospital
+
+        # Tulsa, Oklahoma
+    Oklahoma State University medical Center
+
+        # Okmulgee, Oklahoma
+    Okmulgee Memorial hospital
+
+        # Oklahoma City, Oklahoma
+    Orthopedic hospital of Oklahoma City
+
+        # Tulsa, Oklahoma
+    Orthopedic hospital of Oklahoma in Tulsa
+
+        # Oklahoma City, Oklahoma
+    OU medical Center
+
+
+P
+        # Tulsa, Oklahoma
+    Parkside Psychiatric hospital & Clinic
+
+        # El Reno, Oklahoma
+    Parkview hospital
+
+        # Pauls Valley, Oklahoma
+    Pauls Valley General hospital
+
+        # Pawhuska, Oklahoma
+    Pawhuska hospital
+
+        # Pawnee, Oklahoma
+    Pawnee Municipal hospital
+
+        # Perry, Oklahoma
+    Perry Memorial hospital
+
+        # Anadarko, Oklahoma
+    Physicians hospital in Anadarko
+
+        # Ponca City, Oklahoma
+    Ponca City medical Center
+
+        # Prague, Oklahoma
+    Prague Municipal hospital
+
+        # Purcell, Oklahoma
+    Purcell Municipal hospital
+
+        # Antlers, Oklahoma
+    Pushmataha hospital
+
+
+R
+        # Fort Sill, Oklahoma
+    Reynolds Army Community hospital
+
+        # Cheyenne, Oklahoma
+    Roger Mills Memorial hospital
+
+        # Ada, Oklahoma
+    Rolling Hills hospital
+
+
+S
+        # Tulsa, Oklahoma
+    Saint Francis Heart hospital
+
+        # Tulsa, Oklahoma
+    Saint Francis hospital
+
+        # Tulsa, Oklahoma
+    Saint Francis hospital South
+
+        # Sayre, Oklahoma
+    Sayre Memorial hospital
+
+        # Seiling, Oklahoma
+    Seiling Municipal hospital
+
+        # Oklahoma City, Oklahoma
+    Select Specialty hospital in Oklahoma City
+
+        # Tulsa, Oklahoma
+    Select Specialty hospital in Tulsa
+
+        # Seminole, Oklahoma
+    Seminole medical Center
+
+		# Sallisaw, Oklahoma
+    Sequoyah Memorial hospital & Home Care
+        
+        # Tulsa, Oklahoma
+    Shadow Mountain Behavioral Health System
+
+        # Alva, Oklahoma
+    Share medical Center
+
+        # Shawnee, Oklahoma
+    Solara hospital of Shawnee
+
+        # Tulsa, Oklahoma
+    SouthCrest hospital
+
+        # Lawton, Oklahoma
+    Southwestern medical Center
+
+        # Weatherford, Oklahoma
+    Southwestern Memorial hospital
+
+        # Tulsa, Oklahoma
+    Southwestern Regional medical Center
+
+        # Midwest City, Oklahoma
+    Specialty hospital of Midwest City
+
+        # Oklahoma City, Oklahoma
+    St. Anthony hospital
+
+        # Broken Arrow, Oklahoma
+    St. John Broken Arrow
+
+        # Tulsa, Oklahoma
+    St. John Health System
+
+        # Tulsa, Oklahoma
+    St. John medical Center
+
+        # Owasso, Oklahoma
+    St. John Owasso
+
+        # Sapulpa, Oklahoma
+    St. John Sapulpa
+
+        # Enid, Oklahoma
+    St. Mary's Regional medical Center
+
+        # Stillwater, Oklahoma
+    Stillwater medical Center
+
+        # Stroud, Oklahoma
+    Stroud Regional medical Center
+
+        # Oklahoma City, Oklahoma
+    Surgical hospital of Oklahoma
+
+        # Tahlequah, Oklahoma 
+    Tahlequah City hospital
+
+        # Tulsa, Oklahoma
+    Tulsa Spine & Specialty hospital
+
+        # Shawnee, Oklahoma 
+    Unity Health Center
+
+        # Claremore, Oklahoma
+    USPHS Indian hospital of Claremore
+
+        # Clinton, Oklahoma
+    USPHS Indian hospital of Clinton
+
+        # Lawton, Oklahoma
+    USPHS Indian hospital of Lawton
+
+ 
+        # Oklahoma City, Oklahoma
+    Valir Rehabilitation hospital
+
+        # Ada, Oklahoma
+    Valley View Regional hospital
+
+        # Oklahoma City, Oklahoma
+    Veterans Affairs medical Center of Oklahoma City
+
+        # Muskogee, Oklahoma
+    Veterans Affairs medical Center of Muskogee
+
+        # Wagoner, Oklahoma 
+    Wagoner Community hospital
+
+        # Watonga, Oklahoma
+    Watonga Municipal hospital
+
+        # Miami, Oklahoma
+    Willow Crest hospital
+
+        # Woodward, Oklahoma
+    Woodward Regional hospital
+
+        # Tahlequah, Oklahoma
+    W.W. Hastings Indian hospital

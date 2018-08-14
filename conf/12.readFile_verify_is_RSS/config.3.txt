@@ -1,0 +1,7 @@
+inFile=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/rss.us.tt.merged.nodup.txt.SET.3..txt
+start_line=-1
+end_line=-1
+outFile=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/rss.us.tt.merged.nodup_isRSS_true.SET.3..txt
+outFile_pastRunResultsFile=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/rss.us.tt.merged.nodup_pastResults.SET.3..txt
+is_Append_outFile=true
+is_Append_pastRunResultsFile=true

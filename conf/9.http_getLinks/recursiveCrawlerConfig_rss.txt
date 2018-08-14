@@ -1,0 +1,12 @@
+folder=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/
+outFileNameSuffix=.rss.us.tt.second_time_level_1.
+input_list_of_URL_in_a_file=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/rss_nodup_us.tt.level_0.txt
+output_Already_Crawled_File=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/Already_Crawled_File.txt
+start_tag=href
+end_tag=>
+FilterURLOnMatchedString=dummy
+FilterURLOnMatchedString.remarks=rss!!!publication!!!expert
+FilterURL_Omit_OnMatchedString=dummy
+Stop_Word_for_ExtractedText=dummy
+curr_level=1
+max_level=1

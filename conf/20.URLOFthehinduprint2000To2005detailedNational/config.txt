@@ -1,0 +1,10 @@
+Folder=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/
+is_Append_Failed_File=true
+is_Append_Success_File=true
+is_Append_outFile=true
+skip_is_english=true
+isDebug=false
+is_ignore_past_ran_success_file_for_skipping_url=false
+past_ran_success_file_for_skipping_url=thehindu.success.thehindu00-05-detailed.txt
+which_set_of_url=option1
+which_set_of_url.remark={option1,option2}

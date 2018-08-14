@@ -1,0 +1,6 @@
+Folder=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/
+is_Append_Failed_File=true
+is_Append_Success_File=true
+is_Append_outFile=true
+skip_is_english=true
+isDebug=false

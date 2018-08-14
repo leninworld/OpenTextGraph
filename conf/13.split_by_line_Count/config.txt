@@ -1,0 +1,2 @@
+inFile=/Users/lenin/Dropbox/workspace-sts-3.4.0.RELEASE.macmini/crawler/output/rss.us.tt.merged.nodup.txt
+number_of_output_File=3
