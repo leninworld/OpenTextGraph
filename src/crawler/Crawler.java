@@ -9461,23 +9461,23 @@ public class Crawler extends RecursiveAction {
 			
 			//THIS Option "17" is faster version of WEB instead of PRINT version,Both should have same news articles, check once
 			// pull thehinduweb
-			Get_NewsPaper_ArchiveURL.URLOFthehindu_print(
-										Folder + "thehindu-web-main"+pattern+".txt",
-										is_Append_outFile,
-										Folder,
-										Folder + "thehindu.allnewsArticles_thehindu_web_URL"+pattern+".txt",
-										"thehindu.failed.thehindu_web"+pattern+".txt", // failed_file
-										is_Append_Failed_File, // is_Append_Failed_File
-										"thehindu.success.thehindu_web"+pattern+".txt", // success_file
-										is_Append_Success_File, // is_Append_Success_File
-										skip_is_english, // skip_is_english
-										stop_pattern_for_url,// stop_pattern_for_url
-										min_year, max_year,
-										past_ran_success_file_for_skipping_url,
-										is_ignore_past_ran_success_file_for_skipping_url, //
-										kick_start_pattern_url, is_kick_start_pattern_url_true,
-										isDebug // is_Debug
-										);
+//			Get_NewsPaper_ArchiveURL.URLOFthehindu_print(
+//										Folder + "thehindu-web-main"+pattern+".txt",
+//										is_Append_outFile,
+//										Folder,
+//										Folder + "thehindu.allnewsArticles_thehindu_web_URL"+pattern+".txt",
+//										"thehindu.failed.thehindu_web"+pattern+".txt", // failed_file
+//										is_Append_Failed_File, // is_Append_Failed_File
+//										"thehindu.success.thehindu_web"+pattern+".txt", // success_file
+//										is_Append_Success_File, // is_Append_Success_File
+//										skip_is_english, // skip_is_english
+//										stop_pattern_for_url,// stop_pattern_for_url
+//										min_year, max_year,
+//										past_ran_success_file_for_skipping_url,
+//										is_ignore_past_ran_success_file_for_skipping_url, //
+//										kick_start_pattern_url, is_kick_start_pattern_url_true,
+//										isDebug // is_Debug
+//										);
 			// rm -rf thehindu-web.txt
 			// thehindu.allnewsArticles_thehindu_web_URL.txt
 			// thehindu.failed.thehindu_web.txt
@@ -9531,20 +9531,20 @@ public class Crawler extends RecursiveAction {
 			t0 = System.nanoTime();
 
 			// may be NO print version from 06-till date
-			Get_NewsPaper_ArchiveURL
-					.URLOFthehinduprint06ToTill(
-							Folder + "thehindu-06-to-till.txt",
-							is_Append_outFile, // is_Append_outFile
-							Folder,
-							Folder
-									+ "thehindu.allnewsArticles-thehindu-URL-Print-06-to-till.txt",
-							"thehindu.failed.thehindu-print-06-to-till.txt", // failed_file
-							is_Append_Failed_File, // is_Append_Failed_File
-							"thehindu.success.thehindu-print-06-to-till.txt", // success_file
-							is_Append_Success_File, // is_Append_Success_File
-							skip_is_english, // skip_is_english
-							true // is_Debug
-					);
+//			Get_NewsPaper_ArchiveURL
+//					.URLOFthehinduprint06ToTill(
+//							Folder + "thehindu-06-to-till.txt",
+//							is_Append_outFile, // is_Append_outFile
+//							Folder,
+//							Folder
+//									+ "thehindu.allnewsArticles-thehindu-URL-Print-06-to-till.txt",
+//							"thehindu.failed.thehindu-print-06-to-till.txt", // failed_file
+//							is_Append_Failed_File, // is_Append_Failed_File
+//							"thehindu.success.thehindu-print-06-to-till.txt", // success_file
+//							is_Append_Success_File, // is_Append_Success_File
+//							skip_is_english, // skip_is_english
+//							true // is_Debug
+//					);
 			// rm -rf thehindu-06-to-till.txt
 			// thehindu.allnewsArticles-thehindu-URL-Print-06-to-till.txt
 			// thehindu.failed.thehindu-print-06-to-till.txt
@@ -9754,22 +9754,22 @@ public class Crawler extends RecursiveAction {
 			t0 = System.nanoTime();
 
 			// from 23hdline to start
-			Get_NewsPaper_ArchiveURL
-					.URLOFthehinduprint2000To2005detailedNational(
-							Folder
-									+ "thehindu.main-wise-00-05-detailed-national.txt",
-							Folder,
-							Folder
-									+ "thehindu.all.print.state-wise-00-05-detailed-national.txt",
-							is_Append_outFile, // is_Append_outFileForSetOFnewsURLextractedFromEachMonthly
-							"thehindu.failed.thehindu00-05-detailed-national.txt", // failed_file
-							is_Append_Failed_File, // is_Append_Failed_File
-							"thehindu.success.thehindu00-05-detailed.txt", // success_file
-							is_Append_Success_File, // is_Append_Success_File
-							skip_is_english, // skip_is_english
-							past_ran_success_file_for_skipping_url,
-							is_ignore_past_ran_success_file_for_skipping_url,
-							isDebug);
+//			Get_NewsPaper_ArchiveURL
+//					.URLOFthehinduprint2000To2005detailedNational(
+//							Folder
+//									+ "thehindu.main-wise-00-05-detailed-national.txt",
+//							Folder,
+//							Folder
+//									+ "thehindu.all.print.state-wise-00-05-detailed-national.txt",
+//							is_Append_outFile, // is_Append_outFileForSetOFnewsURLextractedFromEachMonthly
+//							"thehindu.failed.thehindu00-05-detailed-national.txt", // failed_file
+//							is_Append_Failed_File, // is_Append_Failed_File
+//							"thehindu.success.thehindu00-05-detailed.txt", // success_file
+//							is_Append_Success_File, // is_Append_Success_File
+//							skip_is_english, // skip_is_english
+//							past_ran_success_file_for_skipping_url,
+//							is_ignore_past_ran_success_file_for_skipping_url,
+//							isDebug);
 			// rm -rf thehindu.main-wise-00-05-detailed-national.txt
 			// thehindu.all.print.state-wise-00-05-detailed-national.txt
 			// thehindu.failed.thehindu00-05-detailed-national.txt
@@ -9849,23 +9849,23 @@ public class Crawler extends RecursiveAction {
 			t0 = System.nanoTime();
 
 			// pull all the required news articles from base archives
-			Get_NewsPaper_ArchiveURL
-					.URLOFtimesofindia(
-							Folder + "timesofindia-main.txt",
-							true, // is_Append_outFile
-							Folder,
-							Folder
-									+ "timesofindia.allnewsArticles-times-of-india-URL.txt",
-							"timesofindia.failed.time_of_india.txt", // failed_file
-							true, // is_Append_Failed_File
-							"timesofindia.success.time_of_india.txt", // success_file
-							true, // is_Append_Success_File
-							true, // skip_is_english
-							stop_pattern_for_url,
-							past_ran_success_file_for_skipping_url,
-							is_ignore_past_ran_success_file_for_skipping_url,
-							false // isDebug
-					);
+//			Get_NewsPaper_ArchiveURL
+//					.URLOFtimesofindia(
+//							Folder + "timesofindia-main.txt",
+//							true, // is_Append_outFile
+//							Folder,
+//							Folder
+//									+ "timesofindia.allnewsArticles-times-of-india-URL.txt",
+//							"timesofindia.failed.time_of_india.txt", // failed_file
+//							true, // is_Append_Failed_File
+//							"timesofindia.success.time_of_india.txt", // success_file
+//							true, // is_Append_Success_File
+//							true, // skip_is_english
+//							stop_pattern_for_url,
+//							past_ran_success_file_for_skipping_url,
+//							is_ignore_past_ran_success_file_for_skipping_url,
+//							false // isDebug
+//					);
 
 		} else if (run_type.equalsIgnoreCase("main") && method_to_run.equalsIgnoreCase("22")) {
 			if (args.length > 0) {
