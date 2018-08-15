@@ -3,9 +3,6 @@ package crawler;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.TreeMap;
-
-import crawler.Get_NewsPaper_ArchiveURL;
 
 public class Datacollection_prep_shell_script_to_filter_required_lines_of_file {
 	
