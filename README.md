@@ -2,4 +2,4 @@ OpenTextGraph
 =============
 
 
-Documentation is [here](https://docs.google.com/spreadsheets/d/1GswLqsP-jkO0qSXA-Ih73zMcOW-brGm43VchJbyKLQ4/edit?usp=sharing)
+Documentation is [here](https://docs.google.com/spreadsheets/d/1bl1hNU3dGewLqgXWRr75PfjSDLRP2EaUWzwru0XCMIk/edit?usp=sharing)
