@@ -6,6 +6,9 @@ Documentation is [here](https://docs.google.com/spreadsheets/d/1bl1hNU3dGewLqgXW
 NLP:
 
 StanfordNLP Parsing
+
 OpenNLP Parsing
-Sentiment using StanfordNLP 
+
+Sentiment using StanfordNLP
+
 Parsing
